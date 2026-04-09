@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "entities": [
@@ -79,4 +80,87 @@
             }
         ]
     }
+=======
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "SPAIN",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q29",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Betic System",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q831469",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Carcabuey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q842679",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierra Subbética",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2284509"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "PROMI",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Subbética",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1117341"
+            }
+        ]
+    }
+>>>>>>> 837fb56cd3b0eb944fa4ccdb40c362587530e048
 ]

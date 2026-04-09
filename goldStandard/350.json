@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "entities": [
@@ -213,4 +214,221 @@
             }
         ]
     }
+=======
+[
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "SPAIN",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q29",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierras Cazorla, Segura and Las Villas",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1755523",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierra de Castril",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2284501",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Granada",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8810",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Betic System",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q831469",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Castril",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q555913",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Natura 2000 Network",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q503021",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Alps",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1286",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Spain",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q29",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Mediterranean",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4918",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UNESCO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7809",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Representative List of the Intangible Cultural Heritage of Humanity",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4435332",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Natural Park of Sierras Cazorla, Segura and Las Villas",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1755523",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Castril",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q555913",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Granada",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8810",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Jaén",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q15681",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierra Morena",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q686362",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Spanish",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q29",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Soria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q12155",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Cuenca",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q15098",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "La Rioja",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q5727",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Andalusia",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q5783"
+            },
+            {
+                "Wikipedia_label": "Sierras Cazorla, Segura and Las Villas",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1755523",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierra de Castril",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q555913",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Jaén",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q15681",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Granada",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8810",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierra Morena",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q686362",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierra Nevada",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q26955",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "European",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q46"
+            },
+            {
+                "Wikipedia_label": "Italy",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q38",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austria",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Greece",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q41",
+				"type":"ne"
+            }
+        ]
+    }
+>>>>>>> 837fb56cd3b0eb944fa4ccdb40c362587530e048
 ]

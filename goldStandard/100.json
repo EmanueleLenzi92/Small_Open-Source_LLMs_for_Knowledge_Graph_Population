@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "entities": [
@@ -228,4 +229,236 @@
             }
         ]
     }
+=======
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "GREECE",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q41",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Aloe vera",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q80079",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Minoan Land",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }, 
+            {
+                "Wikipedia_label": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }, 
+            {
+                "Wikipedia_label": "Cretan Diet Festival",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Dikti Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1225372",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VIANNOS",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q693813",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Pinus brutia",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q628329",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Quercus coccifera",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q158178",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Cupressus sempervirens",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q147513",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Quercus ilex",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q218155",
+				"type":"ne"
+            },
+
+            {
+                "Wikipedia_label": "Acer sempervirens",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1788044",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Dicte",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1225372"
+            },
+            {
+                "Wikipedia_label": "aloe vera",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q80079",
+				"type":"ne"
+            }
+        ]
+    },
+     {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Aloe vera",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q80079",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Dikti mountain",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1225372"
+            },
+            {
+                "Wikipedia_label": "Crete",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q34374",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Greece",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q41",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "European",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q46"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q46"
+            },
+            {
+                "Wikipedia_label": "Viannos",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q693813",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "North America",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q49",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Minoan Land",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "PanCretan Network",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Dikti Mountain",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1225372",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Aloe Vera",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q80079",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Dikti",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1225372",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Viannos",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q693813",
+				"type":"ne"
+            },
+                {
+                "Wikipedia_label": "Aloe Vera",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q80079",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+                {
+                "Wikipedia_label": "Aloe Vera",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q80079",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Dikti",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1225372",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Minoan Land",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [  
+            {
+                "Wikipedia_label": "Crete",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q34374",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Andalusia",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q5783",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Spain",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q29",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "European",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q46"
+            },
+                {
+                "Wikipedia_label": "Aloe Vera",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q80079",
+				"type":"ne"
+            }
+        ]
+    }
+>>>>>>> 837fb56cd3b0eb944fa4ccdb40c362587530e048
 ]

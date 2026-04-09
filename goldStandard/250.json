@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "entities": [
@@ -179,4 +180,187 @@
             }
         ]
     }
+=======
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "SCOTLAND",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q22",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "HUTTON",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q5951007",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Welsh",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q25"
+            },
+            {
+                "Wikipedia_label": "Caerphilly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q909119",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "West Wales",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3094812",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Caerphilly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q909119",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Wales",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q25",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Cardiff",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10690",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Newport",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q101254",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+        
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Caerphilly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q909119",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Somerset",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q23157",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Wiltshire",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q23183",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Castle Dairies",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "English",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q21"
+            },
+            {
+                "Wikipedia_label": "Big Cheese festival",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q96373526",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "International Cheese Awards",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6049165",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Big Cheese festival",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q96373526",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "caerphilly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q909119",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "England",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q21",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Caerphilly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q909119"
+            },
+            {
+                "Wikipedia_label": "England",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q21",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Caerphilly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q909119"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Caerphilly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q909119"
+            },
+            {
+                "Wikipedia_label": "Somerset",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q23157",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "South Somerset",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1379924",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Wiltshire",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q23183",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "England",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q21",
+				"type":"ne"
+            }
+        ]
+    }
+>>>>>>> 837fb56cd3b0eb944fa4ccdb40c362587530e048
 ]

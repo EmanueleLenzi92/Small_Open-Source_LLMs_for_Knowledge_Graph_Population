@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "entities": [
@@ -221,4 +222,229 @@
 
         ]
     }
+=======
+[
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "SPAIN",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q29",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "ATADES Gardeniers Special Employment Center",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Torres de Berrellén",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1628472",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Zaragoza",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10305",
+				"type":"ne"
+            },  
+            {
+                "Wikipedia_label": "Rural Development Program",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Aragon",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4040",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "European Agricultural Fund for Rural Development (EAFRD)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1377910",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Pyrenees",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q12431",
+				"type":"ne"
+            },   
+            {
+                "Wikipedia_label": "Cielos de Ascara",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Jaca",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q49581",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Pyrenean",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q12431"
+            },
+            {
+                "Wikipedia_label": "Ascara",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8206262",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Canal de Berdún",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q987419",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Huesca",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q11967",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Zaragoza",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10305",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Torres de Berrellén",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1628472",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Alagón",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1637315",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Montañana",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9034707",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Jacetania region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q549390",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Natura 2000",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q503021",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Cielos de Ascara",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Aragonese Pyrenees",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q12431",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Aragon",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4040",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Sites of Community Importance (SCI)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q796174",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Special Protection Area for Birds (SPA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2463705",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "San Juan de la Peña",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1389060",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Monte Oroel",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3054052",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Torres de Berrellén",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1628472",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Natural Park of the Western Valleys",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6063148",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q30282418",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Montañana",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9034707",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Special Employment Center Gardeniers of ATADES",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Mercazaragoza",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            }
+            
+
+        ]
+    }
+>>>>>>> 837fb56cd3b0eb944fa4ccdb40c362587530e048
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "entities": [
@@ -165,4 +166,173 @@
 
         ]
     }
+=======
+[
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "SPAIN",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q29",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Canary Islands",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q5813",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Gran Canaria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q178925",
+				"type":"ne"
+            },
+           {
+                "Wikipedia_label": "Biosphere Reserve of Gran Canaria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22678720",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "San Mateo",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q986353",
+				"type":"ne"
+            },  
+            {
+                "Wikipedia_label": "Tejeda",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q986361",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Artenara",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q706892",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Gran Canaria Island",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q178925",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Tejeda",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q986361",
+				"type":"ne"
+            },   
+           {
+                "Wikipedia_label": "Carbón de La Cumbre",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            } 
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+           {
+                "Wikipedia_label": "Gran Canaria Biosphere Reserve",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22678720",
+				"type":"ne"
+            },
+           {
+                "Wikipedia_label": "Asociación Charamusco Carboneros de la Cumbre",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            } ,
+           {
+                "Wikipedia_label": "Cabildo de Gran Canaria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            } ,
+           {
+                "Wikipedia_label": "CARBÓN DE LA CUMBRE",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            } 
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+           {
+                "Wikipedia_label": "Gran Canaria Biosphere Reserve",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22678720",
+				"type":"ne"
+            },
+           {
+                "Wikipedia_label": "Carbón de La Cumbre",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Gran Canaria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q178925",
+				"type":"ne"
+            },   
+            {
+                "Wikipedia_label": "FSC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q748367",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Forest Stewardship Council",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q748367",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "European",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q46"
+            },
+            {
+                "Wikipedia_label": "Andalusia",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q5783",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Basque Country",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q47588",
+				"type":"ne"
+            },   
+            {
+                "Wikipedia_label": "Navarre",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4018",
+				"type":"ne"
+            }           
+
+        ]
+    }
+>>>>>>> 837fb56cd3b0eb944fa4ccdb40c362587530e048
 ]

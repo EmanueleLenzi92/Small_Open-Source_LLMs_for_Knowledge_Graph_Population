@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "entities": [
@@ -130,4 +131,138 @@
             }
         ]
     }
+=======
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "GREECE",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q41",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "White Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1137982",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Kissamos",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q1021629",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Crete",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q34374",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Elos",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2291550",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Chania international airport",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1232348",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Souda bay",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2633779",
+				"type":"ne"
+            }
+        ]
+    },
+     {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Crete",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q34374",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Cretan",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q34374"
+            },
+            {
+                "Wikipedia_label": "Chania",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q182299",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Greek",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q41"
+            },
+            {
+                "Wikipedia_label": "Italian",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q38"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "White Mountains",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q1137982",
+				"type":"ne"
+				
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Greek",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Crete",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q34374",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Crete",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q34374",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Greece",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q41",
+				"type":"ne"
+            }
+        ]
+    }
+>>>>>>> 837fb56cd3b0eb944fa4ccdb40c362587530e048
 ]

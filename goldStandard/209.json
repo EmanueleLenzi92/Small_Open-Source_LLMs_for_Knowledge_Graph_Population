@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "entities": [
@@ -171,4 +172,179 @@
             } 			
         ]
     }
+=======
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "PORTUGAL",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q45",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "ESTRELA",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q738004",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Manteigas",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q986093",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Cordilheira Central",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Manteigas",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q986093",
+				"type":"ne"
+            },
+
+            {
+                "Wikipedia_label": "Guarda",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q750594",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Portugal",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q45",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Seia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q76017",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Covilhã",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q849026",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Zêzere Glacier Valley",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Portuguese",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q45"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Manteigas",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q986093",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Portuguese",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q45"
+            },
+            {
+                "Wikipedia_label": "Serra da Estrela",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q738004",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Serra da Estrela",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q738004",
+				"type":"ne"
+            },
+             {
+                "Wikipedia_label": "Rio Mondego",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q15656",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Gouveia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q599317",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rio Zêzere",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q15671",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Manteigas",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q986093",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rio Alva",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q2049877",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Seia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q76017",
+				"type":"ne"
+            },  
+                {
+                "Wikipedia_label": "Rio Alvôco",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q10361469",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Tagus",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q14294",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Mondego",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q15656",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Portuguese",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q45"
+            } 			
+        ]
+    }
+>>>>>>> 837fb56cd3b0eb944fa4ccdb40c362587530e048
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "entities": [
@@ -182,4 +183,190 @@
             }
         ]
     }
+=======
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Undredal Stølsysteri SA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Norwegian",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q20"
+            },
+            {
+                "Wikipedia_label": "Slowfood Foundation for Biodiversity",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q335823",
+				"type":"ne"
+            }, 
+          {
+                "Wikipedia_label": "Undredal Brown Cheese Presidium",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+          {
+                "Wikipedia_label": "Undredal",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1006480",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "SES",
+                "Wikidata_ID": "http://www.wikidata.org/entity/null"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Scandinavean Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q186547",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Scandes",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q186547",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Aurland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q486700",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Aurland Fiord",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45776",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Nærøyfjorden",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q212205",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sognefjorden",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q208495",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Nærøyfjord",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q212205"
+            },
+            {
+                "Wikipedia_label": "Geirangefjord",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q193989",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UNESCO World Heritage Site",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7809",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "West Norwegian Fjords",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q12269990",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Undredal",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q1006480",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Norway",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q20",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+ 
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Undfredal",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1006480",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Aureland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q486700",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Norsk Gardsost",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q115654781",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Norway",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q20",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Slowfood Presidium",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q335823",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Sweden",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q34",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Jämtland",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q211661",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Slowfood Foundation for Biodiversity",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q335823",
+				"type":"ne"
+            }
+        ]
+    }
+>>>>>>> 837fb56cd3b0eb944fa4ccdb40c362587530e048
 ]

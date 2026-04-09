@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "entities": [
@@ -111,4 +112,119 @@
 
         ]
     }
+=======
+[
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "AUSTRIA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Austrian Alps",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q327434",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Weiz",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q875641",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Styrian",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q41358",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Almenland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q998643",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+ 
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Almenland Nature Park",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Almenland Kräuter",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Almenland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q998643",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Genussregion",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "AgrarMarkt Austria",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Austrian",
+                "Wikidata_ID": "Q40"
+            }
+
+        ]
+    }
+>>>>>>> 837fb56cd3b0eb944fa4ccdb40c362587530e048
 ]

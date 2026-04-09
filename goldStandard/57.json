@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "entities": [
@@ -129,4 +130,137 @@
             }
         ]
     }
+=======
+[
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "CZECH REPUBLIC",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Jeseníky Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q280987",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Jeseník",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q954611",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Vsetín",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q513417",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Jesenik spa",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q954611",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Czechia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            },
+           {
+                "Wikipedia_label": "USA",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q30",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Czechia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+			},            
+            {
+                "Wikipedia_label": "Jesenik spa",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q3490322",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Priesnitz",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q113077",
+				"type":"ne"
+            }
+            
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Czechia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+				
+            },
+            {
+                "Wikipedia_label": "Slovakia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q214",
+				"type":"ne"
+				
+            }
+        ]
+    }
+>>>>>>> 837fb56cd3b0eb944fa4ccdb40c362587530e048
 ]
