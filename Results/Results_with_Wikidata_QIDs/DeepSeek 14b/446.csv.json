@@ -1,0 +1,108 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "General Directorate of Tea Enterprises (Çay-Kur)",
+                "original_value": "General Directorate of Tea Enterprises",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Eastern Black Sea Mountains",
+                "original_value": "Pontic_Alps",
+                "Wikidata_ID": "Q519263"
+            },
+            {
+                "originalKey": "Rize Province",
+                "original_value": "Rize",
+                "Wikidata_ID": "Q201101"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "Rainforest Alliance",
+                "original_value": "Rainforest Alliance",
+                "Wikidata_ID": "Q2034373"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rize region",
+                "original_value": "Rize Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "Turkish Patent and Trademark Office",
+                "original_value": "Turkish Patent Institute",
+                "Wikidata_ID": "Q7855305"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            }
+        ]
+    }
+]

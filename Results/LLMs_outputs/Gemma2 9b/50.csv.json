@@ -1,0 +1,128 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "EU",
+                "wikipedia_title": "European Union"
+            },
+            {
+                "named_entity_in_the_text": "Ostrava",
+                "wikipedia_title": "Ostrava"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Javorníky/Beskydy",
+                "wikipedia_title": "Beskids"
+            },
+            {
+                "named_entity_in_the_text": "Western Carpathian",
+                "wikipedia_title": "Western Carpathians"
+            },
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Valašský",
+                "wikipedia_title": "Valašsko"
+            },
+            {
+                "named_entity_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Italians",
+                "wikipedia_title": "Italian people"
+            },
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Vallachian region",
+                "wikipedia_title": "Wallachia"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Vallachian",
+                "wikipedia_title": "Vlachs"
+            },
+            {
+                "named_entity_in_the_text": "Vallachian region",
+                "wikipedia_title": "Wallachia"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    }
+]

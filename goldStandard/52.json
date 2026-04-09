@@ -1,0 +1,104 @@
+[
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "CZECH REPUBLIC",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Sumava",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q157290",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Cesky les",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3562810",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Klatovy",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q602976",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Germany",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q183",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Sumava Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q157290",
+				"type":"ne"
+            },   
+            {
+                "Wikipedia_label": "socialist-era (1950s-1989)",
+                "Wikidata_ID": "http://www.wikidata.org/entity/null"
+            },
+            {
+                "Wikipedia_label": "WII",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q362"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+			}
+            
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+				
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sumava - Cesky les",
+                "wikipedia_title": "Šumava"
+            },
+            {
+                "named_entity_in_the_text": "LAU 1 Klatovy",
+                "wikipedia_title": "Klatovy District"
+            },
+            {
+                "named_entity_in_the_text": "Germany",
+                "wikipedia_title": "Germany"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sumava Mountains",
+                "wikipedia_title": "Šumava"
+            },
+            {
+                "named_entity_in_the_text": "Winter",
+                "wikipedia_title": "Winter"
+            },
+            {
+                "named_entity_in_the_text": "Summer season",
+                "wikipedia_title": "Summer"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    }
+]

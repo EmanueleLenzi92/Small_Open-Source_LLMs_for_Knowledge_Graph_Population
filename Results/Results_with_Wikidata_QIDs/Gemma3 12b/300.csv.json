@@ -1,0 +1,99 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "Skandinavian UCO",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Roros",
+                "original_value": "Røros",
+                "Wikidata_ID": "Q131648592"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "original_value": "Rørosmat",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Scandes",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Tynset",
+                "original_value": "Tynset",
+                "Wikidata_ID": "Q2774548"
+            },
+            {
+                "originalKey": "Østerdalen",
+                "original_value": "Østerdalen",
+                "Wikidata_ID": "Q308349"
+            },
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "original_value": "Rørosmat",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Røros",
+                "original_value": "Røros",
+                "Wikidata_ID": "Q131648592"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rorosmat",
+                "original_value": "Rørosmat",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "hunters organization",
+                "original_value": "Hunting",
+                "Wikidata_ID": "Q36963"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Giant Mountains",
+                "original_value": "Giant Mountains",
+                "Wikidata_ID": "Q214644"
+            },
+            {
+                "originalKey": "LAU 1 Trutnov",
+                "original_value": "LAU 1 Trutnov",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Kralovehradecky",
+                "original_value": "Královehradecký kraj",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "wild boar",
+                "original_value": "Wild boar",
+                "Wikidata_ID": "Q58697"
+            },
+            {
+                "originalKey": "deer",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "pheasant",
+                "original_value": "Pheasant",
+                "Wikidata_ID": "Q214169"
+            },
+            {
+                "originalKey": "hare",
+                "original_value": "Hare",
+                "Wikidata_ID": "Q46076"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Vertical farming",
+                "Wikidata_ID": "Q1070535"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Poland",
+                "original_value": "Poland",
+                "Wikidata_ID": "Q36"
+            },
+            {
+                "originalKey": "Germany",
+                "original_value": "Germany",
+                "Wikidata_ID": "Q183"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            }
+        ]
+    }
+]

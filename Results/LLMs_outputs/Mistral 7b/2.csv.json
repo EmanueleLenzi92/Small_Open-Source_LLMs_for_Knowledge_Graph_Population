@@ -1,0 +1,186 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Almenland Stollenkäse GmbH",
+                "wikipedia_title": "Almenland Stollenkäse GmbH"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "RR 11",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "named_entity_in_the_text": "Weiz (No: 617)",
+                "wikipedia_title": "Weiz"
+            },
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "The average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "named_entity_in_the_text": "The per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "named_entity_in_the_text": "Almenland dairy",
+                "wikipedia_title": "Almenland Dairy"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "named_entity_in_the_text": "Genussregion",
+                "wikipedia_title": "Genussregion (region of culinary delight)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "cheese",
+                "wikipedia_title": "Cheese"
+            },
+            {
+                "named_entity_in_the_text": "silver mine",
+                "wikipedia_title": "Silver mining"
+            },
+            {
+                "named_entity_in_the_text": "Arzberger Ursteirer",
+                "wikipedia_title": "Arzberger Ursteirer"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "named_entity_in_the_text": "silver mine",
+                "wikipedia_title": "Silver mining"
+            }
+        ]
+    }
+]

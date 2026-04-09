@@ -1,0 +1,189 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "PORTUGAL ESTRELA",
+                "original_value": "Portugal Estrela",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Cordilheira Central",
+                "original_value": "Cordillera Central",
+                "Wikidata_ID": "Q299692"
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            },
+            {
+                "originalKey": "Guarda",
+                "original_value": "Guarda",
+                "Wikidata_ID": "Q299767"
+            },
+            {
+                "originalKey": "Portugal",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            },
+            {
+                "originalKey": "Seia",
+                "original_value": "Seia",
+                "Wikidata_ID": "Q76017"
+            },
+            {
+                "originalKey": "Covilhã",
+                "original_value": "Covilhã",
+                "Wikidata_ID": "Q849026"
+            },
+            {
+                "originalKey": "Zêzere Glacier Valley",
+                "original_value": "Zêzere Valley",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Portuguese",
+                "original_value": "Portuguese people",
+                "Wikidata_ID": "Q178630"
+            },
+            {
+                "originalKey": "Mountain",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Serra da Estrela",
+                "original_value": "Serra da Estrela",
+                "Wikidata_ID": "Q738004"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rio Mondego",
+                "original_value": "Rio Mondego",
+                "Wikidata_ID": "Q15656"
+            },
+            {
+                "originalKey": "Rio Zêzere",
+                "original_value": "Rio Zêzere",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rio Alva",
+                "original_value": "Rio Alva",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rio Alvôco",
+                "original_value": "Rio Alvôco",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Serra da Estrela",
+                "original_value": "Serra da Estrela",
+                "Wikidata_ID": "Q738004"
+            },
+            {
+                "originalKey": "Tagus",
+                "original_value": "Tagus River",
+                "Wikidata_ID": "Q14294"
+            },
+            {
+                "originalKey": "Mondego",
+                "original_value": "River Mondego",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gouveia",
+                "original_value": "Gouveia",
+                "Wikidata_ID": "Q416250"
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            },
+            {
+                "originalKey": "Seia",
+                "original_value": "Seia",
+                "Wikidata_ID": "Q76017"
+            },
+            {
+                "originalKey": "Portugal",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            }
+        ]
+    }
+]

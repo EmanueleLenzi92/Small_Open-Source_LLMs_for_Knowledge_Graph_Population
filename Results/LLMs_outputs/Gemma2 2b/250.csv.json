@@ -1,0 +1,246 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SCOTLAND HUTTON",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "VC 02 UK",
+                "wikipedia_title": "List of ISO 3166-1 country codes"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "named_entity_in_the_text": "Euopean Protected Georgaphical Indication (PGI)",
+                "wikipedia_title": "Protected Designation of Origin"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "West Wales",
+                "wikipedia_title": "Wales"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "Wales",
+                "wikipedia_title": "Wales"
+            },
+            {
+                "named_entity_in_the_text": "Cardiff",
+                "wikipedia_title": "Cardiff"
+            },
+            {
+                "named_entity_in_the_text": "Newport",
+                "wikipedia_title": "Newport"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "181.075",
+                "wikipedia_title": "NaN"
+            },
+            {
+                "named_entity_in_the_text": "652.79",
+                "wikipedia_title": "NaN"
+            },
+            {
+                "named_entity_in_the_text": "150.68",
+                "wikipedia_title": "NaN"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "Somerset",
+                "wikipedia_title": "Somerset"
+            },
+            {
+                "named_entity_in_the_text": "Wiltshire",
+                "wikipedia_title": "Wiltshire"
+            },
+            {
+                "named_entity_in_the_text": "Castle Dairies",
+                "wikipedia_title": "Castle Dairies"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly town",
+                "wikipedia_title": "Caerphilly Town"
+            },
+            {
+                "named_entity_in_the_text": "The Big Cheese",
+                "wikipedia_title": "Big Cheese Festival"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly Cheese"
+            },
+            {
+                "named_entity_in_the_text": "Big Cheese festival",
+                "wikipedia_title": "Big Cheese Festival"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "factory",
+                "wikipedia_title": "Factory"
+            },
+            {
+                "named_entity_in_the_text": "machine-based",
+                "wikipedia_title": "Machine-based"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "named_entity_in_the_text": "pre-war",
+                "wikipedia_title": "Pre-World War II"
+            },
+            {
+                "named_entity_in_the_text": "hand",
+                "wikipedia_title": "Handcrafting"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly town and surrounding area",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "named_entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "named_entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "named_entity_in_the_text": "Social",
+                "wikipedia_title": "Society"
+            },
+            {
+                "named_entity_in_the_text": "Cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Somerset",
+                "wikipedia_title": "Somerset"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    }
+]

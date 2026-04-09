@@ -1,0 +1,195 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "HUTTON",
+                "original_value": "Hutton, Scotland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ROSS AND CROMARTY",
+                "original_value": "Ross and Cromarty",
+                "Wikidata_ID": "Q1586842"
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "LEADER",
+                "original_value": "European Regional Development Fund",
+                "Wikidata_ID": "Q1361297"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Inverness",
+                "original_value": "Inverness",
+                "Wikidata_ID": "Q160493"
+            },
+            {
+                "originalKey": "Ross and Cromarty",
+                "original_value": "Ross and Cromarty",
+                "Wikidata_ID": "Q1586842"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province (economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (economics)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "197",
+                "original_value": "Not available",
+                "Wikidata_ID": "Q929804"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List of provinces in Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "List of regions of Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU1",
+                "original_value": "List of Local Administrative Units in Italy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "None",
+                "original_value": "None",
+                "Wikidata_ID": "Q395712"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scottish Government",
+                "original_value": "Scottish Government",
+                "Wikidata_ID": "Q32521"
+            },
+            {
+                "originalKey": "BREXIT",
+                "original_value": "Brexit",
+                "Wikidata_ID": "Q7888194"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "List of natural resources",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Social",
+                "original_value": "List of social sciences by category",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cultural",
+                "original_value": "List of cultural topics",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Argyll and Bute",
+                "original_value": "Argyll and Bute (UK constituency)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "Wikidata_ID": "Q145"
+            }
+        ]
+    }
+]

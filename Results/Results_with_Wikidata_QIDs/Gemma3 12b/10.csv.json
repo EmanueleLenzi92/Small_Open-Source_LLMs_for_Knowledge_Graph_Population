@@ -1,0 +1,130 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "East-Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "Raiffeisen",
+                "original_value": "Raiffeisen",
+                "Wikidata_ID": "Q1700182"
+            },
+            {
+                "originalKey": "Osttiroler Lämmerring",
+                "original_value": "Osttiroler Lämmerring",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "Lienz",
+                "original_value": "Lienz",
+                "Wikidata_ID": "Q336250"
+            },
+            {
+                "originalKey": "AT 333",
+                "original_value": "AT333 (NUTS 1-3 region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "Tyrol",
+                "original_value": "Tyrol",
+                "Wikidata_ID": "Q153809"
+            },
+            {
+                "originalKey": "Hohe Tauern",
+                "original_value": "Hohe Tauern",
+                "Wikidata_ID": "Q679359"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Gailtal valley",
+                "original_value": "Gail Valley",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "original_value": "Agrarmarkt Austria",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            }
+        ]
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "White Mountains",
+                "wikipedia_title": "White Mountains (Greece)"
+            },
+            {
+                "named_entity_in_the_text": "KISSAMOS",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Elos",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "named_entity_in_the_text": "Chania international airport",
+                "wikipedia_title": "Chania International Airport"
+            },
+            {
+                "named_entity_in_the_text": "Souda bay international harbor",
+                "wikipedia_title": "Souda Bay"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Chania",
+                "wikipedia_title": "Chania"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Italy",
+                "wikipedia_title": "Italy"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Western White Mountains",
+                "wikipedia_title": "White Mountains (New Hampshire)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Region of Crete",
+                "wikipedia_title": "Crete"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    }
+]

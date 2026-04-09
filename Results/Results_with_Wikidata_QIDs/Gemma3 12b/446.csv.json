@@ -1,0 +1,115 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "TURKEY",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize_Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "Çay-Kur",
+                "original_value": "Çaykur",
+                "Wikidata_ID": "Q6021512"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Eastern Black Sea Mountains",
+                "original_value": "Eastern Black Sea Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Güneysu",
+                "original_value": "Güneysu, Rize",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rize Province",
+                "original_value": "Rize Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize",
+                "Wikidata_ID": "Q201101"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize",
+                "Wikidata_ID": "Q201101"
+            },
+            {
+                "originalKey": "Rize Province",
+                "original_value": "Rize Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize_Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "Turkish Patent and Trademark Office",
+                "original_value": "Turkish_Patent_and_Trademark_Office",
+                "Wikidata_ID": "Q7855305"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            }
+        ]
+    }
+]

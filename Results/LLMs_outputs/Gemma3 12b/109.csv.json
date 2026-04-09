@@ -1,0 +1,89 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Pelium",
+                "wikipedia_title": "Mount Pelion"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pelium Mountain",
+                "wikipedia_title": "Pelion"
+            },
+            {
+                "named_entity_in_the_text": "Zagora",
+                "wikipedia_title": "Zagora, Magnesia"
+            },
+            {
+                "named_entity_in_the_text": "Volos",
+                "wikipedia_title": "Volos"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Zagora",
+                "wikipedia_title": "Zagora, Thessaly"
+            },
+            {
+                "named_entity_in_the_text": "Pelium mountain",
+                "wikipedia_title": "Pelion"
+            },
+            {
+                "named_entity_in_the_text": "Thessaly",
+                "wikipedia_title": "Thessaly"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Zagora",
+                "wikipedia_title": "Zagora,_Greece"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "EU",
+                "wikipedia_title": "European Union"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MRL",
+                "wikipedia_title": "Morelos"
+            }
+        ]
+    }
+]

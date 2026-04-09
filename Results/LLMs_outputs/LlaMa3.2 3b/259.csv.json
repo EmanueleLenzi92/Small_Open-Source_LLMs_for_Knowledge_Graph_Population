@@ -1,0 +1,165 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "SCOTLAND",
+        "wikipedia_title": "Scotland"
+      },
+      {
+        "named_entity_in_the_text": "HUTTON",
+        "wikipedia_title": "Hutton, Scotland"
+      },
+      {
+        "named_entity_in_the_text": "ROSS AND CROMARTY",
+        "wikipedia_title": "Ross and Cromarty"
+      },
+      {
+        "named_entity_in_the_text": "UK",
+        "wikipedia_title": "United Kingdom"
+      },
+      {
+        "named_entity_in_the_text": "LEADER",
+        "wikipedia_title": "European Regional Development Fund"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Scotland",
+        "wikipedia_title": "Scotland"
+      },
+      {
+        "named_entity_in_the_text": "Inverness",
+        "wikipedia_title": "Inverness"
+      },
+      {
+        "named_entity_in_the_text": "Ross and Cromarty",
+        "wikipedia_title": "Ross and Cromarty"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Province",
+        "wikipedia_title": "Province (economics)"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Region (economics)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "197",
+        "wikipedia_title": "Not available"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "List of provinces in Canada"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "List of regions of Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU1",
+        "wikipedia_title": "List of Local Administrative Units in Italy"
+      },
+      {
+        "named_entity_in_the_text": "None",
+        "wikipedia_title": "None"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Scottish Government",
+        "wikipedia_title": "Scottish Government"
+      },
+      {
+        "named_entity_in_the_text": "BREXIT",
+        "wikipedia_title": "Brexit"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Forestry",
+        "wikipedia_title": "Forestry"
+      },
+      {
+        "named_entity_in_the_text": "Natural",
+        "wikipedia_title": "List of natural resources"
+      },
+      {
+        "named_entity_in_the_text": "Social",
+        "wikipedia_title": "List of social sciences by category"
+      },
+      {
+        "named_entity_in_the_text": "Cultural",
+        "wikipedia_title": "List of cultural topics"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Argyll and Bute",
+        "wikipedia_title": "Argyll and Bute (UK constituency)"
+      },
+      {
+        "named_entity_in_the_text": "Aberdeenshire",
+        "wikipedia_title": "Aberdeenshire"
+      },
+      {
+        "named_entity_in_the_text": "Scotland",
+        "wikipedia_title": "Scotland"
+      },
+      {
+        "named_entity_in_the_text": "UK",
+        "wikipedia_title": "United Kingdom"
+      }
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "Ostrava",
+                "original_value": "Ostrava",
+                "Wikidata_ID": "Q8385"
+            },
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Wallachian Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskids Mountains",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Javorníky/Beskydy (Western Carpathian) mountains",
+                "original_value": "Javorníky and Beskydy mountain ranges",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU 1 Vsetín",
+                "original_value": "Vsetín Region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit (Italy)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regions of Italy",
+                "Wikidata_ID": "Q16110"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Valašský region",
+                "original_value": "Vallachia",
+                "Wikidata_ID": "Q171393"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Wallachia",
+                "Wikidata_ID": "Q171393"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian",
+                "original_value": "Valašsko",
+                "Wikidata_ID": "Q1957265"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskidské Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Vallachia",
+                "Wikidata_ID": "Q171393"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    }
+]

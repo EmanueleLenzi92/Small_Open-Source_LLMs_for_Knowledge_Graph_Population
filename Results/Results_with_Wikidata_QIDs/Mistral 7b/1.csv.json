@@ -1,0 +1,316 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state of this VC",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "ALMO is a label for quality ox products",
+                "original_value": "Almo Steirisches Almochsenfleisch",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Association Steirische Bergland Marktgemeinschaft",
+                "original_value": "Steirische Bergland Marktgemeinschaft",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland Marketing GmbH",
+                "original_value": "Almenland Marketing GmbH",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Urlaub am Bauernhof",
+                "original_value": "Urlaub am Bauernhof",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Austrian Program for Environmentally Sound Agriculture (ÖPUL)",
+                "original_value": "ÖPUL",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Genussregion Almenland",
+                "original_value": "Genussregion Almenland",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "RR 11",
+                "original_value": "Austrian Alps",
+                "Wikidata_ID": "Q190348"
+            },
+            {
+                "originalKey": "Weiz (No: 617)",
+                "original_value": "Weiz",
+                "Wikidata_ID": "Q875641"
+            },
+            {
+                "originalKey": "Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional population density",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The average per capita income (EUR/year) [Province]",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year [Province]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "The per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year [Region]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "ALMO (alpine oxen farmers association)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+                "original_value": "Leader region Almenland and Energieregion Weiz-Gleisdorf",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "own regional slaughter house",
+                "original_value": "Regional slaughterhouse",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ALMO serving as lead product",
+                "original_value": "ALMO (company)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture farming has a tradition over centuries",
+                "original_value": "Pasture farming",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "extrem weather conditions",
+                "original_value": "Extreme weather",
+                "Wikidata_ID": "Q1277161"
+            },
+            {
+                "originalKey": "drought",
+                "original_value": "Drought",
+                "Wikidata_ID": "Q43059"
+            },
+            {
+                "originalKey": "heavy rain",
+                "original_value": "Heavy rain",
+                "Wikidata_ID": "Q647855"
+            },
+            {
+                "originalKey": "pasture based meat production",
+                "original_value": "Pasture-based meat production",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "vegetation",
+                "original_value": "Vegetation",
+                "Wikidata_ID": "Q187997"
+            },
+            {
+                "originalKey": "cultivation of feed for the winter time",
+                "original_value": "Winter crop cultivation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "alpine pasture areas",
+                "original_value": "Alpine pastures",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q226542"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "original_value": "Innovation in agriculture",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "ALMO key persons",
+                "original_value": "ALMO",
+                "Wikidata_ID": "Q4793851"
+            },
+            {
+                "originalKey": "LEADER for different projects",
+                "original_value": "LEADER",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "farmers in cooperation with one of the business partners",
+                "original_value": "Farming",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "consultant (innovation based practice and academic knowledge)",
+                "original_value": "Consultancy",
+                "Wikidata_ID": "Q15978655"
+            },
+            {
+                "originalKey": "System Haberl",
+                "original_value": "Haberl",
+                "Wikidata_ID": "Q56244865"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Lower Austria (NUTS-II AT 12)",
+                "original_value": "Lower Austria",
+                "Wikidata_ID": "Q42497"
+            },
+            {
+                "originalKey": "Carinthia (NUTS-II AT 21)",
+                "original_value": "Carinthia",
+                "Wikidata_ID": "Q37985"
+            }
+        ]
+    }
+]

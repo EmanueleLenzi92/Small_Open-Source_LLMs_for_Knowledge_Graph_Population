@@ -1,0 +1,103 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "GREECE",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q41",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Pelium",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q1334825",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Pelium Mountain",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1334825",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Zagora",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q2466197",
+				"type":"ne"
+            },
+
+            {
+                "Wikipedia_label": "Volos",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q200036",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Zagora",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q2466197",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Pelium mountain",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1334825",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Thessaly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q166919",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Greek",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Zagora",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q2466197",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    }
+]

@@ -1,0 +1,321 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "VC 04 UK",
+                "original_value": "Value Chain (VC)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Highlands and Islands of Scotland",
+                "original_value": "Highlands and Islands",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Blair Atholl Estates",
+                "original_value": "Blair Atholl Estates",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Glen Lyon",
+                "original_value": "Glen Lyon",
+                "Wikidata_ID": "Q2451934"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highlands and Islands",
+                "original_value": "Highlands and Islands",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Eastern Scotland",
+                "original_value": "Eastern Scotland",
+                "Wikidata_ID": "Q4391979"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "regional population",
+                "original_value": "Regional population",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sporting game",
+                "original_value": "Game hunting",
+                "Wikidata_ID": "Q640682"
+            },
+            {
+                "originalKey": "Scottish estates",
+                "original_value": "Estate in Scotland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Deer stalking",
+                "original_value": "Deer stalking",
+                "Wikidata_ID": "Q16249440"
+            },
+            {
+                "originalKey": "Vension meat",
+                "original_value": "Venison",
+                "Wikidata_ID": "Q2296872"
+            },
+            {
+                "originalKey": "Scottish Quality Wild Vensions",
+                "original_value": "Scottish Quality Wild Venison",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Atholl estate",
+                "original_value": "Atholl Estates",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Blair Atholl and Glen Lyon estate",
+                "original_value": "Blair Atholl and Glen Lyon Estate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "natural assets",
+                "original_value": "Natural resources",
+                "Wikidata_ID": "Q188460"
+            },
+            {
+                "originalKey": "wild (but managed) land",
+                "original_value": "Wildlife conservation",
+                "Wikidata_ID": "Q766328"
+            },
+            {
+                "originalKey": "deer and grouse",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "scenery for stalking visitors",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "local communities living and working near and in these stalking estates (i.e., for tourist accommodation)",
+                "original_value": "Community development",
+                "Wikidata_ID": "Q718998"
+            },
+            {
+                "originalKey": "hikers",
+                "original_value": "Hiking",
+                "Wikidata_ID": "Q12014035"
+            },
+            {
+                "originalKey": "wildlife conservation organizations",
+                "original_value": "Wildlife conservation",
+                "Wikidata_ID": "Q766328"
+            },
+            {
+                "originalKey": "traditional and local knowledge for stalking practices, processes and habitat management",
+                "original_value": "Traditional ecological knowledge",
+                "Wikidata_ID": "Q7832334"
+            },
+            {
+                "originalKey": "processes for deer stalking have remained largely the same for centuries",
+                "original_value": "Deer hunting",
+                "Wikidata_ID": "Q1025479"
+            },
+            {
+                "originalKey": "ponies to remove deer trophies from the moutain",
+                "original_value": "Horseback riding",
+                "Wikidata_ID": "Q179226"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q226542"
+            },
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "hillwalking",
+                "original_value": "Hillwalking",
+                "Wikidata_ID": "Q11347618"
+            },
+            {
+                "originalKey": "COVID",
+                "original_value": "COVID-19 pandemic",
+                "Wikidata_ID": "Q81068910"
+            },
+            {
+                "originalKey": "mountain hares",
+                "original_value": "Mountain hare",
+                "Wikidata_ID": "Q180035"
+            },
+            {
+                "originalKey": "gorse",
+                "original_value": "Gorse",
+                "Wikidata_ID": "Q393278"
+            },
+            {
+                "originalKey": "deer",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "raptors",
+                "original_value": "Raptor",
+                "Wikidata_ID": "Q137956"
+            },
+            {
+                "originalKey": "venison",
+                "original_value": "Venison",
+                "Wikidata_ID": "Q2296872"
+            },
+            {
+                "originalKey": "Brexit",
+                "original_value": "Brexit",
+                "Wikidata_ID": "Q7888194"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Deer stalking",
+                "original_value": "Deer stalking",
+                "Wikidata_ID": "Q16249440"
+            },
+            {
+                "originalKey": "Highland and Islands NUT3 region of Scotland",
+                "original_value": "Highland and Islands (NUTS3)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "Badendoch and Strathsphey LAU1 areas",
+                "original_value": "Badendoch and Strathspey (LAU1)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Grouse shooting",
+                "original_value": "Grouse shooting",
+                "Wikidata_ID": "Q5307967"
+            },
+            {
+                "originalKey": "NUTS3 regions",
+                "original_value": "NUTS3 (Nomenclature of Territorial Units for Statistics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "North east and North West England",
+                "original_value": "North East England",
+                "Wikidata_ID": "Q47983"
+            }
+        ]
+    }
+]

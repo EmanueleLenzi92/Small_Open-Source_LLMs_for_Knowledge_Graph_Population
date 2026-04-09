@@ -1,0 +1,154 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SCOTLAND",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "HUTTON",
+                "wikipedia_title": "Hutton (surname)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "West Wales",
+                "wikipedia_title": "West_Wales"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "Wales",
+                "wikipedia_title": "Wales"
+            },
+            {
+                "named_entity_in_the_text": "Cardiff",
+                "wikipedia_title": "Cardiff"
+            },
+            {
+                "named_entity_in_the_text": "Newport",
+                "wikipedia_title": "Newport,_Wales"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Spain"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Autonomous_communities_of_Spain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_[Country]"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_[Country]"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "Somerset",
+                "wikipedia_title": "Somerset"
+            },
+            {
+                "named_entity_in_the_text": "Wiltshire",
+                "wikipedia_title": "Wiltshire"
+            },
+            {
+                "named_entity_in_the_text": "Castle Dairies",
+                "wikipedia_title": "None (company)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly_cheese"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Somerset",
+                "wikipedia_title": "Somerset"
+            },
+            {
+                "named_entity_in_the_text": "Wiltshire",
+                "wikipedia_title": "Wiltshire"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    }
+]

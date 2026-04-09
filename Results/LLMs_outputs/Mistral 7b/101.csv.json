@@ -1,0 +1,242 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MOVING",
+                "wikipedia_title": "MOVING (Value Chain)"
+            },
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "VC 10 GR",
+                "wikipedia_title": "VC 10 GR"
+            },
+            {
+                "named_entity_in_the_text": "chestnut trees",
+                "wikipedia_title": "Chestnut tree"
+            },
+            {
+                "named_entity_in_the_text": "farmers",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "named_entity_in_the_text": "local government",
+                "wikipedia_title": "Local government"
+            },
+            {
+                "named_entity_in_the_text": "academic institutions",
+                "wikipedia_title": "Academic institution"
+            },
+            {
+                "named_entity_in_the_text": "local catering and tourism",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "named_entity_in_the_text": "small firms of standardization, packaging, promotion and marketing",
+                "wikipedia_title": "Small business"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "White Mountains",
+                "wikipedia_title": "White Mountains (Crete)"
+            },
+            {
+                "named_entity_in_the_text": "KISSAMOS",
+                "wikipedia_title": "Kissamos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "The average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "named_entity_in_the_text": "The per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Chestnut trees",
+                "wikipedia_title": "Chestnut"
+            },
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Chania",
+                "wikipedia_title": "Chania"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Western White Mountains",
+                "wikipedia_title": "Western White Mountains"
+            },
+            {
+                "named_entity_in_the_text": "chestnut activities",
+                "wikipedia_title": "Chestnut cultivation and preservation"
+            },
+            {
+                "named_entity_in_the_text": "3-days chestnut festival",
+                "wikipedia_title": "Chestnut festivals"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "chestnut trees",
+                "wikipedia_title": "Chestnut"
+            },
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "traditional farmers",
+                "wikipedia_title": "Traditional agriculture"
+            },
+            {
+                "named_entity_in_the_text": "economic crisis",
+                "wikipedia_title": "Economic crisis"
+            },
+            {
+                "named_entity_in_the_text": "chestnut cultivation/exploitation",
+                "wikipedia_title": "Chestnut cultivation"
+            },
+            {
+                "named_entity_in_the_text": "local farmers",
+                "wikipedia_title": "Local agriculture"
+            },
+            {
+                "named_entity_in_the_text": "competitive agricultural activities (e.g. olive oil trees)",
+                "wikipedia_title": "Olive oil"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "academic institutions",
+                "wikipedia_title": "Academic institution"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "chestnut trees",
+                "wikipedia_title": "Chestnut"
+            },
+            {
+                "named_entity_in_the_text": "mountainous areas all over Crete",
+                "wikipedia_title": "Mountains of Crete"
+            },
+            {
+                "named_entity_in_the_text": "VCs exist in other areas of Greece",
+                "wikipedia_title": "Villages in Greece"
+            }
+        ]
+    }
+]

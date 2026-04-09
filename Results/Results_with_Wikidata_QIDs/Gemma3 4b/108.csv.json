@@ -1,0 +1,165 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Greek",
+                "original_value": "Greek people",
+                "Wikidata_ID": "Q539051"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "HELMOS / KILLINI",
+                "original_value": "Helmos",
+                "Wikidata_ID": "Q630782"
+            },
+            {
+                "originalKey": "Ziria",
+                "original_value": "Ziria Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "KORINTHIA",
+                "original_value": "Corinthia",
+                "Wikidata_ID": "Q208306"
+            },
+            {
+                "originalKey": "Feneos Plateau",
+                "original_value": "None",
+                "Wikidata_ID": "Q395712"
+            },
+            {
+                "originalKey": "Ziria 2374m",
+                "original_value": "Ziria Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Chelmos (Aroania) 2355m",
+                "original_value": "Monts Pelops",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Oligyrtos 1935m",
+                "original_value": "Olympas",
+                "Wikidata_ID": "Q1989038"
+            },
+            {
+                "originalKey": "Saitas 1697m",
+                "original_value": "None",
+                "Wikidata_ID": "Q395712"
+            },
+            {
+                "originalKey": "Patras",
+                "original_value": "Patras",
+                "Wikidata_ID": "Q133123"
+            },
+            {
+                "originalKey": "Athens",
+                "original_value": "Athens",
+                "Wikidata_ID": "Q1524"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            },
+            {
+                "originalKey": "Peloponnese",
+                "original_value": "Peloponnese",
+                "Wikidata_ID": "Q78967"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos (village)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos legumes",
+                "original_value": "Fennec fox",
+                "Wikidata_ID": "Q131564"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "municipality administration",
+                "original_value": "Municipality",
+                "Wikidata_ID": "Q15284"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Western Macedonia",
+                "original_value": "Western Macedonia",
+                "Wikidata_ID": "Q165408"
+            }
+        ]
+    }
+]

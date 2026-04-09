@@ -1,0 +1,155 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Undredal Stølsysteri SA",
+                "original_value": "Undredal Stølsysteri",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Slowfood Foundation for Biodiversity",
+                "original_value": "Slow Food International",
+                "Wikidata_ID": "Q335823"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "original_value": "Scandes",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Aurland",
+                "original_value": "Aurland",
+                "Wikidata_ID": "Q137638989"
+            },
+            {
+                "originalKey": "Nærøyfjorden",
+                "original_value": "Nærøyfjord",
+                "Wikidata_ID": "Q212205"
+            },
+            {
+                "originalKey": "Sognefjorden",
+                "original_value": "Sognefjord",
+                "Wikidata_ID": "Q208495"
+            },
+            {
+                "originalKey": "West Norwegian Fjords of Geirangefjord and Nærøyfjord UNESCO World Heritage Site",
+                "original_value": "Geirangerfjord_and_Nærøyfjord",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Undredal",
+                "original_value": "Undredal",
+                "Wikidata_ID": "Q1006480"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_of_Spain",
+                "Wikidata_ID": "Q162620"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Autonomous_communities_of_Spain",
+                "Wikidata_ID": "Q10742"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_and_territories_of_Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Economic_regions_of_Canada",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Undfredal",
+                "original_value": "Undredal",
+                "Wikidata_ID": "Q1006480"
+            },
+            {
+                "originalKey": "Aureland",
+                "original_value": "Åureland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Norsk Gardsost",
+                "original_value": "Norsk Gårdsost",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sweden",
+                "original_value": "Sweden",
+                "Wikidata_ID": "Q34"
+            },
+            {
+                "originalKey": "Jämtland",
+                "original_value": "Jämtland County",
+                "Wikidata_ID": "Q103679"
+            }
+        ]
+    }
+]

@@ -1,0 +1,175 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "VC 17 GR",
+                "original_value": null,
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Helmos / Killini",
+                "original_value": "Mount Helmos",
+                "Wikidata_ID": "Q630782"
+            },
+            {
+                "originalKey": "Ziria",
+                "original_value": "Mount Ziria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Korinthia",
+                "original_value": "Corinthia (regional unit)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Feneos Plateau",
+                "original_value": null,
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Chelmos (Aroania)",
+                "original_value": "Mount Chelmos",
+                "Wikidata_ID": "Q630782"
+            },
+            {
+                "originalKey": "Oligyrtos",
+                "original_value": "Mount Oligyrtos",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Saitas",
+                "original_value": null,
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Patras",
+                "original_value": "Patras",
+                "Wikidata_ID": "Q133123"
+            },
+            {
+                "originalKey": "Athens",
+                "original_value": "Athens",
+                "Wikidata_ID": "Q1524"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": null,
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": null,
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            },
+            {
+                "originalKey": "Peloponnese",
+                "original_value": "Peloponnese",
+                "Wikidata_ID": "Q78967"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "municipality administration",
+                "original_value": "Municipal government",
+                "Wikidata_ID": "Q15284"
+            },
+            {
+                "originalKey": "geographic indication (PGI)",
+                "original_value": "Protected geographical indication",
+                "Wikidata_ID": "Q363268"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Western Macedonia",
+                "original_value": "Western Macedonia",
+                "Wikidata_ID": "Q165408"
+            },
+            {
+                "originalKey": "MRL - NUTS3 : EL531, EL532, EL533",
+                "original_value": null,
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

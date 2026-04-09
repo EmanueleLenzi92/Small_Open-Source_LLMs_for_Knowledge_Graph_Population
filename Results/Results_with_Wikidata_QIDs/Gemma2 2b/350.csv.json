@@ -1,0 +1,316 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN ADEGUA",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "Sierras Cazorla, Segura and Las Villas",
+                "original_value": "Sierra de Cazorla, Segura y Las Villas",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Granada",
+                "Wikidata_ID": "Q8810"
+            },
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Betic System",
+                "original_value": "Betics",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Castril",
+                "original_value": "Castril",
+                "Wikidata_ID": "Q555913"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "750",
+                "original_value": "Minimum altimetry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1950",
+                "original_value": "Maximum altimetry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "2.02",
+                "original_value": "Total population (in thousand)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "8.31",
+                "original_value": "Population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-17.60%",
+                "original_value": "Population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "97",
+                "original_value": "Overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-1.10%",
+                "original_value": "Regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Europe",
+                "Wikidata_ID": "Q6470668"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "Mediterranean area",
+                "original_value": "Mediterranean Sea",
+                "Wikidata_ID": "Q4918"
+            },
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "Spain",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "UNESCO",
+                "original_value": "UNESCO",
+                "Wikidata_ID": "Q7809"
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "Wikidata_ID": "Q46"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "livestock transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+                "original_value": "Sierras de Cazorla, Segura y Las Villas Natural Park",
+                "Wikidata_ID": "Q1755523"
+            },
+            {
+                "originalKey": "Jaén",
+                "original_value": "Jaén",
+                "Wikidata_ID": "Q230847"
+            },
+            {
+                "originalKey": "Castril",
+                "original_value": "Castril",
+                "Wikidata_ID": "Q555913"
+            },
+            {
+                "originalKey": "Sierra Morena",
+                "original_value": "Sierra Morena",
+                "Wikidata_ID": "Q686362"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "shepherds",
+                "original_value": "Shepherd",
+                "Wikidata_ID": "Q81710"
+            },
+            {
+                "originalKey": "livestock",
+                "original_value": "Livestock",
+                "Wikidata_ID": "Q103459"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Soria",
+                "original_value": "Province of Soria",
+                "Wikidata_ID": "Q55276"
+            },
+            {
+                "originalKey": "Cuenca",
+                "original_value": "Cuenca, Spain",
+                "Wikidata_ID": "Q15098"
+            },
+            {
+                "originalKey": "La Rioja",
+                "original_value": "La Rioja",
+                "Wikidata_ID": "Q5727"
+            },
+            {
+                "originalKey": "Andalusia",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            },
+            {
+                "originalKey": "Sierras of Cazorla, Segura and Las Villas",
+                "original_value": "Sierra de Cazorla",
+                "Wikidata_ID": "Q7511639"
+            },
+            {
+                "originalKey": "Jaén",
+                "original_value": "Province of Jaén",
+                "Wikidata_ID": "Q230847"
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Granada, Spain",
+                "Wikidata_ID": "Q8810"
+            },
+            {
+                "originalKey": "Sierra de Castril",
+                "original_value": "Sierra de Castril",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Sierra Nevada",
+                "original_value": "Sierra Nevada",
+                "Wikidata_ID": "Q26777"
+            },
+            {
+                "originalKey": "Italy",
+                "original_value": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    }
+]

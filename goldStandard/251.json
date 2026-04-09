@@ -1,0 +1,195 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "SCOTLAND",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q22",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "HUTTON",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q5951007",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UK",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q145",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Perth and Kinross",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q207679",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Scottish",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q22"
+            },
+            {
+                "Wikipedia_label": "Perthshire",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1247411",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Heather Hills",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "British Standards Institution Kitemark",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3778585",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Highlands and Island",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q729025",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Eastern Scotland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Perth and Kinross",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q207679",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Tay",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q19719",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Earn",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1277544",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Perth",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q203000",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Highlands",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q106652",
+				"type":"ne"
+            },			
+            {
+                "Wikipedia_label": "Scotland's central belt",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1053720"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Scottish",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q22"
+            },
+            {
+                "Wikipedia_label": "great taste gold award",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "Perth and Kinross",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q207679",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Manuka Honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q953395"
+            },
+            {
+                "Wikipedia_label": "Heather Hills",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            }
+			
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Heather Hills",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "BCI kitemark",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3778585",
+				"type":"ne"
+            }, 
+            {
+                "Wikipedia_label": "UK",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q145",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Heather Hills",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "Aberdeenshire",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q189912",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Scotland",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q22",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Germany",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q183",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Luneburg",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3920",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Ireland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q27",
+				"type":"ne"
+            }
+        ]
+    }
+]

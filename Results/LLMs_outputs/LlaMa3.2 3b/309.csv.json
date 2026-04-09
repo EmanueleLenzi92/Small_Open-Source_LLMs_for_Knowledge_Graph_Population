@@ -1,0 +1,193 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "SKANDINAVIAN UCO",
+        "wikipedia_title": "Skandinavian Union of Companies"
+      },
+      {
+        "named_entity_in_the_text": "Norway",
+        "wikipedia_title": "Norway"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Scandinavean Mountains - Scandes",
+        "wikipedia_title": "Scandinavian Mountains"
+      },
+      {
+        "named_entity_in_the_text": "Trysil",
+        "wikipedia_title": "Trysille"
+      },
+      {
+        "named_entity_in_the_text": "Sweden",
+        "wikipedia_title": "Sweden"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Province",
+        "wikipedia_title": "Province (economics)"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Region (economics)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "agricultural holdings",
+        "wikipedia_title": "Agricultural holding"
+      },
+      {
+        "named_entity_in_the_text": "settlement",
+        "wikipedia_title": "Settlement"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Province or region in Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Scandinavian countries",
+        "wikipedia_title": "Scandinavia"
+      },
+      {
+        "named_entity_in_the_text": "VCs (Venture Capitalists)",
+        "wikipedia_title": "List of venture capital firms"
+      },
+      {
+        "named_entity_in_the_text": "area",
+        "wikipedia_title": "None found"
+      },
+      {
+        "named_entity_in_the_text": "websites",
+        "wikipedia_title": "Website"
+      },
+      {
+        "named_entity_in_the_text": "touristic assets",
+        "wikipedia_title": "Tourism"
+      },
+      {
+        "named_entity_in_the_text": "labelling schemes",
+        "wikipedia_title": "Labeling scheme"
+      },
+      {
+        "named_entity_in_the_text": "family businesses",
+        "wikipedia_title": "Family business"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Scandinavian",
+        "wikipedia_title": "Scandinavia"
+      },
+      {
+        "named_entity_in_the_text": "winter",
+        "wikipedia_title": "Winter (season)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "COVID-19 Pandemic",
+        "wikipedia_title": "COVID-19 pandemic"
+      },
+      {
+        "named_entity_in_the_text": "Arctic",
+        "wikipedia_title": "Arctic"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Value Chain",
+        "wikipedia_title": "Value chain"
+      },
+      {
+        "named_entity_in_the_text": "Endogenous",
+        "wikipedia_title": "Endogenous innovation"
+      },
+      {
+        "named_entity_in_the_text": "Exogenous",
+        "wikipedia_title": "Exogenous innovation"
+      },
+      {
+        "named_entity_in_the_text": "Tourism",
+        "wikipedia_title": "Tourism"
+      },
+      {
+        "named_entity_in_the_text": "Grassland",
+        "wikipedia_title": "Grassland"
+      },
+      {
+        "named_entity_in_the_text": "Forestry",
+        "wikipedia_title": "Forestry"
+      },
+      {
+        "named_entity_in_the_text": "Natural land",
+        "wikipedia_title": "Natural land"
+      },
+      {
+        "named_entity_in_the_text": "Cropland",
+        "wikipedia_title": "Cropland"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Vadsø",
+        "wikipedia_title": "Vadsø"
+      },
+      {
+        "named_entity_in_the_text": "Oppdal",
+        "wikipedia_title": "Oppdal (municipality)"
+      },
+      {
+        "named_entity_in_the_text": "Hardangervidda National Park",
+        "wikipedia_title": "Hardangervidda National Park"
+      },
+      {
+        "named_entity_in_the_text": "Lapland Region",
+        "wikipedia_title": "Lapland (region)"
+      },
+      {
+        "named_entity_in_the_text": "Norbotten",
+        "wikipedia_title": "Nordboten"
+      }
+    ]
+  }
+]

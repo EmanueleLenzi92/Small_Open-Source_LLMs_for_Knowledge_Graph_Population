@@ -1,0 +1,270 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MOVING",
+                "wikipedia_title": "MOVING (Value Chain)"
+            },
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "ALOE VERA",
+                "wikipedia_title": "Aloe vera"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti Mountains",
+                "wikipedia_title": "Dikti Mountains"
+            },
+            {
+                "named_entity_in_the_text": "VIANNOS",
+                "wikipedia_title": "Viannos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aloe vera",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "named_entity_in_the_text": "Dikti mountain landscape",
+                "wikipedia_title": "Dikti Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Viannos",
+                "wikipedia_title": "Viannos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "agricultural sector",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "named_entity_in_the_text": "Dikti Mountain landscape",
+                "wikipedia_title": "Dikti Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Olives",
+                "wikipedia_title": "Olive"
+            },
+            {
+                "named_entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "named_entity_in_the_text": "food/cosmetic industries",
+                "wikipedia_title": "Food industry"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti area",
+                "wikipedia_title": "Dikti"
+            },
+            {
+                "named_entity_in_the_text": "Viannos",
+                "wikipedia_title": "Viannos"
+            },
+            {
+                "named_entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe vera"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "Aloe Vera plants",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "named_entity_in_the_text": "Dikti region",
+                "wikipedia_title": "Dikti"
+            },
+            {
+                "named_entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoan Land"
+            },
+            {
+                "named_entity_in_the_text": "Organic and contract farming",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "named_entity_in_the_text": "High-quality leaves",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "named_entity_in_the_text": "Dangerous pesticides",
+                "wikipedia_title": "Pesticide"
+            },
+            {
+                "named_entity_in_the_text": "Green economy",
+                "wikipedia_title": "Green economy"
+            },
+            {
+                "named_entity_in_the_text": "Nutritional supplements",
+                "wikipedia_title": "Supplement"
+            },
+            {
+                "named_entity_in_the_text": "Herbal cosmetics",
+                "wikipedia_title": "Cosmetic"
+            },
+            {
+                "named_entity_in_the_text": "Natural fertilizers",
+                "wikipedia_title": "Fertilizer"
+            },
+            {
+                "named_entity_in_the_text": "Aromatic/medicinal plants",
+                "wikipedia_title": "Plant"
+            },
+            {
+                "named_entity_in_the_text": "Food industry",
+                "wikipedia_title": "Food industry"
+            },
+            {
+                "named_entity_in_the_text": "Pharmaceutical industry",
+                "wikipedia_title": "Pharmaceutical industry"
+            },
+            {
+                "named_entity_in_the_text": "Nutraceuticals industry",
+                "wikipedia_title": "Nutraceutical"
+            },
+            {
+                "named_entity_in_the_text": "Medical conditions",
+                "wikipedia_title": "Disease"
+            },
+            {
+                "named_entity_in_the_text": "Diets",
+                "wikipedia_title": "Diet"
+            },
+            {
+                "named_entity_in_the_text": "New products",
+                "wikipedia_title": "Product development"
+            },
+            {
+                "named_entity_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "named_entity_in_the_text": "Cropland",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "named_entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "named_entity_in_the_text": "Natural assets",
+                "wikipedia_title": "Natural resource"
+            },
+            {
+                "named_entity_in_the_text": "Social assets",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "named_entity_in_the_text": "Cultural assets",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Andalusia, Spain",
+                "wikipedia_title": "Andalusia"
+            },
+            {
+                "named_entity_in_the_text": "European consumers",
+                "wikipedia_title": "European Union"
+            }
+        ]
+    }
+]

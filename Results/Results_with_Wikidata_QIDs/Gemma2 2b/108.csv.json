@@ -1,0 +1,361 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "VC 17 GR",
+                "original_value": "VC 17 GR",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "HELMOS",
+                "original_value": "Helmos",
+                "Wikidata_ID": "Q630782"
+            },
+            {
+                "originalKey": "KILLINI",
+                "original_value": "Killini",
+                "Wikidata_ID": "Q1685886"
+            },
+            {
+                "originalKey": "ZIRIA",
+                "original_value": "Zira",
+                "Wikidata_ID": "Q524148"
+            },
+            {
+                "originalKey": "KORINTHIA",
+                "original_value": "Korinthian",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Feneos Plateau",
+                "original_value": "Feneos Plateau",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Ziria",
+                "original_value": "Zira",
+                "Wikidata_ID": "Q524148"
+            },
+            {
+                "originalKey": "Chelmos",
+                "original_value": "Chelmos",
+                "Wikidata_ID": "Q630782"
+            },
+            {
+                "originalKey": "Aroania",
+                "original_value": "Aroania",
+                "Wikidata_ID": "Q3623651"
+            },
+            {
+                "originalKey": "Oligyrtos",
+                "original_value": "Oligyrtos",
+                "Wikidata_ID": "Q7086865"
+            },
+            {
+                "originalKey": "Saitas",
+                "original_value": "Saitas",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Patras",
+                "original_value": "Patras",
+                "Wikidata_ID": "Q133123"
+            },
+            {
+                "originalKey": "Athens",
+                "original_value": "Athens",
+                "Wikidata_ID": "Q1524"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "912",
+                "original_value": "Minimum altimetry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1024",
+                "original_value": "Maximum altimetry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "2.359",
+                "original_value": "Population (in thousand)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "10.44",
+                "original_value": "Population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "0.55%",
+                "original_value": "Population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "37.1",
+                "original_value": "Overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-0.03%",
+                "original_value": "Regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Europe",
+                "Wikidata_ID": "Q6470668"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            },
+            {
+                "originalKey": "north-easter Peloponnese",
+                "original_value": "Peloponnese",
+                "Wikidata_ID": "Q78967"
+            },
+            {
+                "originalKey": "legumes",
+                "original_value": "Legumes",
+                "Wikidata_ID": "Q145909"
+            },
+            {
+                "originalKey": "Feneou vanilla beans",
+                "original_value": "Feneou Vanilla Beans",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Feneou fava beans",
+                "original_value": "Fava Beans",
+                "Wikidata_ID": "Q131342"
+            },
+            {
+                "originalKey": "PGI products",
+                "original_value": "Protected Geographical Indication (PGI)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Fenos",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Legumes",
+                "original_value": "Legumes",
+                "Wikidata_ID": "Q145909"
+            },
+            {
+                "originalKey": "clime change",
+                "original_value": "Climate Change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "cultivated plants",
+                "original_value": "Cultivated Plants",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Feneos legumes",
+                "original_value": "Fenos Legumes",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "domestic market",
+                "original_value": "Domestic Market",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "imported",
+                "original_value": "Imported Goods",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "cultivation",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "knowledge capital",
+                "original_value": "Intellectual Capital",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "local farmers",
+                "original_value": "Farmer",
+                "Wikidata_ID": "Q131512"
+            },
+            {
+                "originalKey": "municipality administration",
+                "original_value": "Local Government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "geographic indication (PGI)",
+                "original_value": "Geographical Indication",
+                "Wikidata_ID": "Q325668"
+            },
+            {
+                "originalKey": "beans",
+                "original_value": "Bean",
+                "Wikidata_ID": "Q379813"
+            },
+            {
+                "originalKey": "yellow split pea",
+                "original_value": "Split Pea",
+                "Wikidata_ID": "Q2265406"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "social",
+                "original_value": "Social",
+                "Wikidata_ID": "Q8425"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Wesdwestern Macedonia",
+                "original_value": "Western Macedonia",
+                "Wikidata_ID": "Q165408"
+            },
+            {
+                "originalKey": "MRL - NUTS3",
+                "original_value": "NUTS regions of North Macedonia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EL531, EL532, EL533",
+                "original_value": "List of NUTS subdivisions in North Macedonia",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,291 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "VC 10 AT",
+                "original_value": "Value Chain (VC) 10 AT",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Osttiroler Lämmerring",
+                "original_value": "Osttiroler Lämmerring",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Raiffeisen cooperative East-Tyrol",
+                "original_value": "Raiffeisen cooperative East-Tyrol",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "RR 11",
+                "original_value": "Austrian Alps",
+                "Wikidata_ID": "Q190348"
+            },
+            {
+                "originalKey": "Lienz (No: 707 = NUTS3: AT 333)",
+                "original_value": "Lienz",
+                "Wikidata_ID": "Q336250"
+            },
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "regional population",
+                "original_value": "Regional population",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The average per capita income (EUR/year) [Province]",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year [Province]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "The per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year [Region]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "sheeps",
+                "original_value": "Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q226542"
+            },
+            {
+                "originalKey": "mountain farming",
+                "original_value": "Mountain farming",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture farming",
+                "original_value": "Pasture farming",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sheep farming",
+                "original_value": "Sheep farming",
+                "Wikidata_ID": "Q1790941"
+            },
+            {
+                "originalKey": "this region",
+                "original_value": "Regions of the United Kingdom",
+                "Wikidata_ID": "Q717478"
+            },
+            {
+                "originalKey": "The shift to meat production in the 1950s",
+                "original_value": "Meat industry in the United Kingdom",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cultural landscapes",
+                "original_value": "Cultural landscape",
+                "Wikidata_ID": "Q1129474"
+            },
+            {
+                "originalKey": "cultivated traditional sheep breeds",
+                "original_value": "Sheep breeds",
+                "Wikidata_ID": "Q198423"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "region",
+                "original_value": "Austrian Alps",
+                "Wikidata_ID": "Q190348"
+            },
+            {
+                "originalKey": "mountains",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "husbandry",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Innovation in marketing",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture farming",
+                "original_value": "Pasture farming",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "social and cultural",
+                "original_value": "Social capital",
+                "Wikidata_ID": "Q214693"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "Austria-wide",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "VC AT 13",
+                "original_value": "Vorarlberg (Austria)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC AT 15",
+                "original_value": "Vorarlberg (Austria)",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Betic System",
+                "original_value": "Betic System",
+                "Wikidata_ID": "Q831469"
+            },
+            {
+                "originalKey": "Carcabuey",
+                "original_value": "Carcabuey",
+                "Wikidata_ID": "Q842679"
+            },
+            {
+                "originalKey": "Sierra Subbética",
+                "original_value": "Sierra Subbética",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "PROMI",
+                "original_value": "PROMI",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Provincial Council",
+                "original_value": "Provincial council",
+                "Wikidata_ID": "Q2114076"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sierra",
+                "original_value": "Sierra Leone",
+                "Wikidata_ID": "Q1044"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sierra",
+                "original_value": "Sierra Nevada",
+                "Wikidata_ID": "Q26777"
+            },
+            {
+                "originalKey": "Subbética",
+                "original_value": "Subbética",
+                "Wikidata_ID": "Q1117341"
+            }
+        ]
+    }
+]

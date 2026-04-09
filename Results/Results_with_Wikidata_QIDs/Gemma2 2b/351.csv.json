@@ -1,0 +1,321 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN ADEGUA",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "VC 34 ES",
+                "original_value": "List of European Union member states",
+                "Wikidata_ID": "Q18349832"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Betic System",
+                "original_value": "Betics Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Carcabuey",
+                "original_value": "Carcabuey",
+                "Wikidata_ID": "Q842679"
+            },
+            {
+                "originalKey": "Sierra Subbética",
+                "original_value": "Sierra de Bética",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural Park",
+                "original_value": "List of Natural Parks in Spain",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "79.78",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "550",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1300",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "2.371",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "29.72",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-11.70%",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "97",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-0.01%",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Europe",
+                "Wikidata_ID": "Q6470668"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "elderly",
+                "original_value": "Elderly",
+                "Wikidata_ID": "Q191089"
+            },
+            {
+                "originalKey": "mountain centres",
+                "original_value": "Mountain regions",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "women",
+                "original_value": "Women",
+                "Wikidata_ID": "Q467"
+            },
+            {
+                "originalKey": "private care company",
+                "original_value": "Private care agency",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "informal sector",
+                "original_value": "Informal economy",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "immigrant female population",
+                "original_value": "Immigrants",
+                "Wikidata_ID": "Q131288"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "PROMI",
+                "original_value": "PROMI",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Municipal residence for the elderly",
+                "original_value": "Elderly care facility",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Emergency carers",
+                "original_value": "Emergency services",
+                "Wikidata_ID": "Q814610"
+            },
+            {
+                "originalKey": "Provincial Council",
+                "original_value": "Provincial government",
+                "Wikidata_ID": "Q1802419"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Ageing population",
+                "original_value": "Population aging",
+                "Wikidata_ID": "Q439112"
+            },
+            {
+                "originalKey": "65",
+                "original_value": "65 years old",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "80",
+                "original_value": "80 years old",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "depopulation",
+                "original_value": "Population decline",
+                "Wikidata_ID": "Q284137"
+            },
+            {
+                "originalKey": "exodus of young population",
+                "original_value": "Youth migration",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "public resources",
+                "original_value": "Public services",
+                "Wikidata_ID": "Q161837"
+            },
+            {
+                "originalKey": "Informal economy",
+                "original_value": "Informal sector",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "professionalisation process",
+                "original_value": "Professionalization",
+                "Wikidata_ID": "Q355523"
+            },
+            {
+                "originalKey": "precarisation of female work",
+                "original_value": "Gender inequality in the workplace",
+                "Wikidata_ID": "Q7075802"
+            },
+            {
+                "originalKey": "local and social cultures of small Sierra communities",
+                "original_value": "Cultural diversity",
+                "Wikidata_ID": "Q1338878"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capitalist",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous and Exogenous",
+                "original_value": "Innovation (economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "elderly population",
+                "original_value": "Elderly",
+                "Wikidata_ID": "Q191089"
+            },
+            {
+                "originalKey": "public services",
+                "original_value": "Public service",
+                "Wikidata_ID": "Q161837"
+            },
+            {
+                "originalKey": "public-private partnerships",
+                "original_value": "Public-private partnership",
+                "Wikidata_ID": "Q221096"
+            },
+            {
+                "originalKey": "governance",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            },
+            {
+                "originalKey": "social and cultural",
+                "original_value": "Social and cultural factors",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sierra",
+                "original_value": "Sierra Nevada",
+                "Wikidata_ID": "Q26777"
+            },
+            {
+                "originalKey": "Subbética",
+                "original_value": "Subbética",
+                "Wikidata_ID": "Q1117341"
+            }
+        ]
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Scandinavian Union of Cooperatives (S.U.C.)"
+            },
+            {
+                "named_entity_in_the_text": "VC 16 SCA",
+                "wikipedia_title": "VC 16 SCA"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandes"
+            },
+            {
+                "named_entity_in_the_text": "Trysil",
+                "wikipedia_title": "Trysil"
+            },
+            {
+                "named_entity_in_the_text": "Sweden",
+                "wikipedia_title": "Sweden"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "3014.41",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "304",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1208",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "6.627",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "2.19",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "-2.04%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "7.13",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "2.86%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavian countries",
+                "wikipedia_title": "Scandinavia"
+            },
+            {
+                "named_entity_in_the_text": "VCs",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Websites",
+                "wikipedia_title": "Website"
+            },
+            {
+                "named_entity_in_the_text": "skiing",
+                "wikipedia_title": "Skiing"
+            },
+            {
+                "named_entity_in_the_text": "cow milking",
+                "wikipedia_title": "Dairy farming"
+            },
+            {
+                "named_entity_in_the_text": "Regional associations",
+                "wikipedia_title": "Association (organization)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavian mountains",
+                "wikipedia_title": "Scandinavia"
+            },
+            {
+                "named_entity_in_the_text": "crosscountry skiing",
+                "wikipedia_title": "Cross-country skiing"
+            },
+            {
+                "named_entity_in_the_text": "downhill skiing",
+                "wikipedia_title": "Downhill skiing"
+            },
+            {
+                "named_entity_in_the_text": "dogsledding",
+                "wikipedia_title": "Dog sledding"
+            },
+            {
+                "named_entity_in_the_text": "fly fishing",
+                "wikipedia_title": "Fly fishing"
+            },
+            {
+                "named_entity_in_the_text": "hunting",
+                "wikipedia_title": "Hunting"
+            },
+            {
+                "named_entity_in_the_text": "hiking",
+                "wikipedia_title": "Hiking"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "COVID-19 Pandemic",
+                "wikipedia_title": "COVID-19 pandemic"
+            },
+            {
+                "named_entity_in_the_text": "tourism",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "named_entity_in_the_text": "Climate Change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "named_entity_in_the_text": "arctic",
+                "wikipedia_title": "Arctic"
+            },
+            {
+                "named_entity_in_the_text": "snow based touristic sector",
+                "wikipedia_title": "Snow tourism"
+            },
+            {
+                "named_entity_in_the_text": "sustainable tourism",
+                "wikipedia_title": "Sustainable tourism"
+            },
+            {
+                "named_entity_in_the_text": "traveling",
+                "wikipedia_title": "Travel"
+            },
+            {
+                "named_entity_in_the_text": "overtourism",
+                "wikipedia_title": "Overtourism"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "named_entity_in_the_text": "tourism activities and approches",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "named_entity_in_the_text": "traditional experiences and offers",
+                "wikipedia_title": "Experiences"
+            },
+            {
+                "named_entity_in_the_text": "local initiatives, products and practices",
+                "wikipedia_title": "Local tourism"
+            },
+            {
+                "named_entity_in_the_text": "online",
+                "wikipedia_title": "Internet"
+            },
+            {
+                "named_entity_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "named_entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "named_entity_in_the_text": "Cropland, Grassland, Forestry and Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "named_entity_in_the_text": "Natural, social and cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Vadsø",
+                "wikipedia_title": "Vadsø"
+            },
+            {
+                "named_entity_in_the_text": "Oppdal",
+                "wikipedia_title": "Oppdal"
+            },
+            {
+                "named_entity_in_the_text": "Hardangervidda National Park",
+                "wikipedia_title": "Hardangervidda National Park"
+            },
+            {
+                "named_entity_in_the_text": "Lapland Region",
+                "wikipedia_title": "Lapland Region"
+            },
+            {
+                "named_entity_in_the_text": "Finland",
+                "wikipedia_title": "Finland"
+            },
+            {
+                "named_entity_in_the_text": "Norbotten",
+                "wikipedia_title": "Norbotten"
+            }
+        ]
+    }
+]

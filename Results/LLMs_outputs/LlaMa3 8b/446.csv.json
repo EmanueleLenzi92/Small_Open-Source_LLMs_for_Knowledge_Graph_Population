@@ -1,0 +1,134 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "named_entity_in_the_text": "Çay-Kur",
+                "wikipedia_title": "General Directorate of Tea Enterprises"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Eastern Black Sea Mountains",
+                "wikipedia_title": "Eastern_Caucasus_Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Güneysu",
+                "wikipedia_title": "Güneysu"
+            },
+            {
+                "named_entity_in_the_text": "Rize Province",
+                "wikipedia_title": "Rize_Province"
+            },
+            {
+                "named_entity_in_the_text": "Black Sea Region",
+                "wikipedia_title": "Black_Sea_Regional_Directorate"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Europe"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_the_European_Union"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "tea plantations",
+                "wikipedia_title": "Tea plantation"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value_chain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    }
+]

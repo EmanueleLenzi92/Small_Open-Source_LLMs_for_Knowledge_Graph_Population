@@ -1,0 +1,118 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sumava",
+                "original_value": "Šumava",
+                "Wikidata_ID": "Q157290"
+            },
+            {
+                "originalKey": "Cesky les",
+                "original_value": "Český les",
+                "Wikidata_ID": "Q685984"
+            },
+            {
+                "originalKey": "Klatovy",
+                "original_value": "Klatovy",
+                "Wikidata_ID": "Q602976"
+            },
+            {
+                "originalKey": "Germany",
+                "original_value": "Germany",
+                "Wikidata_ID": "Q183"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sumava Mountains",
+                "original_value": "Šumava",
+                "Wikidata_ID": "Q157290"
+            },
+            {
+                "originalKey": "socialist-era (1950s-1989)",
+                "original_value": "Communism in Czechoslovakia",
+                "Wikidata_ID": "Q3359848"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Beekeepers",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    }
+]

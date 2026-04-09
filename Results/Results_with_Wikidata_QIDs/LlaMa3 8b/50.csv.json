@@ -1,0 +1,151 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech_Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "Ostrava",
+                "original_value": "Ostrava",
+                "Wikidata_ID": "Q8385"
+            },
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Moravian-Silesian Region",
+                "Wikidata_ID": "Q190550"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Javorníky/Beskydy",
+                "original_value": "Western Carpathian Mountains",
+                "Wikidata_ID": "Q927233"
+            },
+            {
+                "originalKey": "Vsetín",
+                "original_value": "Vsetín District",
+                "Wikidata_ID": "Q852541"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_of_Spain",
+                "Wikidata_ID": "Q162620"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Autonomous_communities_of_Spain",
+                "Wikidata_ID": "Q10742"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_and_territories_of_Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Economic_regions_of_Canada",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Wallachia",
+                "Wikidata_ID": "Q171393"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian",
+                "original_value": "Valachia",
+                "Wikidata_ID": "Q171393"
+            },
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Transylvania",
+                "Wikidata_ID": "Q39473"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    }
+]

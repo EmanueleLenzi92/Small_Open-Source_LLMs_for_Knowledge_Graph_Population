@@ -1,0 +1,67 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Giant Mountains",
+                "wikipedia_title": "Giant Mountains"
+            },
+            {
+                "named_entity_in_the_text": "LAU 1 Trutnov",
+                "wikipedia_title": "Trutnov"
+            },
+            {
+                "named_entity_in_the_text": "Kralovehradecky",
+                "wikipedia_title": "Kralovehradecký"
+            },
+            {
+                "named_entity_in_the_text": "NUTS 3 Kralovehradecky",
+                "wikipedia_title": "NUTS (statistical region)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Local Administrative Unit",
+                "wikipedia_title": "Nomenclature of Territorial Units for Statistics"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    }
+]

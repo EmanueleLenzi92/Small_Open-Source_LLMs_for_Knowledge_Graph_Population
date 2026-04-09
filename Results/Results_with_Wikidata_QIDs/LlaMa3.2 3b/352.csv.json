@@ -1,0 +1,260 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "ADEGUA",
+                "original_value": "Adega",
+                "Wikidata_ID": "Q28222778"
+            },
+            {
+                "originalKey": "ARAGON",
+                "original_value": "Aragon (autonomous community)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "TORRES DE BERRELLÉN",
+                "original_value": "Torres de Berrellén",
+                "Wikidata_ID": "Q1628472"
+            },
+            {
+                "originalKey": "ZARAGOZA",
+                "original_value": "Zaragoza",
+                "Wikidata_ID": "Q10305"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pyrenees",
+                "original_value": "Pyrenees",
+                "Wikidata_ID": "Q12431"
+            },
+            {
+                "originalKey": "Jaca (Ascara)",
+                "original_value": "Jaca",
+                "Wikidata_ID": "Q49581"
+            },
+            {
+                "originalKey": "Canal de Berdún",
+                "original_value": "Canal de Berdún",
+                "Wikidata_ID": "Q987419"
+            },
+            {
+                "originalKey": "Huesca",
+                "original_value": "Huesca",
+                "Wikidata_ID": "Q11967"
+            },
+            {
+                "originalKey": "Zaragoza",
+                "original_value": "Zaragoza",
+                "Wikidata_ID": "Q10305"
+            },
+            {
+                "originalKey": "Ascara",
+                "original_value": "Ascara",
+                "Wikidata_ID": "Q8206262"
+            },
+            {
+                "originalKey": "Torres de Berrellén",
+                "original_value": "Torres de Berrellén",
+                "Wikidata_ID": "Q1628472"
+            },
+            {
+                "originalKey": "Alagón",
+                "original_value": "Alagón",
+                "Wikidata_ID": "Q355087"
+            },
+            {
+                "originalKey": "Montañana",
+                "original_value": "Montañana",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gardeniers",
+                "original_value": "Gardeniers",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Jacetania",
+                "original_value": "Jacetania",
+                "Wikidata_ID": "Q549390"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional (Region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "72.4",
+                "original_value": "Not available",
+                "Wikidata_ID": "Q929804"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province (Canada)",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Province or Region in Canada",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aragonese Pyrenees",
+                "original_value": "Pyrenees",
+                "Wikidata_ID": "Q12431"
+            },
+            {
+                "originalKey": "Cielos de Ascara",
+                "original_value": "Cielos de Ascara",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aragon",
+                "original_value": "Aragon (Spain)",
+                "Wikidata_ID": "Q4040"
+            },
+            {
+                "originalKey": "Organic Production of Foodstuffs linked to the Aragonese Territory",
+                "original_value": "Organic production in Aragon",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "New products",
+                "original_value": "New product",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "New process",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance system",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Cropland",
+                "Wikidata_ID": "Q3395383"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "San Juan de la Peña",
+                "original_value": "San Juan de la Peña",
+                "Wikidata_ID": "Q1389060"
+            },
+            {
+                "originalKey": "Monte Oroel",
+                "original_value": "Monte Oroel",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Western Valleys",
+                "original_value": "Valle del Ebro",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Torres de Berrellén",
+                "original_value": "Torres de Berrellén",
+                "Wikidata_ID": "Q1628472"
+            },
+            {
+                "originalKey": "Aragón",
+                "original_value": "Aragón (región)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Montañana",
+                "original_value": "Montañana",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mercazaragoza",
+                "original_value": "Mercazaragoza",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "Wikidata_ID": "Q46"
+            }
+        ]
+    }
+]

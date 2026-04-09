@@ -1,0 +1,242 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "VC 12 TR",
+                "wikipedia_title": "VC 12 TR"
+            },
+            {
+                "named_entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize"
+            },
+            {
+                "named_entity_in_the_text": "General Directorate of Tea Enterprises (Çay-Kur)",
+                "wikipedia_title": "General Directorate of Tea Enterprises (Çay-Kur)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Eastern Black Sea Mountains",
+                "wikipedia_title": "Eastern Black Sea Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Güneysu",
+                "wikipedia_title": "Güneysu"
+            },
+            {
+                "named_entity_in_the_text": "Rize Province",
+                "wikipedia_title": "Province of Rize"
+            },
+            {
+                "named_entity_in_the_text": "Black Sea Region of Turkey",
+                "wikipedia_title": "Black Sea Region of Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "159",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "152",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "2000",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "15.159",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "95.33962264",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "17.97%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "71.5",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "6.55%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces in Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions in Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "named_entity_in_the_text": "Rize Tea",
+                "wikipedia_title": "Rize tea"
+            },
+            {
+                "named_entity_in_the_text": "Organic tea production",
+                "wikipedia_title": "Organic agriculture"
+            },
+            {
+                "named_entity_in_the_text": "Rainforest Alliance certified tea",
+                "wikipedia_title": "Rainforest Alliance"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rize region",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "named_entity_in_the_text": "Turkish Patent and Trademark Office",
+                "wikipedia_title": "Turkish Patent and Trademark Office"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "High production costs",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "ageing of tea plantations",
+                "wikipedia_title": "Aging of tea plantations"
+            },
+            {
+                "named_entity_in_the_text": "difficulties in finding local and qualified laborers for harvesting",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "logistics problems in transporting tea leaves to processing plants due to the particular geography of the region",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "effects of climatic change",
+                "wikipedia_title": "Climate Change"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "Current and Predicted",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "Innovative",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "named_entity_in_the_text": "Cropland",
+                "wikipedia_title": "Cropland"
+            },
+            {
+                "named_entity_in_the_text": "Natural",
+                "wikipedia_title": "Natural resources"
+            },
+            {
+                "named_entity_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "world",
+                "wikipedia_title": "World"
+            },
+            {
+                "named_entity_in_the_text": "tea",
+                "wikipedia_title": "Tea"
+            }
+        ]
+    }
+]

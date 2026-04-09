@@ -1,0 +1,91 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Roros",
+                "original_value": "Røros",
+                "Wikidata_ID": "Q131648592"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "original_value": "Rorosmat",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains - Scandes",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Tynset",
+                "original_value": "Tynset",
+                "Wikidata_ID": "Q2774548"
+            },
+            {
+                "originalKey": "Østerdalen",
+                "original_value": "Osterdalen",
+                "Wikidata_ID": "Q308349"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rorosmat",
+                "original_value": "Rorosmat",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Barack Obama",
+                "original_value": "Barack Obama",
+                "Wikidata_ID": "Q76"
+            },
+            {
+                "originalKey": "White House",
+                "original_value": "White House",
+                "Wikidata_ID": "Q35525"
+            }
+        ]
+    }
+]

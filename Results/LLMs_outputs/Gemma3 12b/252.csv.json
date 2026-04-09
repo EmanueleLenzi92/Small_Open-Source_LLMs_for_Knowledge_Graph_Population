@@ -1,0 +1,149 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SCOTLAND",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Highlands",
+                "wikipedia_title": "Highlands of Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Islands of Scotland",
+                "wikipedia_title": "Scottish islands"
+            },
+            {
+                "named_entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Highlands",
+                "wikipedia_title": "Highlands of Scotland"
+            },
+            {
+                "named_entity_in_the_text": "islands",
+                "wikipedia_title": "Scottish islands"
+            },
+            {
+                "named_entity_in_the_text": "Blair Atholl Estates",
+                "wikipedia_title": "Blair Atholl"
+            },
+            {
+                "named_entity_in_the_text": "Glen Lyon",
+                "wikipedia_title": "Glen Lyon"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands"
+            },
+            {
+                "named_entity_in_the_text": "Eastern Scotland",
+                "wikipedia_title": "Eastern Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Perth",
+                "wikipedia_title": "Perth, Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scottish",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Atholl estate",
+                "wikipedia_title": "Atholl Estates"
+            },
+            {
+                "named_entity_in_the_text": "Blair Atholl",
+                "wikipedia_title": "Blair Atholl"
+            },
+            {
+                "named_entity_in_the_text": "Glen Lyon estate",
+                "wikipedia_title": "Glen Lyon"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "deer",
+                "wikipedia_title": "Red deer"
+            },
+            {
+                "named_entity_in_the_text": "grouse",
+                "wikipedia_title": "Red grouse"
+            },
+            {
+                "named_entity_in_the_text": "mountain",
+                "wikipedia_title": "Mountain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "COVID",
+                "wikipedia_title": "COVID-19 pandemic"
+            },
+            {
+                "named_entity_in_the_text": "Brexit",
+                "wikipedia_title": "Brexit"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Aberdeenshire",
+                "wikipedia_title": "Aberdeenshire"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    }
+]

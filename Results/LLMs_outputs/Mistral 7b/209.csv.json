@@ -1,0 +1,170 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Portugal",
+                "wikipedia_title": "Portugal"
+            },
+            {
+                "named_entity_in_the_text": "Manteigas",
+                "wikipedia_title": "Manteigas, Portugal"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Cordilheira Central",
+                "wikipedia_title": "Cordilheira Central"
+            },
+            {
+                "named_entity_in_the_text": "Manteigas",
+                "wikipedia_title": "Manteigas, Portugal"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "High importance geological resource",
+                "wikipedia_title": "Geology"
+            },
+            {
+                "named_entity_in_the_text": "Internationally distinguished product",
+                "wikipedia_title": "Product"
+            },
+            {
+                "named_entity_in_the_text": "Mountain areas are important sources of mineral water springs",
+                "wikipedia_title": "Geography"
+            },
+            {
+                "named_entity_in_the_text": "This Mineral Water has been internationally distinguished for its high quality, as it is one of the least mineralized waters in the world",
+                "wikipedia_title": "Mineral water"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Almost virgin mineral water spring",
+                "wikipedia_title": "Mineral water"
+            },
+            {
+                "named_entity_in_the_text": "1400 m of altitude",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "named_entity_in_the_text": "municipality of Manteigas",
+                "wikipedia_title": "Manteigas, Spain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Reduce plastic use",
+                "wikipedia_title": "Plastic pollution"
+            },
+            {
+                "named_entity_in_the_text": "Mineral Water",
+                "wikipedia_title": "Mineral water"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Serra da Estrela",
+                "wikipedia_title": "Serra da Estrela National Park"
+            },
+            {
+                "named_entity_in_the_text": "Portuguese water bottled in 100% recycled plastic (RPET)",
+                "wikipedia_title": "Recycled polyethylene terephthalate"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rio Mondego",
+                "wikipedia_title": "Rio Mondego"
+            },
+            {
+                "named_entity_in_the_text": "Rio Zêzere",
+                "wikipedia_title": "Rio Zêzere"
+            },
+            {
+                "named_entity_in_the_text": "Rio Alva",
+                "wikipedia_title": "Rio Alva"
+            },
+            {
+                "named_entity_in_the_text": "Rio Alvôco",
+                "wikipedia_title": "Rio Alvôco"
+            }
+        ]
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "EU PGI label",
+                "wikipedia_title": "European Protected Geographical Indication"
+            },
+            {
+                "named_entity_in_the_text": "Ostrava",
+                "wikipedia_title": "Ostrava"
+            },
+            {
+                "named_entity_in_the_text": "Vallachian region",
+                "wikipedia_title": "Vysocina"
+            },
+            {
+                "named_entity_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy Mountains"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Javorníky/Beskydy",
+                "wikipedia_title": " Javorníky"
+            },
+            {
+                "named_entity_in_the_text": "Western Carpathian",
+                "wikipedia_title": "Carpathian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "LAU 1 Vsetín",
+                "wikipedia_title": "Vsetín (administrative district)"
+            },
+            {
+                "named_entity_in_the_text": "Mountain Reference Landscape (LAU 1 - Vsetín)",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "nature protected area",
+                "wikipedia_title": "Protected areas in the Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "555 km2",
+                "wikipedia_title": "Area of Protected Areas in the Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "173",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1206",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "143.334",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "125.4",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "-0.95%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "131.62",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "-1.49%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "EU Protected Geographical Indication (PGI) label",
+                "wikipedia_title": "Protected Designation of Origin (PDO)"
+            },
+            {
+                "named_entity_in_the_text": "Valašský region",
+                "wikipedia_title": "Beskydy Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Vallachians",
+                "wikipedia_title": "Vallachian people"
+            },
+            {
+                "named_entity_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Vallachian region",
+                "wikipedia_title": "Valachia"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Vallachian",
+                "wikipedia_title": "Valachian cake"
+            },
+            {
+                "named_entity_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "frgále",
+                "wikipedia_title": "Frgale (cake)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "frgále",
+                "wikipedia_title": "Frägele"
+            },
+            {
+                "named_entity_in_the_text": "Vallachian",
+                "wikipedia_title": "Valachian"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "named_entity_in_the_text": "Social and cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "frgál",
+                "wikipedia_title": "Frgal"
+            },
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    }
+]

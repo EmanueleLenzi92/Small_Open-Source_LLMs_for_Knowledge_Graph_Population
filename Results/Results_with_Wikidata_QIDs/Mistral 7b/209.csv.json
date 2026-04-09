@@ -1,0 +1,201 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Portugal",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas, Portugal",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Cordilheira Central",
+                "original_value": "Cordilheira Central",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas, Portugal",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "regional population",
+                "original_value": "Regional population",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "High importance geological resource",
+                "original_value": "Geology",
+                "Wikidata_ID": "Q1069"
+            },
+            {
+                "originalKey": "Internationally distinguished product",
+                "original_value": "Product",
+                "Wikidata_ID": "Q1796457"
+            },
+            {
+                "originalKey": "Mountain areas are important sources of mineral water springs",
+                "original_value": "Geography",
+                "Wikidata_ID": "Q1071"
+            },
+            {
+                "originalKey": "This Mineral Water has been internationally distinguished for its high quality, as it is one of the least mineralized waters in the world",
+                "original_value": "Mineral water",
+                "Wikidata_ID": "Q178921"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almost virgin mineral water spring",
+                "original_value": "Mineral water",
+                "Wikidata_ID": "Q178921"
+            },
+            {
+                "originalKey": "1400 m of altitude",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "municipality of Manteigas",
+                "original_value": "Manteigas, Spain",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Reduce plastic use",
+                "original_value": "Plastic pollution",
+                "Wikidata_ID": "Q7202090"
+            },
+            {
+                "originalKey": "Mineral Water",
+                "original_value": "Mineral water",
+                "Wikidata_ID": "Q178921"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Serra da Estrela",
+                "original_value": "Serra da Estrela National Park",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Portuguese water bottled in 100% recycled plastic (RPET)",
+                "original_value": "Recycled polyethylene terephthalate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rio Mondego",
+                "original_value": "Rio Mondego",
+                "Wikidata_ID": "Q15656"
+            },
+            {
+                "originalKey": "Rio Zêzere",
+                "original_value": "Rio Zêzere",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rio Alva",
+                "original_value": "Rio Alva",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rio Alvôco",
+                "original_value": "Rio Alvôco",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

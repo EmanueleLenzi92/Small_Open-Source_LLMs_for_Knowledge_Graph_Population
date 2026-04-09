@@ -1,0 +1,178 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "PORTUGAL",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            },
+            {
+                "originalKey": "ESTRELA",
+                "original_value": "Cristalino (water)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Cordilheira Central",
+                "original_value": "Central Range (Brazil)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            },
+            {
+                "originalKey": "Guarda",
+                "original_value": "Guarda, Portugal",
+                "Wikidata_ID": "Q750594"
+            },
+            {
+                "originalKey": "Portugal",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            },
+            {
+                "originalKey": "Seia",
+                "original_value": "Seia",
+                "Wikidata_ID": "Q76017"
+            },
+            {
+                "originalKey": "Covilhã",
+                "original_value": "Covilhã",
+                "Wikidata_ID": "Q849026"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Portuguese",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Serra da Estrela",
+                "original_value": "Serra da Estrela",
+                "Wikidata_ID": "Q738004"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Serra da Estrela",
+                "original_value": "Serra da Estrela",
+                "Wikidata_ID": "Q738004"
+            },
+            {
+                "originalKey": "Rio Mondego",
+                "original_value": "Mondego River",
+                "Wikidata_ID": "Q15656"
+            },
+            {
+                "originalKey": "Municipality of Gouveia",
+                "original_value": "Gouveia, Portugal",
+                "Wikidata_ID": "Q599317"
+            },
+            {
+                "originalKey": "Rio Zêzere",
+                "original_value": "Zêzere River",
+                "Wikidata_ID": "Q15671"
+            },
+            {
+                "originalKey": "Municipality of Manteigas",
+                "original_value": "Manteigas, Portugal",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rio Alva",
+                "original_value": "Alva (river)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Municipality of Seia",
+                "original_value": "Seia, Portugal",
+                "Wikidata_ID": "Q76017"
+            },
+            {
+                "originalKey": "Rio Alvôco",
+                "original_value": "Alvoco River",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Tagus",
+                "original_value": "Tajo River",
+                "Wikidata_ID": "Q14294"
+            },
+            {
+                "originalKey": "Mondego watersheds",
+                "original_value": "Mondego River",
+                "Wikidata_ID": "Q15656"
+            },
+            {
+                "originalKey": "Portuguese citizens",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            }
+        ]
+    }
+]

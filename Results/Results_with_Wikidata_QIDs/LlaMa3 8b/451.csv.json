@@ -1,0 +1,150 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "TURKEY",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Çetin",
+                "original_value": "Not found (person)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Öztürk and Küçükerdem",
+                "original_value": "Not found (organization)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bergama",
+                "original_value": "Bergama",
+                "Wikidata_ID": "Q737822"
+            },
+            {
+                "originalKey": "İzmir",
+                "original_value": "İzmir Province",
+                "Wikidata_ID": "Q344490"
+            },
+            {
+                "originalKey": "Kozak",
+                "original_value": "Madra Mountains",
+                "Wikidata_ID": "Q4833452"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_of_[Country]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Regions_of_[Country]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bergama-Kozak plateau",
+                "original_value": "Bergama",
+                "Wikidata_ID": "Q737822"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Madra Mountains",
+                "original_value": "Madra Mountains",
+                "Wikidata_ID": "Q4833452"
+            },
+            {
+                "originalKey": "Ministry of Forestry",
+                "original_value": "Ministry of Agriculture and Forestry (Turkey)",
+                "Wikidata_ID": "Q4294695"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Kozak/Bergama",
+                "original_value": "Bergama",
+                "Wikidata_ID": "Q737822"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kozak plateau",
+                "original_value": "Kozak Plateau",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value_chain",
+                "Wikidata_ID": "Q646107"
+            }
+        ]
+    },
+    {
+        "entities": []
+    }
+]

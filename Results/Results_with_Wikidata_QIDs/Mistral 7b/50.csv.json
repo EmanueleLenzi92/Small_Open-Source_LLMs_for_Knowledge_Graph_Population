@@ -1,0 +1,246 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "VC 09 CZ",
+                "original_value": "VC 09 CZ",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Javorníky/Beskydy (Western Carpathian) mountains",
+                "original_value": "Javorníky and Beskydy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU 1 Vsetín",
+                "original_value": "Vsetín (municipality)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional population density",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The average per capita income (EUR/year) [Province]",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year [Province]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "The per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year [Region]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EU Protected Geographical Indication (PGI) label",
+                "original_value": "Protected geographical indication",
+                "Wikidata_ID": "Q363268"
+            },
+            {
+                "originalKey": "Valašský region refers to Beskydy mountains settled by Italians (Vallachians - valašský)",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "The case is produced on the foothills of Beskydy mountains traditionally about 200 years (mostly using its the most typical /most produced in te area/ fruit for topping - pears)",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "The product is well known througout Czechia because of its territorial identity",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "It is innovative VC in term of its marketing sing regional name and references to mountain ('tradittional cake from Vallachian region in Beskydy)",
+                "original_value": "Valašský kásek",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Vallachia",
+                "Wikidata_ID": "Q171393"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Vallachian",
+                "original_value": "Valašský",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cake",
+                "original_value": "Cake",
+                "Wikidata_ID": "Q13276"
+            },
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Vallachia",
+                "Wikidata_ID": "Q171393"
+            },
+            {
+                "originalKey": "frgále",
+                "original_value": "Frgále cake",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pblum brandy",
+                "original_value": "Pălincă",
+                "Wikidata_ID": "Q782901"
+            },
+            {
+                "originalKey": "Social and cultural assets",
+                "original_value": "Social capital",
+                "Wikidata_ID": "Q214693"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "frgál",
+                "original_value": "Frgal",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Undredal Stølsysteri SA",
+                "wikipedia_title": "Undredal Stølsysteri"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food International"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandes"
+            },
+            {
+                "named_entity_in_the_text": "Aurland",
+                "wikipedia_title": "Aurland"
+            },
+            {
+                "named_entity_in_the_text": "Nærøyfjorden",
+                "wikipedia_title": "Nærøyfjord"
+            },
+            {
+                "named_entity_in_the_text": "Sognefjorden",
+                "wikipedia_title": "Sognefjord"
+            },
+            {
+                "named_entity_in_the_text": "West Norwegian Fjords of Geirangefjord and Nærøyfjord UNESCO World Heritage Site",
+                "wikipedia_title": "Geirangerfjord_and_Nærøyfjord"
+            },
+            {
+                "named_entity_in_the_text": "Undredal",
+                "wikipedia_title": "Undredal"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Spain"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Autonomous_communities_of_Spain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Undfredal",
+                "wikipedia_title": "Undredal"
+            },
+            {
+                "named_entity_in_the_text": "Aureland",
+                "wikipedia_title": "Åureland"
+            },
+            {
+                "named_entity_in_the_text": "Norsk Gardsost",
+                "wikipedia_title": "Norsk Gårdsost"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sweden",
+                "wikipedia_title": "Sweden"
+            },
+            {
+                "named_entity_in_the_text": "Jämtland",
+                "wikipedia_title": "Jämtland County"
+            }
+        ]
+    }
+]

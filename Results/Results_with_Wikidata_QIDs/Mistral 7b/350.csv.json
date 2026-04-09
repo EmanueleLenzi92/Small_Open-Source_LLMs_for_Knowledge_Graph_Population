@@ -1,0 +1,266 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "ADEGUA",
+                "original_value": "Adegua, Castilla-La Mancha",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 33 ES",
+                "original_value": "VC 33 ES",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Sierras Cazorla, Segura y Las Villas",
+                "original_value": "Sierra de Cazorla, Sierra de la Segura and Sierra de las Villas",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Granada",
+                "Wikidata_ID": "Q8810"
+            },
+            {
+                "originalKey": "Sierra de Castril",
+                "original_value": "Sierra de Castril",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Betic System",
+                "original_value": "Betic System",
+                "Wikidata_ID": "Q831469"
+            },
+            {
+                "originalKey": "Castril",
+                "original_value": "Castril",
+                "Wikidata_ID": "Q555913"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "regional population",
+                "original_value": "Regional population",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "settlement with population over 100000 (km)",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "Spain",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "livestock transhumance",
+                "original_value": "Livestock transhumance",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural Park of the Sierras de Cazorla, Segura and Las Villas in Jaén",
+                "original_value": "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Castril in Granada",
+                "original_value": "Castril (Granada)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q226542"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q226542"
+            },
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Soria",
+                "original_value": "Soria",
+                "Wikidata_ID": "Q12155"
+            },
+            {
+                "originalKey": "Cuenca",
+                "original_value": "Cuenca",
+                "Wikidata_ID": "Q211755"
+            },
+            {
+                "originalKey": "La Rioja",
+                "original_value": "La Rioja",
+                "Wikidata_ID": "Q5727"
+            },
+            {
+                "originalKey": "Andalusia",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            },
+            {
+                "originalKey": "Cazorla",
+                "original_value": "Cazorla",
+                "Wikidata_ID": "Q2943470"
+            },
+            {
+                "originalKey": "Segura",
+                "original_value": "Segura",
+                "Wikidata_ID": "Q24306"
+            },
+            {
+                "originalKey": "Las Villas",
+                "original_value": "Las Villas",
+                "Wikidata_ID": "Q2452253"
+            },
+            {
+                "originalKey": "Jaén",
+                "original_value": "Jaén",
+                "Wikidata_ID": "Q230847"
+            },
+            {
+                "originalKey": "Sierra de Castril",
+                "original_value": "Sierra de Castril",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Granada",
+                "Wikidata_ID": "Q8810"
+            },
+            {
+                "originalKey": "Sierra Nevada",
+                "original_value": "Sierra Nevada",
+                "Wikidata_ID": "Q26777"
+            },
+            {
+                "originalKey": "plain area of Granada",
+                "original_value": "Granada",
+                "Wikidata_ID": "Q8810"
+            },
+            {
+                "originalKey": "Italy",
+                "original_value": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    }
+]

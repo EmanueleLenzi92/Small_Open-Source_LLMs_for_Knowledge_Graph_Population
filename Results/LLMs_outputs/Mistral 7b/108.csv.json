@@ -1,0 +1,230 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MOVING",
+                "wikipedia_title": "MOVING (Value Chain)"
+            },
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "VC 17 GR",
+                "wikipedia_title": "VC 17 GR"
+            },
+            {
+                "named_entity_in_the_text": "local producers",
+                "wikipedia_title": "Local producers"
+            },
+            {
+                "named_entity_in_the_text": "families",
+                "wikipedia_title": "Families"
+            },
+            {
+                "named_entity_in_the_text": "cooperative",
+                "wikipedia_title": "Cooperative"
+            },
+            {
+                "named_entity_in_the_text": "firms",
+                "wikipedia_title": "Firms"
+            },
+            {
+                "named_entity_in_the_text": "local catering services",
+                "wikipedia_title": "Local catering services"
+            },
+            {
+                "named_entity_in_the_text": "local cultural collectives",
+                "wikipedia_title": "Local cultural collectives"
+            },
+            {
+                "named_entity_in_the_text": "munucipal administration",
+                "wikipedia_title": "Municipal administration"
+            },
+            {
+                "named_entity_in_the_text": "Greek market and gastronomy",
+                "wikipedia_title": "Greek market and gastronomy"
+            },
+            {
+                "named_entity_in_the_text": "research projects",
+                "wikipedia_title": "Research projects"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "HELMS / KILLINI (ZIRIA)",
+                "wikipedia_title": "Helmos"
+            },
+            {
+                "named_entity_in_the_text": "KORINTHIA",
+                "wikipedia_title": "Corinthia"
+            },
+            {
+                "named_entity_in_the_text": "Feneos Plateau",
+                "wikipedia_title": "Feneos Plateau"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population density",
+                "wikipedia_title": "Regional population density"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "The average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "named_entity_in_the_text": "The per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            },
+            {
+                "named_entity_in_the_text": "PGI products",
+                "wikipedia_title": "Protected Geographical Indication"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "plateau",
+                "wikipedia_title": "Plateau (geography)"
+            },
+            {
+                "named_entity_in_the_text": "legumes",
+                "wikipedia_title": "Legume"
+            },
+            {
+                "named_entity_in_the_text": "cooperative",
+                "wikipedia_title": "Cooperative"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Legumes",
+                "wikipedia_title": "Legume"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "VC (venture capital)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "endogenious innovation",
+                "wikipedia_title": "Endogenous growth"
+            },
+            {
+                "named_entity_in_the_text": "knowledge capital",
+                "wikipedia_title": "Knowledge management"
+            },
+            {
+                "named_entity_in_the_text": "PGI",
+                "wikipedia_title": "Geographic indication"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Western Macedonia",
+                "wikipedia_title": "Western Macedonia"
+            },
+            {
+                "named_entity_in_the_text": "MRL - NUTS3 : EL531, EL532, EL533",
+                "wikipedia_title": "NUTS3:EL531, EL532, EL533"
+            }
+        ]
+    }
+]

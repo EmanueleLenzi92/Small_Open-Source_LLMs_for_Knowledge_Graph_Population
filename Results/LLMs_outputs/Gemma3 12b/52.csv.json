@@ -1,0 +1,81 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sumava",
+                "wikipedia_title": "Šumava"
+            },
+            {
+                "named_entity_in_the_text": "Cesky les",
+                "wikipedia_title": "Český les"
+            },
+            {
+                "named_entity_in_the_text": "LAU 1 Klatovy",
+                "wikipedia_title": "Klatovy District"
+            },
+            {
+                "named_entity_in_the_text": "Germany",
+                "wikipedia_title": "Germany"
+            },
+            {
+                "named_entity_in_the_text": "Sumava",
+                "wikipedia_title": "Šumava"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sumava Mountains",
+                "wikipedia_title": "Šumava"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    }
+]

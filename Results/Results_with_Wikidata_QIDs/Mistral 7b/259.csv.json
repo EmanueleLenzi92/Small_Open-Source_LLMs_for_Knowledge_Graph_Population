@@ -1,0 +1,246 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state of this VC (Value Chain)",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "VC 13 UK",
+                "original_value": "VC 13 UK",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "artisanal/ bespoke wood products",
+                "original_value": "Artisanal wood products",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Craobh handcrafted wood",
+                "original_value": "Craobh Handcrafted Wood",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Farmhouse furniture",
+                "original_value": "Farmhouse Furniture",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Black Isle wood turning",
+                "original_value": "Black Isle Wood Turning",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highlands and Islands",
+                "original_value": "Highlands and Islands (NUTS2)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Ross and Cromarty",
+                "original_value": "Ross and Cromarty",
+                "Wikidata_ID": "Q1586842"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "regional population",
+                "original_value": "Regional population",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "High quality",
+                "original_value": "Quality",
+                "Wikidata_ID": "Q298413"
+            },
+            {
+                "originalKey": "hand crafted timber products",
+                "original_value": "Timber product",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "traditional means of production",
+                "original_value": "Traditional methods",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local reclaimed timber",
+                "original_value": "Reclaimed timber",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "sustainable practices",
+                "original_value": "Sustainability",
+                "Wikidata_ID": "Q219416"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "natural assets",
+                "original_value": "Natural resources",
+                "Wikidata_ID": "Q188460"
+            },
+            {
+                "originalKey": "timber which grows on shoulders of upland mountain areas",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "steady climate and maintained land use",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "social assets",
+                "original_value": "Social capital",
+                "Wikidata_ID": "Q214693"
+            },
+            {
+                "originalKey": "good relations amongst those in the VC including timber producer, land managers, bespoke carpenters and tourism busineeses",
+                "original_value": "VC",
+                "Wikidata_ID": "Q226542"
+            },
+            {
+                "originalKey": "cultural assets",
+                "original_value": "Cultural heritage",
+                "Wikidata_ID": "Q210272"
+            },
+            {
+                "originalKey": "traditional knowledge for traditional handcrafted timber production methods",
+                "original_value": "Traditional ecological knowledge",
+                "Wikidata_ID": "Q7832334"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scottish Government",
+                "original_value": "Scottish Government",
+                "Wikidata_ID": "Q32521"
+            },
+            {
+                "originalKey": "BREXIT/ COVID",
+                "original_value": "Brexit and the COVID-19 pandemic in the United Kingdom",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "artisanal timber products",
+                "original_value": "Artisanal woodworking",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "land use systems involved",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Forestry in Scotland",
+                "Wikidata_ID": "Q65089374"
+            },
+            {
+                "originalKey": "LAU1s",
+                "original_value": "Local Authority Districts (Scotland)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Argyll and Bute (mainland)",
+                "original_value": "Argyll and Bute",
+                "Wikidata_ID": "Q202174"
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            }
+        ]
+    }
+]

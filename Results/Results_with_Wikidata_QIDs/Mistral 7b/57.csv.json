@@ -1,0 +1,241 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "VC 16 CZ",
+                "original_value": "VC 16 CZ",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "family (better to say unmarried couple)",
+                "original_value": "Family",
+                "Wikidata_ID": "Q8436"
+            },
+            {
+                "originalKey": "rosehips",
+                "original_value": "Rosehip",
+                "Wikidata_ID": "Q46740"
+            },
+            {
+                "originalKey": "mountains (e.g. clean air)",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Jeseniky mountains",
+                "original_value": "Jeseniky Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU 1 Jeseník",
+                "original_value": "LAU 1 Jeseník",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "regional population",
+                "original_value": "Regional population",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Regional label",
+                "original_value": "Regional label",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "e-shop",
+                "original_value": "E-commerce",
+                "Wikidata_ID": "Q484847"
+            },
+            {
+                "originalKey": "raw food (drink) product",
+                "original_value": "Raw food",
+                "Wikidata_ID": "Q513532"
+            },
+            {
+                "originalKey": "Wine",
+                "original_value": "Wine",
+                "Wikidata_ID": "Q282"
+            },
+            {
+                "originalKey": "rosehips",
+                "original_value": "Rosehip",
+                "Wikidata_ID": "Q46740"
+            },
+            {
+                "originalKey": "Jesenik spa",
+                "original_value": "Jesenik Spa",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "family business",
+                "original_value": "Family business",
+                "Wikidata_ID": "Q1395324"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q226542"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rosehips",
+                "original_value": "Rosehip",
+                "Wikidata_ID": "Q46740"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Roseship wine",
+                "original_value": "Rosé wine",
+                "Wikidata_ID": "Q12979"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "Jesenik spa",
+                "original_value": "Priessnitz Spa",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rosehips",
+                "original_value": "Rosehip",
+                "Wikidata_ID": "Q46740"
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Innovation in product development",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rosehip bush",
+                "original_value": "Rosehip cultivation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural and cultural assets",
+                "original_value": "Nature conservation",
+                "Wikidata_ID": "Q20113959"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "company",
+                "original_value": "Company",
+                "Wikidata_ID": "Q783794"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "Slovakia",
+                "original_value": "Slovakia",
+                "Wikidata_ID": "Q214"
+            }
+        ]
+    }
+]

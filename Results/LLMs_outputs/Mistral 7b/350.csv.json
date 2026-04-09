@@ -1,0 +1,222 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "ADEGUA",
+                "wikipedia_title": "Adegua, Castilla-La Mancha"
+            },
+            {
+                "named_entity_in_the_text": "VC 33 ES",
+                "wikipedia_title": "VC 33 ES"
+            },
+            {
+                "named_entity_in_the_text": "Sierras Cazorla, Segura y Las Villas",
+                "wikipedia_title": "Sierra de Cazorla, Sierra de la Segura and Sierra de las Villas"
+            },
+            {
+                "named_entity_in_the_text": "Granada",
+                "wikipedia_title": "Granada"
+            },
+            {
+                "named_entity_in_the_text": "Sierra de Castril",
+                "wikipedia_title": "Sierra de Castril"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betic System"
+            },
+            {
+                "named_entity_in_the_text": "Castril",
+                "wikipedia_title": "Castril"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "settlement with population over 100000 (km)",
+                "wikipedia_title": "Settlement"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "named_entity_in_the_text": "Spain",
+                "wikipedia_title": "Spain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "livestock transhumance",
+                "wikipedia_title": "Livestock transhumance"
+            },
+            {
+                "named_entity_in_the_text": "Natural Park of the Sierras de Cazorla, Segura and Las Villas in Jaén",
+                "wikipedia_title": "Natural Park of the Sierras de Cazorla, Segura and Las Villas"
+            },
+            {
+                "named_entity_in_the_text": "Castril in Granada",
+                "wikipedia_title": "Castril (Granada)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            },
+            {
+                "named_entity_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "named_entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Soria",
+                "wikipedia_title": "Soria"
+            },
+            {
+                "named_entity_in_the_text": "Cuenca",
+                "wikipedia_title": "Cuenca"
+            },
+            {
+                "named_entity_in_the_text": "La Rioja",
+                "wikipedia_title": "La Rioja"
+            },
+            {
+                "named_entity_in_the_text": "Andalusia",
+                "wikipedia_title": "Andalusia"
+            },
+            {
+                "named_entity_in_the_text": "Cazorla",
+                "wikipedia_title": "Cazorla"
+            },
+            {
+                "named_entity_in_the_text": "Segura",
+                "wikipedia_title": "Segura"
+            },
+            {
+                "named_entity_in_the_text": "Las Villas",
+                "wikipedia_title": "Las Villas"
+            },
+            {
+                "named_entity_in_the_text": "Jaén",
+                "wikipedia_title": "Jaén"
+            },
+            {
+                "named_entity_in_the_text": "Sierra de Castril",
+                "wikipedia_title": "Sierra de Castril"
+            },
+            {
+                "named_entity_in_the_text": "Granada",
+                "wikipedia_title": "Granada"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Nevada",
+                "wikipedia_title": "Sierra Nevada"
+            },
+            {
+                "named_entity_in_the_text": "plain area of Granada",
+                "wikipedia_title": "Granada"
+            },
+            {
+                "named_entity_in_the_text": "Italy",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    }
+]

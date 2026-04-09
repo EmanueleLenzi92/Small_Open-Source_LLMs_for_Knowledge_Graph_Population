@@ -1,0 +1,184 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "VC 17 CZ",
+                "original_value": "null",
+                "Wikidata_ID": "Q1179138"
+            },
+            {
+                "originalKey": "hunters organization",
+                "original_value": "null",
+                "Wikidata_ID": "Q1179138"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "Giant Mountains",
+                "original_value": "Giant Mountains",
+                "Wikidata_ID": "Q214644"
+            },
+            {
+                "originalKey": "Kralovehradecky",
+                "original_value": "Kralovehradecký kraj",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Trutnov",
+                "original_value": "Trutnov",
+                "Wikidata_ID": "Q320950"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province (disambiguation)",
+                "Wikidata_ID": "Q4644326"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "100000",
+                "original_value": "Population threshold",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometer",
+                "Wikidata_ID": "Q828224"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province (Canada)",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Province or region in Canada",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Village Committee",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "wild boar",
+                "original_value": "Wild Boar",
+                "Wikidata_ID": "Q58697"
+            },
+            {
+                "originalKey": "deer",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "pheasant",
+                "original_value": "Pheasant",
+                "Wikidata_ID": "Q214169"
+            },
+            {
+                "originalKey": "hare",
+                "original_value": "Hare",
+                "Wikidata_ID": "Q46076"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "GPE",
+                "original_value": "Global production environment",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Natural",
+                "original_value": "Natural",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Natural land",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Poland",
+                "original_value": "Poland",
+                "Wikidata_ID": "Q36"
+            },
+            {
+                "originalKey": "Germany",
+                "original_value": "Germany",
+                "Wikidata_ID": "Q183"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            }
+        ]
+    }
+]

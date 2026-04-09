@@ -1,0 +1,138 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Pelium",
+                "wikipedia_title": "Mount Pelion"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pelium Mountain",
+                "wikipedia_title": "Pelion"
+            },
+            {
+                "named_entity_in_the_text": "EL613",
+                "wikipedia_title": "Mount Pelion"
+            },
+            {
+                "named_entity_in_the_text": "Zagora",
+                "wikipedia_title": "Zagora, Greece"
+            },
+            {
+                "named_entity_in_the_text": "Volos",
+                "wikipedia_title": "Volos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_[Country]"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_[Country]"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Zagora",
+                "wikipedia_title": "Zagora, Thessaly"
+            },
+            {
+                "named_entity_in_the_text": "Pelium mountain",
+                "wikipedia_title": "Pilio Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Thessaly",
+                "wikipedia_title": "Thessaly"
+            },
+            {
+                "named_entity_in_the_text": "Apple",
+                "wikipedia_title": "Apple"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Zagora",
+                "wikipedia_title": "Zagori"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate_change"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "EU",
+                "wikipedia_title": "European Union"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MRL",
+                "wikipedia_title": "Nomenclature_of_Territorial_Units_for_Statistics"
+            },
+            {
+                "named_entity_in_the_text": "EL532",
+                "wikipedia_title": "List_of_NUTS_3_regions_of_Greece#EL532:_Central_Macedonia"
+            },
+            {
+                "named_entity_in_the_text": "EL651",
+                "wikipedia_title": "List_of_NUTS_3_regions_of_Greece#EL651:_Western_Macedonia"
+            }
+        ]
+    }
+]

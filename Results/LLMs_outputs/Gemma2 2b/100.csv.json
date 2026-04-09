@@ -1,0 +1,278 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "2008-2016",
+                "wikipedia_title": "Economic crisis of 2008–2016"
+            },
+            {
+                "named_entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoan Land"
+            },
+            {
+                "named_entity_in_the_text": "Cretan Diet Festival",
+                "wikipedia_title": "Cretan Diet Festival"
+            },
+            {
+                "named_entity_in_the_text": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "wikipedia_title": "Pancretan Network of Organic Farmers of Aloe Vera"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti Mountains",
+                "wikipedia_title": "Dikti Mountains"
+            },
+            {
+                "named_entity_in_the_text": "VIANNOS",
+                "wikipedia_title": "Viannos"
+            },
+            {
+                "named_entity_in_the_text": "Dikti mountain range",
+                "wikipedia_title": "Dikti Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Pinus brutia",
+                "wikipedia_title": "Mediterranean Pine"
+            },
+            {
+                "named_entity_in_the_text": "Quercus coccifera",
+                "wikipedia_title": "Kermes Oak"
+            },
+            {
+                "named_entity_in_the_text": "Cupressus sempervirens",
+                "wikipedia_title": "Cypress"
+            },
+            {
+                "named_entity_in_the_text": "Quercus ilex",
+                "wikipedia_title": "Holm Oak"
+            },
+            {
+                "named_entity_in_the_text": "Acer sempervirens",
+                "wikipedia_title": "Cretan Maple"
+            },
+            {
+                "named_entity_in_the_text": "Dikti/Dicte",
+                "wikipedia_title": "Dikti Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "0",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1147",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "315.162",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "119.40",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "0.02%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "76.5",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "0.01%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti",
+                "wikipedia_title": "Dikti Region"
+            },
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Viannos",
+                "wikipedia_title": "Viannos"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            },
+            {
+                "named_entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoan Land Cooperative"
+            },
+            {
+                "named_entity_in_the_text": "PanCretan Network",
+                "wikipedia_title": "Pancretan Network"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti Mountain",
+                "wikipedia_title": "Díktis Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Olives",
+                "wikipedia_title": "Olive"
+            },
+            {
+                "named_entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "named_entity_in_the_text": "farmers",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "named_entity_in_the_text": "food/cosmetic industries",
+                "wikipedia_title": "Food industry"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti area",
+                "wikipedia_title": "Dikti Region"
+            },
+            {
+                "named_entity_in_the_text": "Viannos",
+                "wikipedia_title": "Viannos"
+            },
+            {
+                "named_entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "named_entity_in_the_text": "farmerns",
+                "wikipedia_title": "Farmers"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti region",
+                "wikipedia_title": "Díktis Region"
+            },
+            {
+                "named_entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoan Land Cooperative"
+            },
+            {
+                "named_entity_in_the_text": "Aloe Vera plants",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "named_entity_in_the_text": "organic and contract farming",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "named_entity_in_the_text": "nutritional supplements",
+                "wikipedia_title": "Nutritional supplement"
+            },
+            {
+                "named_entity_in_the_text": "herbal cosmetics",
+                "wikipedia_title": "Cosmetics"
+            },
+            {
+                "named_entity_in_the_text": "medical institutions and societies",
+                "wikipedia_title": "Medical institution"
+            },
+            {
+                "named_entity_in_the_text": "juice for specific medical conditions and diets",
+                "wikipedia_title": "Aloe vera juice"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Andalusia",
+                "wikipedia_title": "Andalusia, Spain"
+            },
+            {
+                "named_entity_in_the_text": "European consumers",
+                "wikipedia_title": "European consumers"
+            }
+        ]
+    }
+]

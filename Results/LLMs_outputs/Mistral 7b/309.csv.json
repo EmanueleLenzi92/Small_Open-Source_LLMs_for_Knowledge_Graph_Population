@@ -1,0 +1,238 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandinavian Uco"
+            },
+            {
+                "named_entity_in_the_text": "VC 16 SCA",
+                "wikipedia_title": "VC 16 SCA"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandes"
+            },
+            {
+                "named_entity_in_the_text": "Trysil",
+                "wikipedia_title": "Trysil"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavian countries",
+                "wikipedia_title": "Scandinavia"
+            },
+            {
+                "named_entity_in_the_text": "VCs of the area",
+                "wikipedia_title": "Tourism in Scandinavia"
+            },
+            {
+                "named_entity_in_the_text": "cultural and natural assets",
+                "wikipedia_title": "Cultural heritage tourism"
+            },
+            {
+                "named_entity_in_the_text": "Websites",
+                "wikipedia_title": "Online travel booking"
+            },
+            {
+                "named_entity_in_the_text": "Regional associations",
+                "wikipedia_title": "Tourism industry"
+            },
+            {
+                "named_entity_in_the_text": "local products",
+                "wikipedia_title": "Local food tourism"
+            },
+            {
+                "named_entity_in_the_text": "family businesses and local organisations",
+                "wikipedia_title": "Small business tourism"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavian mountains",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "fly fishing",
+                "wikipedia_title": "Fly fishing"
+            },
+            {
+                "named_entity_in_the_text": "hunting",
+                "wikipedia_title": "Hunting"
+            },
+            {
+                "named_entity_in_the_text": "dairies",
+                "wikipedia_title": "Dairy farming"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Tourism",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "named_entity_in_the_text": "COVID-19 Pandemic",
+                "wikipedia_title": "COVID-19 pandemic"
+            },
+            {
+                "named_entity_in_the_text": "Climate Change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "named_entity_in_the_text": "Arctic and snow based touristic sector",
+                "wikipedia_title": "Arctic tourism"
+            },
+            {
+                "named_entity_in_the_text": "Sustainable tourism",
+                "wikipedia_title": "Sustainable tourism"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "Tourism activities and approches",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "named_entity_in_the_text": "Small family bussinesses and farms",
+                "wikipedia_title": "Small business"
+            },
+            {
+                "named_entity_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "named_entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "named_entity_in_the_text": "Cropland",
+                "wikipedia_title": "Crop"
+            },
+            {
+                "named_entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "named_entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "named_entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "named_entity_in_the_text": "Natural assets",
+                "wikipedia_title": "Nature conservation"
+            },
+            {
+                "named_entity_in_the_text": "Social assets",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "named_entity_in_the_text": "Cultural assets",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Vadsø",
+                "wikipedia_title": "Vadsø"
+            },
+            {
+                "named_entity_in_the_text": "Oppdal",
+                "wikipedia_title": "Oppdal"
+            },
+            {
+                "named_entity_in_the_text": "Hardangervidda National Park",
+                "wikipedia_title": "Hardangervidda National Park"
+            },
+            {
+                "named_entity_in_the_text": "Lapland Region",
+                "wikipedia_title": "Lapland"
+            },
+            {
+                "named_entity_in_the_text": "Norbotten",
+                "wikipedia_title": "Norbotten"
+            }
+        ]
+    }
+]

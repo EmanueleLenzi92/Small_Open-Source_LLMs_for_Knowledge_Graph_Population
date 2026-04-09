@@ -1,0 +1,137 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SCOTLAND HUTTON",
+                "wikipedia_title": "Scotland (place)"
+            },
+            {
+                "named_entity_in_the_text": "UK",
+                "wikipedia_title": "United Kingdom"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Perthshire",
+                "wikipedia_title": "Perthshire"
+            },
+            {
+                "named_entity_in_the_text": "British Standards Institution",
+                "wikipedia_title": "British Standards Institution"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands"
+            },
+            {
+                "named_entity_in_the_text": "Eastern Scotland",
+                "wikipedia_title": "Eastern Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Tay",
+                "wikipedia_title": "Tay (river)"
+            },
+            {
+                "named_entity_in_the_text": "Earn",
+                "wikipedia_title": "Earn (river)"
+            },
+            {
+                "named_entity_in_the_text": "Scotland's central belt",
+                "wikipedia_title": "Central Belt (Scotland)"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scottish Heather Honey",
+                "wikipedia_title": "Heather honey"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Noble Isle",
+                "wikipedia_title": "Noble Isle"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Heather Hills",
+                "wikipedia_title": "Heather (plant)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "climate",
+                "wikipedia_title": "Climate change"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "BCI kitemark",
+                "wikipedia_title": "British Board of Honey Production"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aberdeenshire",
+                "wikipedia_title": "Aberdeenshire"
+            }
+        ]
+    }
+]

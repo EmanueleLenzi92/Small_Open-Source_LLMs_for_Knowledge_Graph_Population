@@ -1,0 +1,145 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Osttiroler Lämmerring",
+                "original_value": "Osttiroler Lämmerring",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Raiffeisen cooperative East-Tyrol",
+                "original_value": "Raiffeisenverband Kärnten",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "East-Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Austrian Alps",
+                "Wikidata_ID": "Q190348"
+            },
+            {
+                "originalKey": "Lienz",
+                "original_value": "Lienz",
+                "Wikidata_ID": "Q336250"
+            },
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "Tyrol",
+                "original_value": "Tyrol",
+                "Wikidata_ID": "Q153809"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "original_value": "Agrarmarkt Austria",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "husbandry",
+                "original_value": "Husbandry",
+                "Wikidata_ID": "Q80962"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            }
+        ]
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Scandinavian Uco"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food Foundation for Biodiversity"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains - Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Lesja",
+                "wikipedia_title": "Lesja (mountain)"
+            },
+            {
+                "named_entity_in_the_text": "Lesjaskogsvatnet (Lesjas lake)",
+                "wikipedia_title": "Lesjaskogsvatnet"
+            },
+            {
+                "named_entity_in_the_text": "Rauma river",
+                "wikipedia_title": "Rauma River"
+            },
+            {
+                "named_entity_in_the_text": "Gudbrandsdalslågen river",
+                "wikipedia_title": "Gudbrandsdalslågen"
+            },
+            {
+                "named_entity_in_the_text": "Norwegian trout",
+                "wikipedia_title": "Norwegian Brown Trout"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Vaquita"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pultosts BA",
+                "wikipedia_title": "Pultost"
+            },
+            {
+                "named_entity_in_the_text": "Pultost Innlandet SA",
+                "wikipedia_title": "Pultost"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation",
+                "wikipedia_title": "Slow Food"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Etnedal",
+                "wikipedia_title": "Etnedal"
+            }
+        ]
+    }
+]

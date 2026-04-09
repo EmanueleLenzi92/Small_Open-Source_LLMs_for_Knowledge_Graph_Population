@@ -1,0 +1,116 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Scandinavian Uco"
+            },
+            {
+                "named_entity_in_the_text": "Roros",
+                "wikipedia_title": "Roros, Norway"
+            },
+            {
+                "named_entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rorosmat"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Tynset",
+                "wikipedia_title": "Tynset"
+            },
+            {
+                "named_entity_in_the_text": "Østerdalen",
+                "wikipedia_title": "Østerdalen"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Farmers",
+                "wikipedia_title": "Agriculture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "barley",
+                "wikipedia_title": "Barley"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Barack Obama",
+                "wikipedia_title": "Barack Obama"
+            },
+            {
+                "named_entity_in_the_text": "United States",
+                "wikipedia_title": "United States"
+            },
+            {
+                "named_entity_in_the_text": "Google",
+                "wikipedia_title": "Google"
+            }
+        ]
+    }
+]

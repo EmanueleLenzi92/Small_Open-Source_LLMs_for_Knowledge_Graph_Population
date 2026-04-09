@@ -1,0 +1,126 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandinavian Uco"
+            },
+            {
+                "named_entity_in_the_text": "Undredal Stølsysteri SA",
+                "wikipedia_title": "Undredal Stølsysteri"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food Foundation for Biodiversity"
+            },
+            {
+                "named_entity_in_the_text": "Brimost",
+                "wikipedia_title": "Brimost"
+            },
+            {
+                "named_entity_in_the_text": "Undredal",
+                "wikipedia_title": "Undredal"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains - Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Aurland",
+                "wikipedia_title": "Aurland"
+            },
+            {
+                "named_entity_in_the_text": "Sognefjorden",
+                "wikipedia_title": "Sognefjord"
+            },
+            {
+                "named_entity_in_the_text": "Nærøyfjorden",
+                "wikipedia_title": "Nærøyfjord"
+            },
+            {
+                "named_entity_in_the_text": "Geirangefjord",
+                "wikipedia_title": "Geirangerfjord"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Undfredal",
+                "wikipedia_title": "Undfredal"
+            },
+            {
+                "named_entity_in_the_text": "Aureland",
+                "wikipedia_title": "Aureland"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sweden Jämtland",
+                "wikipedia_title": "Jämtland"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food Foundation for Biodiversity"
+            }
+        ]
+    }
+]

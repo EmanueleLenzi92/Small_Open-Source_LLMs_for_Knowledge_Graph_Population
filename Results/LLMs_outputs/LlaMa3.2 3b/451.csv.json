@@ -1,0 +1,161 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "TURKEY",
+        "wikipedia_title": "Turkey"
+      },
+      {
+        "named_entity_in_the_text": "TR",
+        "wikipedia_title": "Turkey (country code)"
+      },
+      {
+        "named_entity_in_the_text": "Çetin",
+        "wikipedia_title": "Çetin (author)"
+      },
+      {
+        "named_entity_in_the_text": "Öztürk and Küçükerdem",
+        "wikipedia_title": "Not available"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Bergama",
+        "wikipedia_title": "Bergama"
+      },
+      {
+        "named_entity_in_the_text": "Kozak",
+        "wikipedia_title": "Kozak, Turkey"
+      },
+      {
+        "named_entity_in_the_text": "İzmir",
+        "wikipedia_title": "İzmir Province"
+      },
+      {
+        "named_entity_in_the_text": "Madra Mountains region",
+        "wikipedia_title": "Madra Mountains"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Province",
+        "wikipedia_title": "Province (geography)"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Region"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional unit (Greece)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "107",
+        "wikipedia_title": "Not available"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Province (Canada)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Bergama",
+        "wikipedia_title": "Bergama"
+      },
+      {
+        "named_entity_in_the_text": "Kozak",
+        "wikipedia_title": "Kozak, Turkey"
+      },
+      {
+        "named_entity_in_the_text": "Turkey",
+        "wikipedia_title": "Turkey"
+      },
+      {
+        "named_entity_in_the_text": "Madra Mountains",
+        "wikipedia_title": "Madra Mountains"
+      },
+      {
+        "named_entity_in_the_text": "Ministry of Forestry",
+        "wikipedia_title": "Ministry of Forests and Water Resources (Turkey)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Kozak/Bergama",
+        "wikipedia_title": "Bergama"
+      },
+      {
+        "named_entity_in_the_text": "Turkey",
+        "wikipedia_title": "Turkey"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Kozak plateau",
+        "wikipedia_title": "Kozak Plateau"
+      },
+      {
+        "named_entity_in_the_text": "cooperative",
+        "wikipedia_title": "Cooperative (business)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Cropland",
+        "wikipedia_title": "Cropland"
+      },
+      {
+        "named_entity_in_the_text": "Forestry",
+        "wikipedia_title": "Forestry"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "MRLs",
+        "wikipedia_title": "List of food additives"
+      },
+      {
+        "named_entity_in_the_text": "Pine nuts",
+        "wikipedia_title": "Pine nut"
+      }
+    ]
+  }
+]

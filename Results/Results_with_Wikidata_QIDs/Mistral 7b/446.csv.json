@@ -1,0 +1,191 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "tea plantations",
+                "original_value": "Tea plantation",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "General Directorate of Tea Enterprises (Çay-Kur)",
+                "original_value": "General Directorate of Tea Enterprises",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tea sector",
+                "original_value": "Tea industry",
+                "Wikidata_ID": "Q6097"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Eastern Black Sea Mountains",
+                "original_value": "Eastern Black Sea Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Güneysu",
+                "original_value": "Güneysu",
+                "Wikidata_ID": "Q2671161"
+            },
+            {
+                "originalKey": "Rize Province",
+                "original_value": "Rize Province",
+                "Wikidata_ID": "Q483481"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "regional population",
+                "original_value": "Regional population",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize",
+                "Wikidata_ID": "Q201101"
+            },
+            {
+                "originalKey": "Tea",
+                "original_value": "Tea",
+                "Wikidata_ID": "Q6097"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize",
+                "Wikidata_ID": "Q201101"
+            },
+            {
+                "originalKey": "Turkish Patent and Trademark Office",
+                "original_value": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "Q7855305"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "High production costs",
+                "original_value": "High production costs",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ageing of tea plantations",
+                "original_value": "Ageing of tea plantations",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "difficulties in finding local and qualified laborers for harvesting",
+                "original_value": "Difficulties in finding local and qualified laborers for harvesting",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "logistics problems in transporting tea leaves to processing plants due to the particular geography of the region and effects of climatic change",
+                "original_value": "Logistics problems in transporting tea leaves to processing plants due to the particular geography of the region and effects of climatic change",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            }
+        ]
+    }
+]

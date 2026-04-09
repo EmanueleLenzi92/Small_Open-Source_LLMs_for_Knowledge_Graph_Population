@@ -1,0 +1,266 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SCOTLAND HUTTON",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "VC 04 UK",
+                "wikipedia_title": "Value Chain (VC)"
+            },
+            {
+                "named_entity_in_the_text": "Highlands and Islands of Scotland",
+                "wikipedia_title": "Highlands and Islands"
+            },
+            {
+                "named_entity_in_the_text": "Blair Atholl Estates",
+                "wikipedia_title": "Blair Atholl Estates"
+            },
+            {
+                "named_entity_in_the_text": "Glen Lyon",
+                "wikipedia_title": "Glen Lyon"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands"
+            },
+            {
+                "named_entity_in_the_text": "Eastern Scotland",
+                "wikipedia_title": "Eastern Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sporting game",
+                "wikipedia_title": "Game hunting"
+            },
+            {
+                "named_entity_in_the_text": "Scottish estates",
+                "wikipedia_title": "Estate in Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Deer stalking",
+                "wikipedia_title": "Deer stalking"
+            },
+            {
+                "named_entity_in_the_text": "Vension meat",
+                "wikipedia_title": "Venison"
+            },
+            {
+                "named_entity_in_the_text": "Scottish Quality Wild Vensions",
+                "wikipedia_title": "Scottish Quality Wild Venison"
+            },
+            {
+                "named_entity_in_the_text": "Atholl estate",
+                "wikipedia_title": "Atholl Estates"
+            },
+            {
+                "named_entity_in_the_text": "Blair Atholl and Glen Lyon estate",
+                "wikipedia_title": "Blair Atholl and Glen Lyon Estate"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "natural assets",
+                "wikipedia_title": "Natural resources"
+            },
+            {
+                "named_entity_in_the_text": "wild (but managed) land",
+                "wikipedia_title": "Wildlife conservation"
+            },
+            {
+                "named_entity_in_the_text": "deer and grouse",
+                "wikipedia_title": "Deer"
+            },
+            {
+                "named_entity_in_the_text": "scenery for stalking visitors",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "named_entity_in_the_text": "local communities living and working near and in these stalking estates (i.e., for tourist accommodation)",
+                "wikipedia_title": "Community development"
+            },
+            {
+                "named_entity_in_the_text": "hikers",
+                "wikipedia_title": "Hiking"
+            },
+            {
+                "named_entity_in_the_text": "wildlife conservation organizations",
+                "wikipedia_title": "Wildlife conservation"
+            },
+            {
+                "named_entity_in_the_text": "traditional and local knowledge for stalking practices, processes and habitat management",
+                "wikipedia_title": "Traditional ecological knowledge"
+            },
+            {
+                "named_entity_in_the_text": "processes for deer stalking have remained largely the same for centuries",
+                "wikipedia_title": "Deer hunting"
+            },
+            {
+                "named_entity_in_the_text": "ponies to remove deer trophies from the moutain",
+                "wikipedia_title": "Horseback riding"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            },
+            {
+                "named_entity_in_the_text": "sheep",
+                "wikipedia_title": "Sheep"
+            },
+            {
+                "named_entity_in_the_text": "hillwalking",
+                "wikipedia_title": "Hillwalking"
+            },
+            {
+                "named_entity_in_the_text": "COVID",
+                "wikipedia_title": "COVID-19 pandemic"
+            },
+            {
+                "named_entity_in_the_text": "mountain hares",
+                "wikipedia_title": "Mountain hare"
+            },
+            {
+                "named_entity_in_the_text": "gorse",
+                "wikipedia_title": "Gorse"
+            },
+            {
+                "named_entity_in_the_text": "deer",
+                "wikipedia_title": "Deer"
+            },
+            {
+                "named_entity_in_the_text": "raptors",
+                "wikipedia_title": "Raptor"
+            },
+            {
+                "named_entity_in_the_text": "venison",
+                "wikipedia_title": "Venison"
+            },
+            {
+                "named_entity_in_the_text": "Brexit",
+                "wikipedia_title": "Brexit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "named_entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Deer stalking",
+                "wikipedia_title": "Deer stalking"
+            },
+            {
+                "named_entity_in_the_text": "Highland and Islands NUT3 region of Scotland",
+                "wikipedia_title": "Highland and Islands (NUTS3)"
+            },
+            {
+                "named_entity_in_the_text": "Aberdeenshire",
+                "wikipedia_title": "Aberdeenshire"
+            },
+            {
+                "named_entity_in_the_text": "Badendoch and Strathsphey LAU1 areas",
+                "wikipedia_title": "Badendoch and Strathspey (LAU1)"
+            },
+            {
+                "named_entity_in_the_text": "Grouse shooting",
+                "wikipedia_title": "Grouse shooting"
+            },
+            {
+                "named_entity_in_the_text": "NUTS3 regions",
+                "wikipedia_title": "NUTS3 (Nomenclature of Territorial Units for Statistics)"
+            },
+            {
+                "named_entity_in_the_text": "North east and North West England",
+                "wikipedia_title": "North East England"
+            }
+        ]
+    }
+]

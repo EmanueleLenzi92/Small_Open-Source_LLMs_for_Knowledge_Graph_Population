@@ -1,0 +1,235 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "SPAIN ADEGUA",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "Sierras Cazorla",
+                "original_value": "Cazorla Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Segura",
+                "original_value": "Segura River",
+                "Wikidata_ID": "Q18612"
+            },
+            {
+                "originalKey": "Las Villas",
+                "original_value": "Las Villas",
+                "Wikidata_ID": "Q2452253"
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Granada",
+                "Wikidata_ID": "Q8810"
+            },
+            {
+                "originalKey": "Sierra de Castril",
+                "original_value": "Sierra de Castril",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Betic System",
+                "original_value": "Betic System",
+                "Wikidata_ID": "Q831469"
+            },
+            {
+                "originalKey": "Castril",
+                "original_value": "Castril, Granada",
+                "Wikidata_ID": "Q555913"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "Wikidata_ID": "Q46"
+            },
+            {
+                "originalKey": "Mediterranean",
+                "original_value": "Mediterranean Sea",
+                "Wikidata_ID": "Q4918"
+            },
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "Spain",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "UNESCO",
+                "original_value": "UNESCO",
+                "Wikidata_ID": "Q7809"
+            },
+            {
+                "originalKey": "14.COM",
+                "original_value": "14th Session of the Intergovernmental Committee for Protection of the Intangible Cultural Heritage of Humanity",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+                "original_value": "Sierras de Cazorla, Segura and Las Villas Natural Park",
+                "Wikidata_ID": "Q1755523"
+            },
+            {
+                "originalKey": "Jaén",
+                "original_value": "Jaén",
+                "Wikidata_ID": "Q230847"
+            },
+            {
+                "originalKey": "Castril",
+                "original_value": "Castril",
+                "Wikidata_ID": "Q555913"
+            },
+            {
+                "originalKey": "Sierra Morena",
+                "original_value": "Sierra Morena",
+                "Wikidata_ID": "Q686362"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Soria",
+                "original_value": "Soria",
+                "Wikidata_ID": "Q12155"
+            },
+            {
+                "originalKey": "Cuenca",
+                "original_value": "Cuenca",
+                "Wikidata_ID": "Q211755"
+            },
+            {
+                "originalKey": "La Rioja",
+                "original_value": "La Rioja",
+                "Wikidata_ID": "Q5727"
+            },
+            {
+                "originalKey": "Andalusia",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            },
+            {
+                "originalKey": "Cazorla",
+                "original_value": "Cazorla",
+                "Wikidata_ID": "Q2943470"
+            },
+            {
+                "originalKey": "Segura",
+                "original_value": "Segura (Jaén)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Las Villas",
+                "original_value": "Las Villas",
+                "Wikidata_ID": "Q2452253"
+            },
+            {
+                "originalKey": "Jaén",
+                "original_value": "Jaén",
+                "Wikidata_ID": "Q230847"
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Granada",
+                "Wikidata_ID": "Q8810"
+            },
+            {
+                "originalKey": "Sierra Morena",
+                "original_value": "Sierra Morena",
+                "Wikidata_ID": "Q686362"
+            },
+            {
+                "originalKey": "Sierra Nevada",
+                "original_value": "Sierra Nevada",
+                "Wikidata_ID": "Q26777"
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Granada",
+                "Wikidata_ID": "Q8810"
+            }
+        ]
+    }
+]

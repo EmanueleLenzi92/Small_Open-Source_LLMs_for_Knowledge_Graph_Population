@@ -1,0 +1,147 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "EU",
+                "original_value": "European Union",
+                "Wikidata_ID": "Q458"
+            },
+            {
+                "originalKey": "Ostrava",
+                "original_value": "Ostrava",
+                "Wikidata_ID": "Q8385"
+            },
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Moravian Wallachia",
+                "Wikidata_ID": "Q1957265"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Javorníky",
+                "original_value": "Javorníky Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Beskydy",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Western Carpathian",
+                "original_value": "Western Carpathian Mountains",
+                "Wikidata_ID": "Q927233"
+            },
+            {
+                "originalKey": "Vsetín",
+                "original_value": "Vsetín",
+                "Wikidata_ID": "Q513417"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "Wikidata_ID": "Q46"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EU",
+                "original_value": "European Union",
+                "Wikidata_ID": "Q458"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Vallachians",
+                "original_value": "Wallachs",
+                "Wikidata_ID": "Q475021"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Wallachia",
+                "Wikidata_ID": "Q171393"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian",
+                "original_value": "Wallachia",
+                "Wikidata_ID": "Q171393"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian",
+                "original_value": "Wallachians",
+                "Wikidata_ID": "Q47092983"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czechia",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    }
+]

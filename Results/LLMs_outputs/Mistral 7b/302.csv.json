@@ -1,0 +1,206 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandinavian Uco"
+            },
+            {
+                "named_entity_in_the_text": "VC 09 SCA",
+                "wikipedia_title": "VC 09 SCA"
+            },
+            {
+                "named_entity_in_the_text": "Undredal Stølsysteri SA",
+                "wikipedia_title": "Undredal Stølsysteri SA"
+            },
+            {
+                "named_entity_in_the_text": "Brimost cheese",
+                "wikipedia_title": "Brimost cheese"
+            },
+            {
+                "named_entity_in_the_text": "Undredal Brown Cheese Presidium",
+                "wikipedia_title": "Undredal Brown Cheese Presidium"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains - Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Aurland",
+                "wikipedia_title": "Aurland"
+            },
+            {
+                "named_entity_in_the_text": "Nærøyfjorden",
+                "wikipedia_title": "Nærøyfjord"
+            },
+            {
+                "named_entity_in_the_text": "Geirangefjord and Nærøyfjord UNESCO World Heritage Site",
+                "wikipedia_title": "UNESCO World Heritage Sites in Norway"
+            },
+            {
+                "named_entity_in_the_text": "Undredal",
+                "wikipedia_title": "Undredal"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "This cheese",
+                "wikipedia_title": "Cheese"
+            },
+            {
+                "named_entity_in_the_text": "region's cultural heritage",
+                "wikipedia_title": "Cultural heritage of [Region Name]"
+            },
+            {
+                "named_entity_in_the_text": "identity",
+                "wikipedia_title": "Identity"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "natural assets",
+                "wikipedia_title": "Natural resources"
+            },
+            {
+                "named_entity_in_the_text": "Undfredal (town within the municipality of Aureland)",
+                "wikipedia_title": "Undredal, Norway"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Voss Cheese"
+            },
+            {
+                "named_entity_in_the_text": "Norsk Gardsost",
+                "wikipedia_title": "Norsk Gardsost"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "named_entity_in_the_text": "Website",
+                "wikipedia_title": "Website"
+            },
+            {
+                "named_entity_in_the_text": "E-commerce marketing",
+                "wikipedia_title": "E-commerce marketing"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "named_entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "named_entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "named_entity_in_the_text": "Natural assets",
+                "wikipedia_title": "Natural resources"
+            },
+            {
+                "named_entity_in_the_text": "Social assets",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "named_entity_in_the_text": "Cultural assets",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sweden Jämtland Cellar-Matured Goat Cheese",
+                "wikipedia_title": "NUTS3 SE322"
+            },
+            {
+                "named_entity_in_the_text": "Presidium of the Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food Foundation for Biodiversity"
+            }
+        ]
+    }
+]

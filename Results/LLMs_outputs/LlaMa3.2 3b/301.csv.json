@@ -1,0 +1,173 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "SKANDINAVIAN UCO",
+        "wikipedia_title": "Skandinaviska Unien Kondensat"
+      },
+      {
+        "named_entity_in_the_text": "VC 08 SCA",
+        "wikipedia_title": "Skandinaviska Unien Kondensat"
+      },
+      {
+        "named_entity_in_the_text": "Pultost",
+        "wikipedia_title": "Pultost"
+      },
+      {
+        "named_entity_in_the_text": "Slowfood Foundation for Biodiversity",
+        "wikipedia_title": "Slow Food Foundation for Biodiversity"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Scandinavean Mountains - Scandes",
+        "wikipedia_title": "Scandinavian Mountains"
+      },
+      {
+        "named_entity_in_the_text": "Lesja",
+        "wikipedia_title": "Lesja (municipality)"
+      },
+      {
+        "named_entity_in_the_text": "Rauma river",
+        "wikipedia_title": "Rauma River"
+      },
+      {
+        "named_entity_in_the_text": "Gudbrandsdalslågen river",
+        "wikipedia_title": "Gudbrandsdalslågen"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (disambiguation)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region (disambiguation)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional unit (Norway)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "settlement",
+        "wikipedia_title": "Settlement"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region (Canada)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "VC",
+        "wikipedia_title": "Venture capital"
+      },
+      {
+        "named_entity_in_the_text": "area",
+        "wikipedia_title": "Geographic area"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Pultost",
+        "wikipedia_title": "Pultost"
+      },
+      {
+        "named_entity_in_the_text": "Slowfood Foundation",
+        "wikipedia_title": "Slow Food Foundation"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "VC",
+        "wikipedia_title": "Venture capital"
+      },
+      {
+        "named_entity_in_the_text": "industrial dairies",
+        "wikipedia_title": "Dairy industry"
+      },
+      {
+        "named_entity_in_the_text": "artisanal cheese making",
+        "wikipedia_title": "Artisanal cheese"
+      },
+      {
+        "named_entity_in_the_text": "market",
+        "wikipedia_title": "Market (economics)"
+      },
+      {
+        "named_entity_in_the_text": "local scale",
+        "wikipedia_title": "Local economy"
+      },
+      {
+        "named_entity_in_the_text": "national scale",
+        "wikipedia_title": "National economy"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Grassland",
+        "wikipedia_title": "Grassland"
+      },
+      {
+        "named_entity_in_the_text": "Natural land",
+        "wikipedia_title": "Natural land"
+      },
+      {
+        "named_entity_in_the_text": "Value Chain",
+        "wikipedia_title": "Value chain"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "VC",
+        "wikipedia_title": "Varden (Norway)"
+      },
+      {
+        "named_entity_in_the_text": "Etnedal",
+        "wikipedia_title": "Etnedal"
+      }
+    ]
+  }
+]

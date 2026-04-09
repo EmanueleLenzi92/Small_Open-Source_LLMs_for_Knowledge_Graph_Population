@@ -1,0 +1,266 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MOVING",
+                "wikipedia_title": "MOVING (Value Chain)"
+            },
+            {
+                "named_entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "RR 11",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "named_entity_in_the_text": "Weiz (No: 617)",
+                "wikipedia_title": "Weiz"
+            },
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "regional population density",
+                "wikipedia_title": "Regional population density"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "The average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "named_entity_in_the_text": "The per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Almenland Nature Park",
+                "wikipedia_title": "Almenland Nature Park"
+            },
+            {
+                "named_entity_in_the_text": "herb farmers",
+                "wikipedia_title": "Herb farmer"
+            },
+            {
+                "named_entity_in_the_text": "The 'Almenland Kräuter' brand",
+                "wikipedia_title": "Brand"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "named_entity_in_the_text": "Genussregion",
+                "wikipedia_title": "Genussregion"
+            },
+            {
+                "named_entity_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "AgrarMarkt Austria"
+            },
+            {
+                "named_entity_in_the_text": "nature park",
+                "wikipedia_title": "Nature park"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Extreme weather conditions",
+                "wikipedia_title": "Extreme weather"
+            },
+            {
+                "named_entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "named_entity_in_the_text": "products",
+                "wikipedia_title": "Product"
+            },
+            {
+                "named_entity_in_the_text": "herbs",
+                "wikipedia_title": "Herb"
+            },
+            {
+                "named_entity_in_the_text": "tea",
+                "wikipedia_title": "Tea"
+            },
+            {
+                "named_entity_in_the_text": "herbal salt",
+                "wikipedia_title": "Herbal salt"
+            },
+            {
+                "named_entity_in_the_text": "pure herbs",
+                "wikipedia_title": "Herb"
+            },
+            {
+                "named_entity_in_the_text": "spice mixes",
+                "wikipedia_title": "Spice blend"
+            },
+            {
+                "named_entity_in_the_text": "liquor",
+                "wikipedia_title": "Liquor"
+            },
+            {
+                "named_entity_in_the_text": "syrups",
+                "wikipedia_title": "Syrup"
+            },
+            {
+                "named_entity_in_the_text": "sweets",
+                "wikipedia_title": "Sweet"
+            },
+            {
+                "named_entity_in_the_text": "birch sugar",
+                "wikipedia_title": "Birch sugar"
+            },
+            {
+                "named_entity_in_the_text": "soaps",
+                "wikipedia_title": "Soap"
+            },
+            {
+                "named_entity_in_the_text": "creams",
+                "wikipedia_title": "Cream"
+            },
+            {
+                "named_entity_in_the_text": "incense materials",
+                "wikipedia_title": "Incense"
+            },
+            {
+                "named_entity_in_the_text": "New products",
+                "wikipedia_title": "Product innovation"
+            },
+            {
+                "named_entity_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "named_entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "named_entity_in_the_text": "Natural and cultural",
+                "wikipedia_title": "Local assets"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Austrian mountainous regions",
+                "wikipedia_title": "Austrian Alps"
+            }
+        ]
+    }
+]

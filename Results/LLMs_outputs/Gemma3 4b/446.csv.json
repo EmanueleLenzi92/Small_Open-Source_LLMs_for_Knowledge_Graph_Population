@@ -1,0 +1,115 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize"
+            },
+            {
+                "named_entity_in_the_text": "General Directorate of Tea Enterprises (Çay-Kur)",
+                "wikipedia_title": "Çay-Kur"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Eastern Black Sea Mountains",
+                "wikipedia_title": "Eastern Black Sea Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Güneysu",
+                "wikipedia_title": "Güneysu"
+            },
+            {
+                "named_entity_in_the_text": "Rize Province",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "named_entity_in_the_text": "Black Sea Region",
+                "wikipedia_title": "Black Sea Region"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "named_entity_in_the_text": "Rize Tea",
+                "wikipedia_title": "Rize Tea"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rize region",
+                "wikipedia_title": "Rize Province"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    }
+]

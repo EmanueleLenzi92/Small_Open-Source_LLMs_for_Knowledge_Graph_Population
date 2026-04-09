@@ -1,0 +1,331 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Almenland Stollenkäse GmbH",
+                "original_value": "Almenland Stollenkäse GmbH",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "South of Germany",
+                "original_value": "Germany",
+                "Wikidata_ID": "Q183"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "RR 11",
+                "original_value": "Rhine Valley (Austria)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Alpen, Austria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Weiz",
+                "original_value": "Weiz, Austria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland",
+                "original_value": "Almenland, Styria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "Wikidata_ID": "Q46"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "1098",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "464",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1720",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "90.654",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "82.56",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "3.68%",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "76.28",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "3.30%",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Europe",
+                "Wikidata_ID": "Q6470668"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "4310",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "2.77%",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "4555",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "100000",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "cow",
+                "original_value": "Cattle",
+                "Wikidata_ID": "Q830"
+            },
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "goat",
+                "original_value": "Goat",
+                "Wikidata_ID": "Q2934"
+            },
+            {
+                "originalKey": "Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local (geographical)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "mountain",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "Almenland dairy",
+                "original_value": "Almenland Dairy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "original_value": "Agrarmarkt Österreich",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "climate",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "vegetation",
+                "original_value": "Vegetation",
+                "Wikidata_ID": "Q187997"
+            },
+            {
+                "originalKey": "feedbase",
+                "original_value": "Feed base",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "alpine pasture areas",
+                "original_value": "Alpine meadows",
+                "Wikidata_ID": "Q2149452"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "local hey milk",
+                "original_value": "Milk",
+                "Wikidata_ID": "Q8495"
+            },
+            {
+                "originalKey": "Arzberger Ursteirer",
+                "original_value": "Arzberger Ursteirer",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "USA",
+                "original_value": "United States",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "international cheese competitions",
+                "original_value": "International Cheese Competitions",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product Development",
+                "Wikidata_ID": "Q1395034"
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Process Innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing Strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "pasture farming",
+                "original_value": "Pasture Farming",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "List of regions of Austria",
+                "Wikidata_ID": "Q261543"
+            },
+            {
+                "originalKey": "hay milk",
+                "original_value": "Milk",
+                "Wikidata_ID": "Q8495"
+            }
+        ]
+    }
+]

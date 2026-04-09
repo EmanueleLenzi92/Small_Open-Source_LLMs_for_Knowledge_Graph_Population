@@ -1,0 +1,271 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "EU PGI label",
+                "original_value": "European Protected Geographical Indication",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Ostrava",
+                "original_value": "Ostrava",
+                "Wikidata_ID": "Q8385"
+            },
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Vysocina",
+                "Wikidata_ID": "Q346210"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Javorníky/Beskydy",
+                "original_value": " Javorníky",
+                "Wikidata_ID": "Q1387301"
+            },
+            {
+                "originalKey": "Western Carpathian",
+                "original_value": "Carpathian Mountains",
+                "Wikidata_ID": "Q1288"
+            },
+            {
+                "originalKey": "LAU 1 Vsetín",
+                "original_value": "Vsetín (administrative district)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mountain Reference Landscape (LAU 1 - Vsetín)",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "nature protected area",
+                "original_value": "Protected areas in the Czech Republic",
+                "Wikidata_ID": "Q1418124"
+            },
+            {
+                "originalKey": "555 km2",
+                "original_value": "Area of Protected Areas in the Czech Republic",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "Wikidata_ID": "Q46"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "173",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1206",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "143.334",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "125.4",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-0.95%",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "131.62",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-1.49%",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Europe",
+                "Wikidata_ID": "Q6470668"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EU Protected Geographical Indication (PGI) label",
+                "original_value": "Protected Designation of Origin (PDO)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Valašský region",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Vallachians",
+                "original_value": "Vallachian people",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Valachia",
+                "Wikidata_ID": "Q171393"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian",
+                "original_value": "Valachian cake",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "frgále",
+                "original_value": "Frgale (cake)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "frgále",
+                "original_value": "Frägele",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Vallachian",
+                "original_value": "Valachian",
+                "Wikidata_ID": "Q47092983"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Social and cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "frgál",
+                "original_value": "Frgal",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Greek market",
+                "wikipedia_title": "Greek cuisine"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "HELMOS",
+                "wikipedia_title": "Mount_Helmos"
+            },
+            {
+                "named_entity_in_the_text": "KILLINI",
+                "wikipedia_title": "Killini"
+            },
+            {
+                "named_entity_in_the_text": "ZIRIA",
+                "wikipedia_title": "Mount_Ziria"
+            },
+            {
+                "named_entity_in_the_text": "KORINTHIA",
+                "wikipedia_title": "Corinthia"
+            },
+            {
+                "named_entity_in_the_text": "Feneos Plateau",
+                "wikipedia_title": "Feneos_Plateau"
+            },
+            {
+                "named_entity_in_the_text": "Patras",
+                "wikipedia_title": "Patras"
+            },
+            {
+                "named_entity_in_the_text": "Athens",
+                "wikipedia_title": "Athens"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Europe"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_the_European_Union"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            },
+            {
+                "named_entity_in_the_text": "Peloponnese",
+                "wikipedia_title": "Peloponnese"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Legumes",
+                "wikipedia_title": "Legume"
+            },
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "municipality administration",
+                "wikipedia_title": "Municipal_administration"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Wesdtern Macedonia",
+                "wikipedia_title": "Western_Macedonia"
+            },
+            {
+                "named_entity_in_the_text": "MRL - NUTS3 : EL531, EL532, EL533",
+                "wikipedia_title": null
+            }
+        ]
+    }
+]

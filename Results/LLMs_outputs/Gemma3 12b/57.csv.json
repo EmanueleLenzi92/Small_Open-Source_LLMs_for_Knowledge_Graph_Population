@@ -1,0 +1,92 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Jeseniky mountains",
+                "wikipedia_title": "Jesen%C3%ADky_Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech_Republic"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Jesenik spa",
+                "wikipedia_title": "Jesen{\\C3\\xAD}k"
+            },
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            },
+            {
+                "named_entity_in_the_text": "USA",
+                "wikipedia_title": "United States"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "Jesenik spa",
+                "wikipedia_title": "Jesenik District"
+            },
+            {
+                "named_entity_in_the_text": "V. Priesnitz",
+                "wikipedia_title": "Václav Priesnitz"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czechia"
+            },
+            {
+                "named_entity_in_the_text": "Slovakia",
+                "wikipedia_title": "Slovakia"
+            }
+        ]
+    }
+]

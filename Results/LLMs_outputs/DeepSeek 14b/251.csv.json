@@ -1,0 +1,148 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SCOTLAND HUTTON",
+                "wikipedia_title": "Scotland Hutton"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Heather Hills in Perthshire",
+                "wikipedia_title": "Heather Hills in Perthshire"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands"
+            },
+            {
+                "named_entity_in_the_text": "Eastern Scotland",
+                "wikipedia_title": "Eastern Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Tay",
+                "wikipedia_title": "River Tay"
+            },
+            {
+                "named_entity_in_the_text": "Earn",
+                "wikipedia_title": "River Earn"
+            },
+            {
+                "named_entity_in_the_text": "Perth",
+                "wikipedia_title": "Perth"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Heather Hills",
+                "wikipedia_title": "HeatherHills"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross LAU1",
+                "wikipedia_title": "Perth_and_Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Noble Isle",
+                "wikipedia_title": "Noble_Isle"
+            },
+            {
+                "named_entity_in_the_text": "Manuka Honey",
+                "wikipedia_title": "Manuka_honey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Heather Hills",
+                "wikipedia_title": "HeatherHills"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "UK",
+                "wikipedia_title": "United_Kingdom"
+            },
+            {
+                "named_entity_in_the_text": "BCI",
+                "wikipedia_title": "Better_Cotton_Initiative"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aberdeenshire LAU1",
+                "wikipedia_title": "Aberdeenshire"
+            },
+            {
+                "named_entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Germany",
+                "wikipedia_title": "Germany"
+            },
+            {
+                "named_entity_in_the_text": "Ireland",
+                "wikipedia_title": "Ireland"
+            },
+            {
+                "named_entity_in_the_text": "Luneburg",
+                "wikipedia_title": "Lüneburg"
+            }
+        ]
+    }
+]

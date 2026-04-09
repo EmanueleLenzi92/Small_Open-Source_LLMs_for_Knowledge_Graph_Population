@@ -1,0 +1,126 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "TURKEY",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bergama",
+                "original_value": "Bergama",
+                "Wikidata_ID": "Q737822"
+            },
+            {
+                "originalKey": "Kozak",
+                "original_value": "Kozak, İzmir",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Madra Mountains",
+                "original_value": "Madra Mountains",
+                "Wikidata_ID": "Q4833452"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bergama-Kozak plateau",
+                "original_value": "Bergama",
+                "Wikidata_ID": "Q737822"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Kozak plateau",
+                "original_value": "Kozak Plateau",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Madra Mountains",
+                "original_value": "Madra Mountains",
+                "Wikidata_ID": "Q4833452"
+            },
+            {
+                "originalKey": "Bergama, Kozak",
+                "original_value": "Bergama",
+                "Wikidata_ID": "Q737822"
+            },
+            {
+                "originalKey": "Ministry of Forestry",
+                "original_value": "Ministry of Forestry and Water Affairs (Turkey)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Kozak/Bergama",
+                "original_value": "Bergama",
+                "Wikidata_ID": "Q737822"
+            },
+            {
+                "originalKey": "Turkish Patent and Trademark Office",
+                "original_value": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "Q7855305"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kozak plateau",
+                "original_value": "Kozak Plateau",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    }
+]

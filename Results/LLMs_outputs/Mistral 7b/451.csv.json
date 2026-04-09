@@ -1,0 +1,269 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MOVING",
+                "wikipedia_title": "MOVING (Value Chain)"
+            },
+            {
+                "named_entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "VC 17 TR",
+                "wikipedia_title": "VC 17 TR"
+            },
+            {
+                "named_entity_in_the_text": "Çetin, 2003",
+                "wikipedia_title": "Çetin, 2003"
+            },
+            {
+                "named_entity_in_the_text": "Öztürk and Küçükerdem, 2017",
+                "wikipedia_title": "Öztürk and Küçükerdem, 2017"
+            },
+            {
+                "named_entity_in_the_text": "Pinus pinea L.",
+                "wikipedia_title": "Pinus pinea"
+            },
+            {
+                "named_entity_in_the_text": "Kozak type pine nuts",
+                "wikipedia_title": "Kozak type pine nuts"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "pine nuts (Pinus pinea L.)",
+                "wikipedia_title": "Pine nuts (Pinus pinea)"
+            },
+            {
+                "named_entity_in_the_text": "pick up activity of pine nuts",
+                "wikipedia_title": "Pine nut harvesting"
+            },
+            {
+                "named_entity_in_the_text": "processing is done by cooperatives and firms",
+                "wikipedia_title": "Pine nut processing"
+            },
+            {
+                "named_entity_in_the_text": "specific rules",
+                "wikipedia_title": "Regulations for pine nut production"
+            },
+            {
+                "named_entity_in_the_text": "cooperative activities have an important impact on the regional SES",
+                "wikipedia_title": "Impact of cooperatives on rural development"
+            },
+            {
+                "named_entity_in_the_text": "perspectives of the product bring together the farmers, the local government, cooperatives and firms",
+                "wikipedia_title": "Collaboration in agriculture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Bergama",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "named_entity_in_the_text": "Kozak",
+                "wikipedia_title": "Kozak, Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "The average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "named_entity_in_the_text": "The per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Peanut pine (Pinus pinea L.)",
+                "wikipedia_title": "Peanut pine"
+            },
+            {
+                "named_entity_in_the_text": "Bergama-Kozak plateau in Turkey",
+                "wikipedia_title": "Bergama-Kozak Plateau"
+            },
+            {
+                "named_entity_in_the_text": "Madra Mountains",
+                "wikipedia_title": "Madra Mountains"
+            },
+            {
+                "named_entity_in_the_text": "pine forests up to 740 meters high on granite soils in Bergama, Kozak",
+                "wikipedia_title": "Pine forests in Bergama and Kozak"
+            },
+            {
+                "named_entity_in_the_text": "Ministry of Forestry or local administration",
+                "wikipedia_title": "Ministry of Forestry (Turkey)"
+            },
+            {
+                "named_entity_in_the_text": "pine nuts agriculture in this region",
+                "wikipedia_title": "Pine nut cultivation in Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Kozak",
+                "wikipedia_title": "Kozak, Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Bergama",
+                "wikipedia_title": "Bergama"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Kozak plateau",
+                "wikipedia_title": "Kozak Plateau"
+            },
+            {
+                "named_entity_in_the_text": "pine seedlings",
+                "wikipedia_title": "Pine seedling"
+            },
+            {
+                "named_entity_in_the_text": "pests and diseases",
+                "wikipedia_title": "Pest and disease"
+            },
+            {
+                "named_entity_in_the_text": "lack of qualified personnel",
+                "wikipedia_title": "Qualified personnel"
+            },
+            {
+                "named_entity_in_the_text": "education",
+                "wikipedia_title": "Education"
+            },
+            {
+                "named_entity_in_the_text": "inadequate advertisement and marketing",
+                "wikipedia_title": "Advertisement and marketing"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "named_entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "Cropland",
+                "wikipedia_title": "Cropland"
+            },
+            {
+                "named_entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "named_entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "named_entity_in_the_text": "Cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    }
+]

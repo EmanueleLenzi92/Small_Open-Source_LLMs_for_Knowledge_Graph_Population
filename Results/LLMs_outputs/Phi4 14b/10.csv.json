@@ -1,0 +1,118 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Osttiroler Lämmerring",
+                "wikipedia_title": "Raiffeisen (organization)"
+            },
+            {
+                "named_entity_in_the_text": "East-Tyrol",
+                "wikipedia_title": "Lienz"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Alps"
+            },
+            {
+                "named_entity_in_the_text": "Lienz",
+                "wikipedia_title": "Lienz"
+            },
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Tyrol",
+                "wikipedia_title": "Tyrol (state)"
+            },
+            {
+                "named_entity_in_the_text": "Hohe Tauern",
+                "wikipedia_title": "Hohe_Tauern"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Genussregion",
+                "wikipedia_title": "Genussregion (Austria)"
+            },
+            {
+                "named_entity_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "Agrarmarkt Austria"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    }
+]

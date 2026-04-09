@@ -1,0 +1,165 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "GREECE",
+        "wikipedia_title": "Greece"
+      },
+      {
+        "named_entity_in_the_text": "GREECE",
+        "wikipedia_title": "Greece"
+      },
+      {
+        "named_entity_in_the_text": "Minoan Land",
+        "wikipedia_title": "Minoan Land"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Dikti Mountains",
+        "wikipedia_title": "Dikti Mountains"
+      },
+      {
+        "named_entity_in_the_text": "VIANNOS",
+        "wikipedia_title": "Viannos"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (disambiguation)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region (disambiguation)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "agricultural holdings",
+        "wikipedia_title": "Agricultural holding"
+      },
+      {
+        "named_entity_in_the_text": "settlement",
+        "wikipedia_title": "Settlement"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Province or region in Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Dikti",
+        "wikipedia_title": "Mount Dikti"
+      },
+      {
+        "named_entity_in_the_text": "Crete",
+        "wikipedia_title": "Crete"
+      },
+      {
+        "named_entity_in_the_text": "Greece",
+        "wikipedia_title": "Greece"
+      },
+      {
+        "named_entity_in_the_text": "Viannos",
+        "wikipedia_title": "Viannos, Crete"
+      },
+      {
+        "named_entity_in_the_text": "North America",
+        "wikipedia_title": "North America"
+      },
+      {
+        "named_entity_in_the_text": "Europe",
+        "wikipedia_title": "Europe"
+      },
+      {
+        "named_entity_in_the_text": "Minoan Land",
+        "wikipedia_title": "Minoan Land Cooperative"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Dikti Mountain",
+        "wikipedia_title": "Mount Dikti"
+      },
+      {
+        "named_entity_in_the_text": "Aloe Vera",
+        "wikipedia_title": "Aloe vera"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Dikti",
+        "wikipedia_title": "Dikti Mountains"
+      },
+      {
+        "named_entity_in_the_text": "Viannos",
+        "wikipedia_title": "Viannos"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Dikti region",
+        "wikipedia_title": "Dikti"
+      },
+      {
+        "named_entity_in_the_text": "Minoan Land",
+        "wikipedia_title": "Minoan Land Cooperative"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Crete",
+        "wikipedia_title": "Crete"
+      },
+      {
+        "named_entity_in_the_text": "Andalusia",
+        "wikipedia_title": "Andalusia"
+      },
+      {
+        "named_entity_in_the_text": "Spain",
+        "wikipedia_title": "Spain"
+      }
+    ]
+  }
+]

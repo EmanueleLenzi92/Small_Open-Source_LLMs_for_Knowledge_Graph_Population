@@ -1,0 +1,218 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "VC 11 GR",
+                "wikipedia_title": "List of European Union Geographical Indications"
+            },
+            {
+                "named_entity_in_the_text": "Region of Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "EU Geographical Indications (GIs)",
+                "wikipedia_title": "Geographical indications in the European Union"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "White Mountains",
+                "wikipedia_title": "White Mountains (Greece)"
+            },
+            {
+                "named_entity_in_the_text": "KISSAMOS",
+                "wikipedia_title": "Kissamos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "0",
+                "wikipedia_title": "null"
+            },
+            {
+                "named_entity_in_the_text": "1000",
+                "wikipedia_title": "null"
+            },
+            {
+                "named_entity_in_the_text": "159.893",
+                "wikipedia_title": "null"
+            },
+            {
+                "named_entity_in_the_text": "67.50",
+                "wikipedia_title": "null"
+            },
+            {
+                "named_entity_in_the_text": "0.02%",
+                "wikipedia_title": "null"
+            },
+            {
+                "named_entity_in_the_text": "76.5",
+                "wikipedia_title": "null"
+            },
+            {
+                "named_entity_in_the_text": "0.02%",
+                "wikipedia_title": "null"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces in Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions in Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Kissamos mountains",
+                "wikipedia_title": "Kissamos Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Pefkothimaromelo",
+                "wikipedia_title": "Pefkothymaromelo"
+            },
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Cretan plants",
+                "wikipedia_title": "Plants of Crete"
+            },
+            {
+                "named_entity_in_the_text": "Pefkothymatomelo",
+                "wikipedia_title": "Pefkothymatomelo"
+            },
+            {
+                "named_entity_in_the_text": "PDO",
+                "wikipedia_title": "Protected Designation of Origin (PDO)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Topolia",
+                "wikipedia_title": "Topolia, Crete"
+            },
+            {
+                "named_entity_in_the_text": "Kissamos",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "named_entity_in_the_text": "Cretan",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Minoan Civilization",
+                "wikipedia_title": "Minoan civilization"
+            },
+            {
+                "named_entity_in_the_text": "Cretan way of life",
+                "wikipedia_title": "Crete's culture and traditions"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Pefkothymaromelo",
+                "wikipedia_title": "Pefkothymaromelo"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "pefkothymaromelo",
+                "wikipedia_title": "Pefkotymaromelo honey"
+            },
+            {
+                "named_entity_in_the_text": "Kissamos",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "named_entity_in_the_text": "PDO",
+                "wikipedia_title": "Protected Designation of Origin"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "EU katalog (eAmbrosia)",
+                "wikipedia_title": "European Union Honey Regulations"
+            },
+            {
+                "named_entity_in_the_text": "Peyfothymaromelo",
+                "wikipedia_title": "Peyfothymaromelo honey"
+            }
+        ]
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "Scandinavian Uco",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "original_value": "Scandinavia",
+                "Wikidata_ID": "Q21195"
+            },
+            {
+                "originalKey": "Trysil",
+                "original_value": "Trysil",
+                "Wikidata_ID": "Q48529"
+            },
+            {
+                "originalKey": "Sweden",
+                "original_value": "Sweden",
+                "Wikidata_ID": "Q34"
+            },
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavian countries",
+                "original_value": "Scandinavia",
+                "Wikidata_ID": "Q21195"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavian mountains",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "COVID-19 Pandemic",
+                "original_value": "COVID-19 pandemic",
+                "Wikidata_ID": "Q81068910"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vadsø",
+                "original_value": "Vadsø",
+                "Wikidata_ID": "Q126494003"
+            },
+            {
+                "originalKey": "Oppdal",
+                "original_value": "Oppdal",
+                "Wikidata_ID": "Q131756830"
+            },
+            {
+                "originalKey": "Hardangervidda National Park",
+                "original_value": "Hardangervidda National Park",
+                "Wikidata_ID": "Q1140044"
+            },
+            {
+                "originalKey": "Uvdal",
+                "original_value": "Uvdal",
+                "Wikidata_ID": "Q35422459"
+            },
+            {
+                "originalKey": "Ullensvang",
+                "original_value": "Ullensvang",
+                "Wikidata_ID": "Q484077"
+            },
+            {
+                "originalKey": "Lapland Region",
+                "original_value": "Lapland",
+                "Wikidata_ID": "Q1079386"
+            },
+            {
+                "originalKey": "Finland",
+                "original_value": "Finland",
+                "Wikidata_ID": "Q33"
+            },
+            {
+                "originalKey": "Norbotten",
+                "original_value": "Norrbotten",
+                "Wikidata_ID": "Q211649"
+            },
+            {
+                "originalKey": "Sweden",
+                "original_value": "Sweden",
+                "Wikidata_ID": "Q34"
+            }
+        ]
+    }
+]

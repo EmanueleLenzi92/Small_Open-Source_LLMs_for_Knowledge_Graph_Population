@@ -1,0 +1,217 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "SPAIN",
+        "wikipedia_title": "Spain"
+      },
+      {
+        "named_entity_in_the_text": "ADEGUA",
+        "wikipedia_title": "Adega"
+      },
+      {
+        "named_entity_in_the_text": "ARAGON",
+        "wikipedia_title": "Aragon (autonomous community)"
+      },
+      {
+        "named_entity_in_the_text": "TORRES DE BERRELLÉN",
+        "wikipedia_title": "Torres de Berrellén"
+      },
+      {
+        "named_entity_in_the_text": "ZARAGOZA",
+        "wikipedia_title": "Zaragoza"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Pyrenees",
+        "wikipedia_title": "Pyrenees"
+      },
+      {
+        "named_entity_in_the_text": "Jaca (Ascara)",
+        "wikipedia_title": "Jaca"
+      },
+      {
+        "named_entity_in_the_text": "Canal de Berdún",
+        "wikipedia_title": "Canal de Berdún"
+      },
+      {
+        "named_entity_in_the_text": "Huesca",
+        "wikipedia_title": "Huesca"
+      },
+      {
+        "named_entity_in_the_text": "Zaragoza",
+        "wikipedia_title": "Zaragoza"
+      },
+      {
+        "named_entity_in_the_text": "Ascara",
+        "wikipedia_title": "Ascara"
+      },
+      {
+        "named_entity_in_the_text": "Torres de Berrellén",
+        "wikipedia_title": "Torres de Berrellén"
+      },
+      {
+        "named_entity_in_the_text": "Alagón",
+        "wikipedia_title": "Alagón"
+      },
+      {
+        "named_entity_in_the_text": "Montañana",
+        "wikipedia_title": "Montañana"
+      },
+      {
+        "named_entity_in_the_text": "Gardeniers",
+        "wikipedia_title": "Gardeniers"
+      },
+      {
+        "named_entity_in_the_text": "Jacetania",
+        "wikipedia_title": "Jacetania"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Province",
+        "wikipedia_title": "Province (geography)"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Region"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (Region)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "72.4",
+        "wikipedia_title": "Not available"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Province or Region in Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Aragonese Pyrenees",
+        "wikipedia_title": "Pyrenees"
+      },
+      {
+        "named_entity_in_the_text": "Cielos de Ascara",
+        "wikipedia_title": "Cielos de Ascara"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Aragon",
+        "wikipedia_title": "Aragon (Spain)"
+      },
+      {
+        "named_entity_in_the_text": "Organic Production of Foodstuffs linked to the Aragonese Territory",
+        "wikipedia_title": "Organic production in Aragon"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "New products",
+        "wikipedia_title": "New product"
+      },
+      {
+        "named_entity_in_the_text": "New processes",
+        "wikipedia_title": "New process"
+      },
+      {
+        "named_entity_in_the_text": "New marketing strategies",
+        "wikipedia_title": "Marketing strategy"
+      },
+      {
+        "named_entity_in_the_text": "New governance systems",
+        "wikipedia_title": "Governance system"
+      },
+      {
+        "named_entity_in_the_text": "Cropland",
+        "wikipedia_title": "Cropland"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "San Juan de la Peña",
+        "wikipedia_title": "San Juan de la Peña"
+      },
+      {
+        "named_entity_in_the_text": "Monte Oroel",
+        "wikipedia_title": "Monte Oroel"
+      },
+      {
+        "named_entity_in_the_text": "Western Valleys",
+        "wikipedia_title": "Valle del Ebro"
+      },
+      {
+        "named_entity_in_the_text": "Torres de Berrellén",
+        "wikipedia_title": "Torres de Berrellén"
+      },
+      {
+        "named_entity_in_the_text": "Aragón",
+        "wikipedia_title": "Aragón (región)"
+      },
+      {
+        "named_entity_in_the_text": "Montañana",
+        "wikipedia_title": "Montañana"
+      },
+      {
+        "named_entity_in_the_text": "Mercazaragoza",
+        "wikipedia_title": "Mercazaragoza"
+      },
+      {
+        "named_entity_in_the_text": "Europe",
+        "wikipedia_title": "Europe"
+      }
+    ]
+  }
+]

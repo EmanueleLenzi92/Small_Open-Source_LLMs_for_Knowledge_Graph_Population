@@ -1,0 +1,105 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "named_entity_in_the_text": "General Directorate of Tea Enterprises (Çay-Kur)",
+                "wikipedia_title": "General Directorate of State Economic Enterprises"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Eastern Black Sea Mountains",
+                "wikipedia_title": "Black Sea Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Güneysu",
+                "wikipedia_title": null
+            },
+            {
+                "named_entity_in_the_text": "Rize Province",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "named_entity_in_the_text": "Black Sea Region",
+                "wikipedia_title": "Black Sea Region (Turkey)"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "named_entity_in_the_text": "Turkish Patent and Trademark Office",
+                "wikipedia_title": "Directorate of Patents, Trademarks and Designs (Turkey)"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SCOTLAND HUTTON",
+                "wikipedia_title": "Scotland Hutton"
+            },
+            {
+                "named_entity_in_the_text": "Wales",
+                "wikipedia_title": "Wales"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "West Wales",
+                "wikipedia_title": "West Wales (NUTS 2)"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "Somerset",
+                "wikipedia_title": "Somerset"
+            },
+            {
+                "named_entity_in_the_text": "Wiltshire",
+                "wikipedia_title": "Wiltshire"
+            },
+            {
+                "named_entity_in_the_text": "Castle Dairies",
+                "wikipedia_title": "Castle Dairies"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "Big Cheese festival",
+                "wikipedia_title": "Big Cheese Festival"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Somerset",
+                "wikipedia_title": "Somerset"
+            },
+            {
+                "named_entity_in_the_text": "Wiltshire",
+                "wikipedia_title": "Wiltshire"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    }
+]

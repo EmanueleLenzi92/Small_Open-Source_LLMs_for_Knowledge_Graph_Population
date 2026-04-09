@@ -1,0 +1,147 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Greek",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "HELMOS",
+                "original_value": "Chelmos",
+                "Wikidata_ID": "Q630782"
+            },
+            {
+                "originalKey": "KILLINI",
+                "original_value": "Killini",
+                "Wikidata_ID": "Q1685886"
+            },
+            {
+                "originalKey": "ZIRIA",
+                "original_value": "Ziria",
+                "Wikidata_ID": "Q8072760"
+            },
+            {
+                "originalKey": "KORINTHIA",
+                "original_value": "Korinthia",
+                "Wikidata_ID": "Q208306"
+            },
+            {
+                "originalKey": "Feneos Plateau",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            },
+            {
+                "originalKey": "Ziria",
+                "original_value": "Ziria",
+                "Wikidata_ID": "Q8072760"
+            },
+            {
+                "originalKey": "Chelmos (Aroania)",
+                "original_value": "Chelmos",
+                "Wikidata_ID": "Q630782"
+            },
+            {
+                "originalKey": "Oligyrtos",
+                "original_value": "Oligyrtos",
+                "Wikidata_ID": "Q7086865"
+            },
+            {
+                "originalKey": "Saitas",
+                "original_value": "Mount_Saitas",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Patras",
+                "original_value": "Patras",
+                "Wikidata_ID": "Q133123"
+            },
+            {
+                "originalKey": "Athens",
+                "original_value": "Athens",
+                "Wikidata_ID": "Q1524"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            },
+            {
+                "originalKey": "Peloponnese",
+                "original_value": "Peloponnese",
+                "Wikidata_ID": "Q78967"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Wesdtern Macedonia",
+                "original_value": "Western Macedonia",
+                "Wikidata_ID": "Q165408"
+            }
+        ]
+    }
+]

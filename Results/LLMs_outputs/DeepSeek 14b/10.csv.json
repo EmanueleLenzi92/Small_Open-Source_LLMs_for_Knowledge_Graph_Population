@@ -1,0 +1,113 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Osttiroler Lämmerring",
+                "wikipedia_title": "Osttiroler Lämmerring"
+            },
+            {
+                "named_entity_in_the_text": "Raiffeisen cooperative East-Tyrol",
+                "wikipedia_title": "Raiffeisen Cooperative East Tyrol"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "named_entity_in_the_text": "Lienz",
+                "wikipedia_title": "Lienz"
+            },
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Tyrol",
+                "wikipedia_title": "Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Hohe Tauern",
+                "wikipedia_title": "Hohe Tauern"
+            },
+            {
+                "named_entity_in_the_text": "Gailtal valley",
+                "wikipedia_title": "Gailtal"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Settlement (128 km)",
+                "wikipedia_title": "Settlement"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Genussregion",
+                "wikipedia_title": "Genussregion"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Vorarlberg Community"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    }
+]

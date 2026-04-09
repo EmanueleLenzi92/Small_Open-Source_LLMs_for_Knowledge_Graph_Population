@@ -1,0 +1,169 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN ADEGUA",
+                "original_value": "Adegua",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 34 ES",
+                "original_value": "Nothing found",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "SPAIN",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Betic System",
+                "original_value": "Betic System",
+                "Wikidata_ID": "Q831469"
+            },
+            {
+                "originalKey": "Carcabuey",
+                "original_value": "Carcabuey",
+                "Wikidata_ID": "Q842679"
+            },
+            {
+                "originalKey": "Sierra Subbética",
+                "original_value": "Sierra Subbética",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural Park",
+                "original_value": "Natural Park (Spain)",
+                "Wikidata_ID": "Q728904"
+            },
+            {
+                "originalKey": "Carcabuey",
+                "original_value": "Carcabuey",
+                "Wikidata_ID": "Q842679"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province (disambiguation)",
+                "Wikidata_ID": "Q4644326"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "522",
+                "original_value": null,
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "82.5 km",
+                "original_value": null,
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province (Canada)",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Province or Region in Canada",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "intergenerational social cohesion",
+                "original_value": "Intergenerational solidarity",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "informal sector",
+                "original_value": "Informal economy",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "non-monetised and informal economy",
+                "original_value": "Informal economy",
+                "Wikidata_ID": "Q944235"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "PROMI",
+                "original_value": "PROMI",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Provincial Council",
+                "original_value": "Provincial Council (Spain)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sierra",
+                "original_value": "Sierra Leone",
+                "Wikidata_ID": "Q1044"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Subbética",
+                "original_value": "Subbética",
+                "Wikidata_ID": "Q1117341"
+            },
+            {
+                "originalKey": "Sierra",
+                "original_value": "Sierra (mountain range)",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "PORTUGAL ESTRELA",
+                "wikipedia_title": "Portugal (EU member state)"
+            },
+            {
+                "named_entity_in_the_text": "Manteigas",
+                "wikipedia_title": "Manteigas"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Cordilheira Central",
+                "wikipedia_title": "Cordilheira Central"
+            },
+            {
+                "named_entity_in_the_text": "Manteigas",
+                "wikipedia_title": "Manteigas"
+            },
+            {
+                "named_entity_in_the_text": "Guarda",
+                "wikipedia_title": "Guarda"
+            },
+            {
+                "named_entity_in_the_text": "Seia",
+                "wikipedia_title": "Seia"
+            },
+            {
+                "named_entity_in_the_text": "Covilhã",
+                "wikipedia_title": "Covilhã"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Portuguese",
+                "wikipedia_title": "Portugal"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Manteigas",
+                "wikipedia_title": "Manteigas"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Serra da Estrela",
+                "wikipedia_title": "Serra da Estrela"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Serra da Estrela",
+                "wikipedia_title": "Serra da Estrela"
+            },
+            {
+                "named_entity_in_the_text": "Rio Mondego",
+                "wikipedia_title": "Mondogo_River"
+            },
+            {
+                "named_entity_in_the_text": "Municipality of Gouveia",
+                "wikipedia_title": "Gouveia_Municipality"
+            },
+            {
+                "named_entity_in_the_text": "Rio Zêzere",
+                "wikipedia_title": "Zêzere_River"
+            },
+            {
+                "named_entity_in_the_text": "Municipality of Manteigas",
+                "wikipedia_title": "Manteigas_Municipality"
+            },
+            {
+                "named_entity_in_the_text": "Rio Alva",
+                "wikipedia_title": "Alva_River"
+            },
+            {
+                "named_entity_in_the_text": "Municipality of Seia",
+                "wikipedia_title": "Seia_Municipality"
+            },
+            {
+                "named_entity_in_the_text": "Rio Alvôco",
+                "wikipedia_title": "Alvôco_River"
+            },
+            {
+                "named_entity_in_the_text": "Tagus",
+                "wikipedia_title": "Tagus_River"
+            }
+        ]
+    }
+]

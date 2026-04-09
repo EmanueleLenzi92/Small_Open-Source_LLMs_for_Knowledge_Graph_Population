@@ -1,0 +1,101 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "VC 17 CZ",
+                "wikipedia_title": null
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Giant Mountains",
+                "wikipedia_title": "Karkonosze"
+            },
+            {
+                "named_entity_in_the_text": "Trutnov",
+                "wikipedia_title": "Trutnov"
+            },
+            {
+                "named_entity_in_the_text": "NUTS 3 Kralovehradecky",
+                "wikipedia_title": "Královéhradecký kraj"
+            },
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Poland",
+                "wikipedia_title": "Poland"
+            },
+            {
+                "named_entity_in_the_text": "Germany",
+                "wikipedia_title": "Germany"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    }
+]

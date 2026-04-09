@@ -1,0 +1,167 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Mugla",
+                "wikipedia_title": "Muğla Province"
+            },
+            {
+                "named_entity_in_the_text": "TURKSTAT",
+                "wikipedia_title": "Turkish Statistical Institute"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Menteşe Mountains",
+                "wikipedia_title": "Menteşe Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Ula",
+                "wikipedia_title": "Ula, Muğla"
+            },
+            {
+                "named_entity_in_the_text": "Muğla province",
+                "wikipedia_title": "Muğla Province"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Turkish Patent and Trademark Office",
+                "wikipedia_title": "Turkish Patent and Trademark Office"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Muğla Province",
+                "wikipedia_title": "Muğla Province"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Switzerland",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "named_entity_in_the_text": "UK",
+                "wikipedia_title": "United Kingdom"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "France",
+                "wikipedia_title": "France"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Hungary",
+                "wikipedia_title": "Hungary"
+            },
+            {
+                "named_entity_in_the_text": "Italy",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "named_entity_in_the_text": "North Macedonia",
+                "wikipedia_title": "North Macedonia"
+            },
+            {
+                "named_entity_in_the_text": "Romania",
+                "wikipedia_title": "Romania"
+            },
+            {
+                "named_entity_in_the_text": "Serbia",
+                "wikipedia_title": "Serbia"
+            },
+            {
+                "named_entity_in_the_text": "Slovakia",
+                "wikipedia_title": "Slovakia"
+            },
+            {
+                "named_entity_in_the_text": "Spain",
+                "wikipedia_title": "Spain"
+            }
+        ]
+    }
+]

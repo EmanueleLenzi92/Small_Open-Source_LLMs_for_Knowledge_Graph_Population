@@ -1,0 +1,230 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "Skandinavian Union of Companies",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains - Scandes",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Trysil",
+                "original_value": "Trysille",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Sweden",
+                "original_value": "Sweden",
+                "Wikidata_ID": "Q34"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province (economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (economics)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province (Canada)",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Province or region in Canada",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavian countries",
+                "original_value": "Scandinavia",
+                "Wikidata_ID": "Q21195"
+            },
+            {
+                "originalKey": "VCs (Venture Capitalists)",
+                "original_value": "List of venture capital firms",
+                "Wikidata_ID": "Q6644591"
+            },
+            {
+                "originalKey": "area",
+                "original_value": "None found",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "websites",
+                "original_value": "Website",
+                "Wikidata_ID": "Q35127"
+            },
+            {
+                "originalKey": "touristic assets",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "labelling schemes",
+                "original_value": "Labeling scheme",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "family businesses",
+                "original_value": "Family business",
+                "Wikidata_ID": "Q1395324"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavian",
+                "original_value": "Scandinavia",
+                "Wikidata_ID": "Q21195"
+            },
+            {
+                "originalKey": "winter",
+                "original_value": "Winter (season)",
+                "Wikidata_ID": "Q1311"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "COVID-19 Pandemic",
+                "original_value": "COVID-19 pandemic",
+                "Wikidata_ID": "Q81068910"
+            },
+            {
+                "originalKey": "Arctic",
+                "original_value": "Arctic",
+                "Wikidata_ID": "Q25322"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Natural land",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Cropland",
+                "Wikidata_ID": "Q3395383"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vadsø",
+                "original_value": "Vadsø",
+                "Wikidata_ID": "Q126494003"
+            },
+            {
+                "originalKey": "Oppdal",
+                "original_value": "Oppdal (municipality)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Hardangervidda National Park",
+                "original_value": "Hardangervidda National Park",
+                "Wikidata_ID": "Q1140044"
+            },
+            {
+                "originalKey": "Lapland Region",
+                "original_value": "Lapland (region)",
+                "Wikidata_ID": "Q1079386"
+            },
+            {
+                "originalKey": "Norbotten",
+                "original_value": "Nordboten",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

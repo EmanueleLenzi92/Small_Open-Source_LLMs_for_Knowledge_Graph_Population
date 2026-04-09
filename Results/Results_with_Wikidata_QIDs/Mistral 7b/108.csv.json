@@ -1,0 +1,276 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "MOVING (Value Chain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "VC 17 GR",
+                "original_value": "VC 17 GR",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local producers",
+                "original_value": "Local producers",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "families",
+                "original_value": "Families",
+                "Wikidata_ID": "Q8436"
+            },
+            {
+                "originalKey": "cooperative",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            },
+            {
+                "originalKey": "firms",
+                "original_value": "Firms",
+                "Wikidata_ID": "Q113172113"
+            },
+            {
+                "originalKey": "local catering services",
+                "original_value": "Local catering services",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local cultural collectives",
+                "original_value": "Local cultural collectives",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "munucipal administration",
+                "original_value": "Municipal administration",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Greek market and gastronomy",
+                "original_value": "Greek market and gastronomy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "research projects",
+                "original_value": "Research projects",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "HELMS / KILLINI (ZIRIA)",
+                "original_value": "Helmos",
+                "Wikidata_ID": "Q630782"
+            },
+            {
+                "originalKey": "KORINTHIA",
+                "original_value": "Corinthia",
+                "Wikidata_ID": "Q208306"
+            },
+            {
+                "originalKey": "Feneos Plateau",
+                "original_value": "Feneos Plateau",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional population density",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The average per capita income (EUR/year) [Province]",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year [Province]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "The per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year [Region]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            },
+            {
+                "originalKey": "PGI products",
+                "original_value": "Protected Geographical Indication",
+                "Wikidata_ID": "Q363268"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "plateau",
+                "original_value": "Plateau (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "legumes",
+                "original_value": "Legume",
+                "Wikidata_ID": "Q145909"
+            },
+            {
+                "originalKey": "cooperative",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Legumes",
+                "original_value": "Legume",
+                "Wikidata_ID": "Q145909"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "VC (venture capital)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "endogenious innovation",
+                "original_value": "Endogenous growth",
+                "Wikidata_ID": "Q576355"
+            },
+            {
+                "originalKey": "knowledge capital",
+                "original_value": "Knowledge management",
+                "Wikidata_ID": "Q192060"
+            },
+            {
+                "originalKey": "PGI",
+                "original_value": "Geographic indication",
+                "Wikidata_ID": "Q325668"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Western Macedonia",
+                "original_value": "Western Macedonia",
+                "Wikidata_ID": "Q165408"
+            },
+            {
+                "originalKey": "MRL - NUTS3 : EL531, EL532, EL533",
+                "original_value": "NUTS3:EL531, EL532, EL533",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

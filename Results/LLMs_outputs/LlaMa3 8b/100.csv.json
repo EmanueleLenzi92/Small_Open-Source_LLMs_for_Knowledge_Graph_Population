@@ -1,0 +1,132 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoan_Land"
+            },
+            {
+                "named_entity_in_the_text": "Cretan Diet Festival",
+                "wikipedia_title": "Cretan_Diet_Festival"
+            },
+            {
+                "named_entity_in_the_text": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "wikipedia_title": "Pancretan_Network_of_Organic_Farmers_of_Aloe_Vera"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti Mountains",
+                "wikipedia_title": "Dikti_Mountains"
+            },
+            {
+                "named_entity_in_the_text": "VIANNOS",
+                "wikipedia_title": "Viannos"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Europe"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_[Country]"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_[Country]"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti mountain landscape",
+                "wikipedia_title": "Dikti Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Viannos",
+                "wikipedia_title": "Viannos"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti",
+                "wikipedia_title": "Mount Dikti"
+            },
+            {
+                "named_entity_in_the_text": "Viannos",
+                "wikipedia_title": "Viannos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti",
+                "wikipedia_title": "Dikti (region)"
+            },
+            {
+                "named_entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoa"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Andalusia, Spain",
+                "wikipedia_title": "Andalusia"
+            }
+        ]
+    }
+]

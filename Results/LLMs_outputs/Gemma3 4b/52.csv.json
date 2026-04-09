@@ -1,0 +1,117 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sumava",
+                "wikipedia_title": "Sumava Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Cesky les",
+                "wikipedia_title": "Český les"
+            },
+            {
+                "named_entity_in_the_text": "Klatovy",
+                "wikipedia_title": "Klatovy"
+            },
+            {
+                "named_entity_in_the_text": "Germany",
+                "wikipedia_title": "Germany"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Bee products",
+                "wikipedia_title": "Bee products"
+            },
+            {
+                "named_entity_in_the_text": "mountain regions",
+                "wikipedia_title": "Mountain region"
+            },
+            {
+                "named_entity_in_the_text": "Beekeeping",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "named_entity_in_the_text": "bee keepers",
+                "wikipedia_title": "Beekeeping"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sumava Mountains",
+                "wikipedia_title": "Sumava Mountains"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "bee colonies",
+                "wikipedia_title": "Bee colony"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    }
+]

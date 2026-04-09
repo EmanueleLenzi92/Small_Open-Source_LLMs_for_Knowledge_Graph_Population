@@ -1,0 +1,258 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "ALMO",
+                "wikipedia_title": "Almo Steirisches Almochsenfleisch"
+            },
+            {
+                "named_entity_in_the_text": "VC 01 AT",
+                "wikipedia_title": "List of VC IDs by country"
+            },
+            {
+                "named_entity_in_the_text": "Almenland Marketing GmbH",
+                "wikipedia_title": "Almenland Marketing GmbH"
+            },
+            {
+                "named_entity_in_the_text": "ÖPUL",
+                "wikipedia_title": "Austrian Environmental Protection Program"
+            },
+            {
+                "named_entity_in_the_text": "Genussregion Almenland",
+                "wikipedia_title": "Almenland Region"
+            },
+            {
+                "named_entity_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "Austria's agricultural market"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "RR 11",
+                "wikipedia_title": "Rhine Valley (Austria)"
+            },
+            {
+                "named_entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "named_entity_in_the_text": "Weiz",
+                "wikipedia_title": "Weiz, Austria"
+            },
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "1098",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "464",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1720",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "90.654",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "82.56",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "3.68%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "76.28",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "3.30%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "4310",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "2.77%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "4555",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "100000",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "ALMO",
+                "wikipedia_title": "ALMO (association)"
+            },
+            {
+                "named_entity_in_the_text": "LEADER-region Almenland",
+                "wikipedia_title": "Leader Region Almenland"
+            },
+            {
+                "named_entity_in_the_text": "Energieregion Weiz-Gleisdorf",
+                "wikipedia_title": "Energy Region Weiz-Gleisdorf"
+            },
+            {
+                "named_entity_in_the_text": "ALMO",
+                "wikipedia_title": "ALMO (association)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "sheep farmers",
+                "wikipedia_title": "Sheep farmer"
+            },
+            {
+                "named_entity_in_the_text": "pig farmers",
+                "wikipedia_title": "Pig farmer"
+            },
+            {
+                "named_entity_in_the_text": "ALMO",
+                "wikipedia_title": "ALMO (organization)"
+            },
+            {
+                "named_entity_in_the_text": "hiking",
+                "wikipedia_title": "Hiking"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "drough",
+                "wikipedia_title": "Drought"
+            },
+            {
+                "named_entity_in_the_text": "heavy rain",
+                "wikipedia_title": "Heavy rainfall"
+            },
+            {
+                "named_entity_in_the_text": "feedbase",
+                "wikipedia_title": "Animal feed"
+            },
+            {
+                "named_entity_in_the_text": "pasture",
+                "wikipedia_title": "Pasture"
+            },
+            {
+                "named_entity_in_the_text": "alpine pasture areas",
+                "wikipedia_title": "Alpine meadows"
+            },
+            {
+                "named_entity_in_the_text": "ALMO",
+                "wikipedia_title": "Agroforestry"
+            },
+            {
+                "named_entity_in_the_text": "women led farms",
+                "wikipedia_title": "Women's agricultural cooperatives"
+            },
+            {
+                "named_entity_in_the_text": "income security",
+                "wikipedia_title": "Income stability"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "ALMO",
+                "wikipedia_title": "ALMO (organization)"
+            },
+            {
+                "named_entity_in_the_text": "LEADER",
+                "wikipedia_title": "LEADER (program)"
+            },
+            {
+                "named_entity_in_the_text": "System Haberl",
+                "wikipedia_title": "Haberl System"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Lower Austria",
+                "wikipedia_title": "Lower Austria"
+            },
+            {
+                "named_entity_in_the_text": "Carinthia",
+                "wikipedia_title": "Carinthia"
+            }
+        ]
+    }
+]

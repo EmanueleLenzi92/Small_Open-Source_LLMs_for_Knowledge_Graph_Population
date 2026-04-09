@@ -1,0 +1,136 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "SCOTLAND",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q22",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "HUTTON",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q5951007",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Ross and Cromarty",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1586842",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Scotland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Black Isle wood turningtland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Highlands and Island",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q729025",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Ross and Cromarty",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1586842",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Scotland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22",
+				"type":"ne" 
+            },
+        {
+                "Wikipedia_label": "Inverness",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q160493",
+				"type":"ne" 
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Scottish Government",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q32521"
+            },
+            {
+                "Wikipedia_label": "BREXIT",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7888194"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Argyll and Bute",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q202174",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Aberdeenshire",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q189912",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UK",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q145",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Scotland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Highlands and Island",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q729025",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Scottish Government",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q32521"
+            }
+        ]
+    }
+]

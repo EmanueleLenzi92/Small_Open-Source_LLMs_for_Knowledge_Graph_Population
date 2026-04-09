@@ -1,0 +1,251 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "Scandinavian Union of Cheesemakers",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pultost",
+                "original_value": "Pultost",
+                "Wikidata_ID": "Q1776589"
+            },
+            {
+                "originalKey": "Slowfood Foundation for Biodiversity",
+                "original_value": "Slow Food",
+                "Wikidata_ID": "Q335823"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains - Scandes",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Lesja",
+                "original_value": "Lesja",
+                "Wikidata_ID": "Q1820720"
+            },
+            {
+                "originalKey": "Rauma river",
+                "original_value": "Rauma River",
+                "Wikidata_ID": "Q494838"
+            },
+            {
+                "originalKey": "Gudbrandsdalslågen river",
+                "original_value": "Gudbrandsdalslågen River",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Lesjaskogsvatnet (Lesjas lake)",
+                "original_value": "Lake Lesja",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "513",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "2209",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1.975",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "0.87",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-9.15%",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "7.13",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "2.86%",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Europe",
+                "Wikidata_ID": "Q6470668"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "4752.83",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "18.66%",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "4 271",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "100000",
+                "original_value": "Kilometers",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "natural pastures",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pultost producers",
+                "original_value": "List of cooperatives in Norway",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pultosts BA",
+                "original_value": "Pultosts BA",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pultost Innlandet SA",
+                "original_value": "Pultost Innlandet SA",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Slowfood Foundation",
+                "original_value": "Slow Food",
+                "Wikidata_ID": "Q335823"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "industrial dairies",
+                "original_value": "Industrial dairy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "artisanal cheese making",
+                "original_value": "Artisan cheesemaking",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land use type",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Social",
+                "original_value": "Social factors",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Valdres County",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Etnedal",
+                "original_value": "Etnedal",
+                "Wikidata_ID": "Q488049"
+            }
+        ]
+    }
+]

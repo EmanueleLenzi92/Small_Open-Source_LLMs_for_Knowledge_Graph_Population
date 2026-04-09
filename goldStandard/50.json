@@ -1,0 +1,180 @@
+[
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "czech republic",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Ostrava",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q8385",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Beskydy mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q215573",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Vallachian region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Javorníky",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10816446",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Beskydy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q215573",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Western Carpathian",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q927233",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "highlands",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q878223"
+            },
+            {
+                "Wikipedia_label": "Vsetín",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q513417",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Beskydy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q215573",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Valašský",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Vallachian region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Czechia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            }
+           
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Vallachian region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Vallachian",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Beskydy mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q215573",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "valašský",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1957265",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Czechia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            },
+             {
+                "Wikipedia_label": "frgále",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11870615",
+				"type":"ne"
+            }       
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Vallachian region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+				
+            }, 
+            {
+                "Wikipedia_label": "frgále",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11870615",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "frgál",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Czechia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            }
+        ]
+    }
+]

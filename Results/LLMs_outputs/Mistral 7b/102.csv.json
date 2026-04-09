@@ -1,0 +1,206 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MOVING",
+                "wikipedia_title": "MOVING (Value Chain)"
+            },
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "VC 11 GR",
+                "wikipedia_title": "VC 11 GR"
+            },
+            {
+                "named_entity_in_the_text": "pefkothymaromelo",
+                "wikipedia_title": "Pefkothymaromelo"
+            },
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Region of Crete"
+            },
+            {
+                "named_entity_in_the_text": "EU Geographical Indications (GIs)",
+                "wikipedia_title": "Geographical indications in the European Union"
+            },
+            {
+                "named_entity_in_the_text": "honey factories",
+                "wikipedia_title": "Honey factories"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "White Mountains",
+                "wikipedia_title": "White Mountains (Crete)"
+            },
+            {
+                "named_entity_in_the_text": "KISSAMOS",
+                "wikipedia_title": "Kissamos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "The average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "named_entity_in_the_text": "The per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Apicature",
+                "wikipedia_title": "Apiculture"
+            },
+            {
+                "named_entity_in_the_text": "Pefkothimaromelo",
+                "wikipedia_title": "Pefkothimaromelo"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "beekeeping",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "named_entity_in_the_text": "Topolia/Kissamos",
+                "wikipedia_title": "Topolia, Crete"
+            },
+            {
+                "named_entity_in_the_text": "Minoan Civilization",
+                "wikipedia_title": "Minoan civilization"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Pefkothymaromelo",
+                "wikipedia_title": "Pefkothymaromelo"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Pefkothymaromelo",
+                "wikipedia_title": "Pefkothymaromelo"
+            },
+            {
+                "named_entity_in_the_text": "Kissamos area",
+                "wikipedia_title": "Kissamos, Crete"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "EU katalog (eAmbrosia)",
+                "wikipedia_title": "European Union honey register"
+            },
+            {
+                "named_entity_in_the_text": "Peyfothymaromelo",
+                "wikipedia_title": "Peyfothymaromelo"
+            }
+        ]
+    }
+]

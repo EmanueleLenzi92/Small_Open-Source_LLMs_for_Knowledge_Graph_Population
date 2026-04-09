@@ -1,0 +1,266 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "VC 13 UK",
+                "original_value": "United Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Ross and Cromarty",
+                "original_value": "Ross-shire",
+                "Wikidata_ID": "Q978599"
+            },
+            {
+                "originalKey": "Craobh handcrafted wood",
+                "original_value": "Scottish Woodturning",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Farmhouse furniture",
+                "original_value": "Furniture",
+                "Wikidata_ID": "Q14745"
+            },
+            {
+                "originalKey": "Black Isle wood turning",
+                "original_value": "Woodturning",
+                "Wikidata_ID": "Q278156"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highlands and Islands",
+                "original_value": "Highlands and Islands, Scotland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Ross and Cromarty",
+                "original_value": "Ross and Cromarty",
+                "Wikidata_ID": "Q1586842"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "5202.051845",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-3",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1094",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "55.581",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "10.68",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "2.44%",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "11.44",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1.52%",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Europe",
+                "Wikidata_ID": "Q6470668"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU1",
+                "original_value": "Administrative Division of the United States",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "timber producer",
+                "original_value": "Timber industry",
+                "Wikidata_ID": "Q995609"
+            },
+            {
+                "originalKey": "land managers",
+                "original_value": "Forest management",
+                "Wikidata_ID": "Q372561"
+            },
+            {
+                "originalKey": "bespoke carpenters",
+                "original_value": "Carpenter",
+                "Wikidata_ID": "Q203605"
+            },
+            {
+                "originalKey": "tourism busineeses",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scottish Government",
+                "original_value": "Scottish government",
+                "Wikidata_ID": "Q32521"
+            },
+            {
+                "originalKey": "BREXIT",
+                "original_value": "Brexit",
+                "Wikidata_ID": "Q7888194"
+            },
+            {
+                "originalKey": "COVID",
+                "original_value": "COVID-19 pandemic",
+                "Wikidata_ID": "Q81068910"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "artisinal timber products",
+                "original_value": "Artisanal Timber Products",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU1",
+                "original_value": "List of Local Authority Units in Scotland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Argyll and Bute",
+                "original_value": "Argyll and Bute",
+                "Wikidata_ID": "Q202174"
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Scottish Government",
+                "original_value": "Scottish Government",
+                "Wikidata_ID": "Q32521"
+            }
+        ]
+    }
+]

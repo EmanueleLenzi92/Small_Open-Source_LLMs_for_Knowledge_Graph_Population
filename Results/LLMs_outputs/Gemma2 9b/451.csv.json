@@ -1,0 +1,109 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Bergama",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "named_entity_in_the_text": "Kozak",
+                "wikipedia_title": "Kozak, İzmir"
+            },
+            {
+                "named_entity_in_the_text": "Madra Mountains",
+                "wikipedia_title": "Madra Mountains"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Bergama-Kozak plateau",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Kozak plateau",
+                "wikipedia_title": "Kozak Plateau"
+            },
+            {
+                "named_entity_in_the_text": "Madra Mountains",
+                "wikipedia_title": "Madra Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Bergama, Kozak",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "named_entity_in_the_text": "Ministry of Forestry",
+                "wikipedia_title": "Ministry of Forestry and Water Affairs (Turkey)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Kozak/Bergama",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "named_entity_in_the_text": "Turkish Patent and Trademark Office",
+                "wikipedia_title": "Turkish Patent and Trademark Office"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Kozak plateau",
+                "wikipedia_title": "Kozak Plateau"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    }
+]

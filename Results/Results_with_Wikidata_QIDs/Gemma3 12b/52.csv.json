@@ -1,0 +1,91 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sumava",
+                "original_value": "Šumava",
+                "Wikidata_ID": "Q157290"
+            },
+            {
+                "originalKey": "Cesky les",
+                "original_value": "Český les",
+                "Wikidata_ID": "Q685984"
+            },
+            {
+                "originalKey": "LAU 1 Klatovy",
+                "original_value": "Klatovy District",
+                "Wikidata_ID": "Q838341"
+            },
+            {
+                "originalKey": "Germany",
+                "original_value": "Germany",
+                "Wikidata_ID": "Q183"
+            },
+            {
+                "originalKey": "Sumava",
+                "original_value": "Šumava",
+                "Wikidata_ID": "Q157290"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sumava Mountains",
+                "original_value": "Šumava",
+                "Wikidata_ID": "Q157290"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "TURKEY",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rize",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q201101",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "General Directorate of Tea Enterprises (Çay-Kur)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6021512",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Çay-Kur",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6021512",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Black Sea Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q155533",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Güneysu",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2671161",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rize Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q483481",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rize",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q201101",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+ 
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Rize",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q201101",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rize Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q483481",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rainforest Alliance",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2034373",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Rize",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q201101",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7855305",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q43",
+				"type":"ne"
+            }
+        ]
+    }
+]

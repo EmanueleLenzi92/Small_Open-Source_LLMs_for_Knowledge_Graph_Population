@@ -1,0 +1,153 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Aloe vera",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "named_entity_in_the_text": "Cretan Diet Festival",
+                "wikipedia_title": "Cretan diet"
+            },
+            {
+                "named_entity_in_the_text": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "wikipedia_title": "Pancretan Association of Organic Farmers"
+            },
+            {
+                "named_entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoan Land"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti Mountains",
+                "wikipedia_title": "Dikti Mountains"
+            },
+            {
+                "named_entity_in_the_text": "VIANNOS",
+                "wikipedia_title": "Mount Viannos"
+            },
+            {
+                "named_entity_in_the_text": "Dikti/Dicte",
+                "wikipedia_title": "Dikti Mountains"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aloe vera",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "named_entity_in_the_text": "Dikti mountain landscape",
+                "wikipedia_title": "Dikti Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Viannos",
+                "wikipedia_title": "Viannos"
+            },
+            {
+                "named_entity_in_the_text": "North America",
+                "wikipedia_title": "North America"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            },
+            {
+                "named_entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoan Land"
+            },
+            {
+                "named_entity_in_the_text": "PanCretan Network",
+                "wikipedia_title": "Crete"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti",
+                "wikipedia_title": "Dikti"
+            },
+            {
+                "named_entity_in_the_text": "Viannos",
+                "wikipedia_title": "Viannos"
+            },
+            {
+                "named_entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe vera"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti",
+                "wikipedia_title": "Dikti_region"
+            },
+            {
+                "named_entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe_vera"
+            },
+            {
+                "named_entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoan_civilization"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Andalusia",
+                "wikipedia_title": "Andalusia"
+            },
+            {
+                "named_entity_in_the_text": "Spain",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "European",
+                "wikipedia_title": "Europe"
+            }
+        ]
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "Aragon",
+                "wikipedia_title": "Aragon"
+            },
+            {
+                "named_entity_in_the_text": "European Agricultural Fund for Rural Development",
+                "wikipedia_title": "European Agricultural Fund for Rural Development"
+            },
+            {
+                "named_entity_in_the_text": "Zaragoza",
+                "wikipedia_title": "Zaragoza"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pyrenees",
+                "wikipedia_title": "Pyrenees"
+            },
+            {
+                "named_entity_in_the_text": "Jaca",
+                "wikipedia_title": "Jaca"
+            },
+            {
+                "named_entity_in_the_text": "Ascara",
+                "wikipedia_title": "Ascara,_Huesca"
+            },
+            {
+                "named_entity_in_the_text": "Canal de Berdún",
+                "wikipedia_title": "Canal_de_Berdún"
+            },
+            {
+                "named_entity_in_the_text": "Huesca",
+                "wikipedia_title": "Huesca"
+            },
+            {
+                "named_entity_in_the_text": "Zaragoza",
+                "wikipedia_title": "Zaragoza"
+            },
+            {
+                "named_entity_in_the_text": "Torres de Berrellén",
+                "wikipedia_title": "Torres_de_Berrellén"
+            },
+            {
+                "named_entity_in_the_text": "Alagón",
+                "wikipedia_title": "Alagón"
+            },
+            {
+                "named_entity_in_the_text": "Montañana",
+                "wikipedia_title": "Montañana,_Zaragoza"
+            },
+            {
+                "named_entity_in_the_text": "Cielos de Ascara",
+                "wikipedia_title": "Cielos_de_Ascara"
+            },
+            {
+                "named_entity_in_the_text": "Sigpac",
+                "wikipedia_title": "Single_Payment_Scheme"
+            },
+            {
+                "named_entity_in_the_text": "Jaca",
+                "wikipedia_title": "Jaca"
+            },
+            {
+                "named_entity_in_the_text": "Jacetania",
+                "wikipedia_title": "Jacetania"
+            },
+            {
+                "named_entity_in_the_text": "Natura 2000 Network",
+                "wikipedia_title": "Natura_2000"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Cielos de Ascara",
+                "wikipedia_title": "Cielos de Ascara"
+            },
+            {
+                "named_entity_in_the_text": "Aragonese Pyrenees",
+                "wikipedia_title": "Aragonese Pyrenees"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aragon",
+                "wikipedia_title": "Aragon"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "San Juan de la Peña and Monte Oroel",
+                "wikipedia_title": "San Juan de la Peña"
+            },
+            {
+                "named_entity_in_the_text": "Natural Park of the Western Valleys",
+                "wikipedia_title": "Valle de Aragón Natural Park"
+            },
+            {
+                "named_entity_in_the_text": "Torres de Berrellén",
+                "wikipedia_title": "Torres de Berrellén"
+            },
+            {
+                "named_entity_in_the_text": "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+                "wikipedia_title": "Centro de Investigación y Tecnología Agroalimentaria de Aragón"
+            },
+            {
+                "named_entity_in_the_text": "Montañana",
+                "wikipedia_title": "Montañana"
+            },
+            {
+                "named_entity_in_the_text": "ATADES",
+                "wikipedia_title": "ATADES"
+            },
+            {
+                "named_entity_in_the_text": "Mercazaragoza",
+                "wikipedia_title": "Mercazaragoza"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            }
+        ]
+    }
+]

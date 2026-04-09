@@ -1,0 +1,135 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Jeseniky mountains",
+                "original_value": "Jeseniky Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU 1 Jeseník",
+                "original_value": "Jesenicko",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Vsetín",
+                "original_value": "Vsetín",
+                "Wikidata_ID": "Q513417"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Jesenik spa",
+                "original_value": "Jesenice",
+                "Wikidata_ID": "Q4165497"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Vineyard",
+                "Wikidata_ID": "Q22715"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "Jesenik",
+                "original_value": "Jesenice",
+                "Wikidata_ID": "Q4165497"
+            },
+            {
+                "originalKey": "Priessnitz",
+                "original_value": "Václav Půlka",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "rosehips",
+                "original_value": "Rosehip",
+                "Wikidata_ID": "Q46740"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "Slovakia",
+                "original_value": "Slovakia",
+                "Wikidata_ID": "Q214"
+            }
+        ]
+    }
+]

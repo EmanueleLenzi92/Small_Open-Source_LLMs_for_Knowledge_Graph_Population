@@ -1,0 +1,161 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "SKANDINAVIAN UCO",
+        "wikipedia_title": "Skandinavian Union for Organic Crop Production"
+      },
+      {
+        "named_entity_in_the_text": "Roros",
+        "wikipedia_title": "Roros"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Scandinavean Mountains",
+        "wikipedia_title": "Scandinavian Mountains"
+      },
+      {
+        "named_entity_in_the_text": "Tynset",
+        "wikipedia_title": "Tynset, Norway"
+      },
+      {
+        "named_entity_in_the_text": "Østerdalen",
+        "wikipedia_title": "Østerdalen"
+      },
+      {
+        "named_entity_in_the_text": "Norway",
+        "wikipedia_title": "Norway"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Province",
+        "wikipedia_title": "Province (economics)"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Region (economics)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "3031",
+        "wikipedia_title": "Not available"
+      },
+      {
+        "named_entity_in_the_text": "0",
+        "wikipedia_title": "Not available"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "List of provinces in Canada"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "List of regions of Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Ancient crop",
+        "wikipedia_title": "Barley"
+      },
+      {
+        "named_entity_in_the_text": "Farmers",
+        "wikipedia_title": "Farmer"
+      },
+      {
+        "named_entity_in_the_text": "Area with extreme climate conditions",
+        "wikipedia_title": "None"
+      },
+      {
+        "named_entity_in_the_text": "E-commerce platform",
+        "wikipedia_title": "E-commerce"
+      },
+      {
+        "named_entity_in_the_text": "Organization",
+        "wikipedia_title": "None"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Norway",
+        "wikipedia_title": "Norway"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Climate Change",
+        "wikipedia_title": "Climate change"
+      },
+      {
+        "named_entity_in_the_text": "Barley",
+        "wikipedia_title": "Barley"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Rorosmat",
+        "wikipedia_title": "Rorosmat"
+      },
+      {
+        "named_entity_in_the_text": "Cropland",
+        "wikipedia_title": "Cropland"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Albert Einstein",
+        "wikipedia_title": "Albert Einstein"
+      },
+      {
+        "named_entity_in_the_text": "New York City",
+        "wikipedia_title": "New York City"
+      },
+      {
+        "named_entity_in_the_text": "G7 Summit 2023",
+        "wikipedia_title": "2023 G7 summit"
+      },
+      {
+        "named_entity_in_the_text": "World Health Organization",
+        "wikipedia_title": "World Health Organization"
+      }
+    ]
+  }
+]

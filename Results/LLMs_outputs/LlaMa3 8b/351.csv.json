@@ -1,0 +1,134 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "ADEGUA",
+                "wikipedia_title": "Adequa"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betic System"
+            },
+            {
+                "named_entity_in_the_text": "Carcabuey",
+                "wikipedia_title": "Carcabuey"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Subbética",
+                "wikipedia_title": "Subbética Mountains"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Spain"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Autonomous_communities_of_Spain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_[Country]"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_[Country]"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "elderly",
+                "wikipedia_title": "Older_adult"
+            },
+            {
+                "named_entity_in_the_text": "mountain centres",
+                "wikipedia_title": "Mountain_centre"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "PROMI",
+                "wikipedia_title": "None"
+            },
+            {
+                "named_entity_in_the_text": "Provincial Council",
+                "wikipedia_title": "Provincial council"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sierra",
+                "wikipedia_title": "Sierra_(disambiguation)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "public services",
+                "wikipedia_title": "Public service"
+            },
+            {
+                "named_entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sierra",
+                "wikipedia_title": "Sierra_Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Subbética",
+                "wikipedia_title": "Subbética"
+            }
+        ]
+    }
+]

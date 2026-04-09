@@ -1,0 +1,166 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MOVING reference member state of this VC (Value Chain)",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "VC 02 UK",
+                "wikipedia_title": "VC 02 UK"
+            },
+            {
+                "named_entity_in_the_text": "Traditional Welsh artisanal Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "West Wales",
+                "wikipedia_title": "West Wales"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "The Big Cheese",
+                "wikipedia_title": "Big Cheese (festival)"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Castle Dairies"
+            },
+            {
+                "named_entity_in_the_text": "Gorwydd",
+                "wikipedia_title": "Gorwydd Caerphilly"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "named_entity_in_the_text": "Big Cheese festival",
+                "wikipedia_title": "Big Cheese Festival"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "named_entity_in_the_text": "Somerset",
+                "wikipedia_title": "Somerset"
+            },
+            {
+                "named_entity_in_the_text": "Wiltshire",
+                "wikipedia_title": "Wiltshire"
+            }
+        ]
+    }
+]

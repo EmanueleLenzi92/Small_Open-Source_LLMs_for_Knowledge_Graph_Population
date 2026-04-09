@@ -1,0 +1,149 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "VC 17 GR",
+                "wikipedia_title": null
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Helmos / Killini",
+                "wikipedia_title": "Mount Helmos"
+            },
+            {
+                "named_entity_in_the_text": "Ziria",
+                "wikipedia_title": "Mount Ziria"
+            },
+            {
+                "named_entity_in_the_text": "Korinthia",
+                "wikipedia_title": "Corinthia (regional unit)"
+            },
+            {
+                "named_entity_in_the_text": "Feneos Plateau",
+                "wikipedia_title": null
+            },
+            {
+                "named_entity_in_the_text": "Chelmos (Aroania)",
+                "wikipedia_title": "Mount Chelmos"
+            },
+            {
+                "named_entity_in_the_text": "Oligyrtos",
+                "wikipedia_title": "Mount Oligyrtos"
+            },
+            {
+                "named_entity_in_the_text": "Saitas",
+                "wikipedia_title": null
+            },
+            {
+                "named_entity_in_the_text": "Patras",
+                "wikipedia_title": "Patras"
+            },
+            {
+                "named_entity_in_the_text": "Athens",
+                "wikipedia_title": "Athens"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": null
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": null
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            },
+            {
+                "named_entity_in_the_text": "Peloponnese",
+                "wikipedia_title": "Peloponnese"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "municipality administration",
+                "wikipedia_title": "Municipal government"
+            },
+            {
+                "named_entity_in_the_text": "geographic indication (PGI)",
+                "wikipedia_title": "Protected geographical indication"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Western Macedonia",
+                "wikipedia_title": "Western Macedonia"
+            },
+            {
+                "named_entity_in_the_text": "MRL - NUTS3 : EL531, EL532, EL533",
+                "wikipedia_title": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "VC 17 TR",
+                "wikipedia_title": null
+            },
+            {
+                "named_entity_in_the_text": "Pinus pinea L.",
+                "wikipedia_title": "Stone pine"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Bergama",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "named_entity_in_the_text": "İzmir",
+                "wikipedia_title": "İzmir"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Bergama-Kozak plateau",
+                "wikipedia_title": "Kozağac Plateau"
+            },
+            {
+                "named_entity_in_the_text": "Kozak plateau (Madra Mountains)",
+                "wikipedia_title": "Madra Mountains"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Kozak/Bergama",
+                "wikipedia_title": "Bergama"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Kozak plateau",
+                "wikipedia_title": "Kozjak"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    }
+]

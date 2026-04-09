@@ -1,0 +1,109 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandian UCO"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains - Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Lesja",
+                "wikipedia_title": "Lesja"
+            },
+            {
+                "named_entity_in_the_text": "Lesjaskogsvatnet (Lesjas lake)",
+                "wikipedia_title": "Lake Lesjaskog"
+            },
+            {
+                "named_entity_in_the_text": "Rauma river",
+                "wikipedia_title": "Rauma River"
+            },
+            {
+                "named_entity_in_the_text": "Gudbrandsdalslågen river",
+                "wikipedia_title": "Gudbrandsdalslågen"
+            },
+            {
+                "named_entity_in_the_text": "Norwegian trout",
+                "wikipedia_title": "Arctic char"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pultost producers",
+                "wikipedia_title": "Cheesemaking"
+            },
+            {
+                "named_entity_in_the_text": "Pultosts BA",
+                "wikipedia_title": "Cooperative"
+            },
+            {
+                "named_entity_in_the_text": "Pultost Innlandet SA",
+                "wikipedia_title": "Cooperative"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation",
+                "wikipedia_title": "Slow Food"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Etnedal",
+                "wikipedia_title": "Etnedal"
+            }
+        ]
+    }
+]

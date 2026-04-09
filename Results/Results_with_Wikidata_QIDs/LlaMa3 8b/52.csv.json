@@ -1,0 +1,141 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech_Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sumava",
+                "original_value": "Šumava",
+                "Wikidata_ID": "Q157290"
+            },
+            {
+                "originalKey": "Cesky les",
+                "original_value": "Šumava",
+                "Wikidata_ID": "Q157290"
+            },
+            {
+                "originalKey": "Klatovy",
+                "original_value": "Klatovy District",
+                "Wikidata_ID": "Q838341"
+            },
+            {
+                "originalKey": "Germany",
+                "original_value": "Germany",
+                "Wikidata_ID": "Q183"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_and_territories_of_Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Economic_regions_of_Canada",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bee",
+                "original_value": "Honeybee",
+                "Wikidata_ID": "Q102857"
+            },
+            {
+                "originalKey": "Mountain regions",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sumava Mountains",
+                "original_value": "Šumava",
+                "Wikidata_ID": "Q157290"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "beekeepers",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "varroa disease",
+                "original_value": "Varroa destructor",
+                "Wikidata_ID": "Q48564"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech_Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    }
+]

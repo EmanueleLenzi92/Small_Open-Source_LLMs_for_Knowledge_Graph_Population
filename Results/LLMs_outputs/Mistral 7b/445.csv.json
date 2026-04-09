@@ -1,0 +1,194 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MOVING",
+                "wikipedia_title": "Moving (company)"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "VC 11 TR",
+                "wikipedia_title": "VC 11 TR"
+            },
+            {
+                "named_entity_in_the_text": "Mugla",
+                "wikipedia_title": "Mugla"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Menteşe Mountains",
+                "wikipedia_title": "Menteşe Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Ula",
+                "wikipedia_title": "Ula, Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Muğla province",
+                "wikipedia_title": "Muğla Province"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Pine honey",
+                "wikipedia_title": "Honey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pine honey",
+                "wikipedia_title": "Pine honey"
+            },
+            {
+                "named_entity_in_the_text": "Muğla Province",
+                "wikipedia_title": "Muğla Province"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Honey yield",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "named_entity_in_the_text": "Climatic conditions",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "named_entity_in_the_text": "Accommodation",
+                "wikipedia_title": "Housing"
+            },
+            {
+                "named_entity_in_the_text": "Migratory beekeeper",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "named_entity_in_the_text": "Young people",
+                "wikipedia_title": "Youth"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Current and Predicted",
+                "wikipedia_title": "Predictive analytics"
+            },
+            {
+                "named_entity_in_the_text": "Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "tea",
+                "wikipedia_title": "Tea"
+            },
+            {
+                "named_entity_in_the_text": "region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "land use systems",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "named_entity_in_the_text": "local assets",
+                "wikipedia_title": "Local asset"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "MRLs",
+                "wikipedia_title": "Member States of the European Union"
+            }
+        ]
+    }
+]

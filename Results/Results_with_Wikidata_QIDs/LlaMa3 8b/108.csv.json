@@ -1,0 +1,160 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Greek market",
+                "original_value": "Greek cuisine",
+                "Wikidata_ID": "Q744027"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "HELMOS",
+                "original_value": "Mount_Helmos",
+                "Wikidata_ID": "Q630782"
+            },
+            {
+                "originalKey": "KILLINI",
+                "original_value": "Killini",
+                "Wikidata_ID": "Q1685886"
+            },
+            {
+                "originalKey": "ZIRIA",
+                "original_value": "Mount_Ziria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "KORINTHIA",
+                "original_value": "Corinthia",
+                "Wikidata_ID": "Q208306"
+            },
+            {
+                "originalKey": "Feneos Plateau",
+                "original_value": "Feneos_Plateau",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Patras",
+                "original_value": "Patras",
+                "Wikidata_ID": "Q133123"
+            },
+            {
+                "originalKey": "Athens",
+                "original_value": "Athens",
+                "Wikidata_ID": "Q1524"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_of_Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Regions_of_the_European_Union",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_and_territories_of_Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Economic_regions_of_Canada",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            },
+            {
+                "originalKey": "Peloponnese",
+                "original_value": "Peloponnese",
+                "Wikidata_ID": "Q78967"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Legumes",
+                "original_value": "Legume",
+                "Wikidata_ID": "Q145909"
+            },
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "municipality administration",
+                "original_value": "Municipal_administration",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Wesdtern Macedonia",
+                "original_value": "Western_Macedonia",
+                "Wikidata_ID": "Q165408"
+            },
+            {
+                "originalKey": "MRL - NUTS3 : EL531, EL532, EL533",
+                "original_value": null,
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

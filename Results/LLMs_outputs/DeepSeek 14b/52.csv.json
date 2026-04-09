@@ -1,0 +1,90 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sumava - Cesky les",
+                "wikipedia_title": "Sumava"
+            },
+            {
+                "named_entity_in_the_text": "LAU 1 Klatovy",
+                "wikipedia_title": "Czech Republic in LAU levels"
+            },
+            {
+                "named_entity_in_the_text": "Germany",
+                "wikipedia_title": "Germany"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Mountain regions",
+                "wikipedia_title": "Mountain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sumava Mountains",
+                "wikipedia_title": "Sumava"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Beekeepers",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "named_entity_in_the_text": "Varroa disease",
+                "wikipedia_title": "Varroa destructor"
+            },
+            {
+                "named_entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "named_entity_in_the_text": "Natural land",
+                "wikipedia_title": "Natural landscape"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    }
+]

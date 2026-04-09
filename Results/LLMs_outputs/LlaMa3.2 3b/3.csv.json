@@ -1,0 +1,144 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "AUSTRIA",
+        "wikipedia_title": "Austria"
+      },
+      {
+        "named_entity_in_the_text": "VC 03 AT",
+        "wikipedia_title": "None (AT is a country code, not a specific Wikipedia page)"
+      },
+      {
+        "named_entity_in_the_text": "12 farms",
+        "wikipedia_title": "None (not a specific entity, but rather a quantity)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Austrian Alps",
+        "wikipedia_title": "Alpen"
+      },
+      {
+        "named_entity_in_the_text": "Weiz",
+        "wikipedia_title": "Weiz"
+      },
+      {
+        "named_entity_in_the_text": "Europe",
+        "wikipedia_title": "Europe"
+      },
+      {
+        "named_entity_in_the_text": "Almenland",
+        "wikipedia_title": "Alpenland"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (disambiguation)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region (disambiguation)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "4555",
+        "wikipedia_title": "Not available"
+      },
+      {
+        "named_entity_in_the_text": "30 km",
+        "wikipedia_title": "Not available"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region (Canada)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Almenland Nature Park",
+        "wikipedia_title": "Alpen-Adria-Transnationalparks"
+      },
+      {
+        "named_entity_in_the_text": "Almenland Kräuter",
+        "wikipedia_title": "Almenland Kräuter"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Almenland",
+        "wikipedia_title": "Almenland"
+      },
+      {
+        "named_entity_in_the_text": "AgrarMarkt Austria",
+        "wikipedia_title": "AgrarMarkt Austria"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Value Chain",
+        "wikipedia_title": "Value chain"
+      },
+      {
+        "named_entity_in_the_text": "Natural land",
+        "wikipedia_title": "Natural land"
+      },
+      {
+        "named_entity_in_the_text": "Birch sugar",
+        "wikipedia_title": "Birch sugar"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Austrian",
+        "wikipedia_title": "Austria"
+      },
+      {
+        "named_entity_in_the_text": "mountainous regions",
+        "wikipedia_title": "None"
+      }
+    ]
+  }
+]

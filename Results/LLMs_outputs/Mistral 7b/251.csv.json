@@ -1,0 +1,202 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MOVING reference member state of this VC (Value Chain)",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "VC 03 UK",
+                "wikipedia_title": "United Kingdom"
+            },
+            {
+                "named_entity_in_the_text": "Heather moorland in the world",
+                "wikipedia_title": "Heather moorland"
+            },
+            {
+                "named_entity_in_the_text": "Scottish great taste gold award",
+                "wikipedia_title": "Great Taste Awards"
+            },
+            {
+                "named_entity_in_the_text": "Heather Hills in Perthshire",
+                "wikipedia_title": "Perth and Kinross"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands"
+            },
+            {
+                "named_entity_in_the_text": "Eastern Scotland",
+                "wikipedia_title": "Eastern Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scottish Heather honey",
+                "wikipedia_title": "Heather Hills"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross LAU1",
+                "wikipedia_title": "Perth and Kinross"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Heather Hills",
+                "wikipedia_title": "Heather Hills (company)"
+            },
+            {
+                "named_entity_in_the_text": "hives",
+                "wikipedia_title": "Hive"
+            },
+            {
+                "named_entity_in_the_text": "bees",
+                "wikipedia_title": "Bee"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Challenges from changing climate",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "named_entity_in_the_text": "BCI kitemark",
+                "wikipedia_title": "British Retail Consortium"
+            },
+            {
+                "named_entity_in_the_text": "New products",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "named_entity_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "named_entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "named_entity_in_the_text": "Local assets",
+                "wikipedia_title": "Assets"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Heather hills",
+                "wikipedia_title": "Heather"
+            },
+            {
+                "named_entity_in_the_text": "Aberdeenshire LAU1",
+                "wikipedia_title": "Aberdeenshire"
+            },
+            {
+                "named_entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Germany (Luneburg)",
+                "wikipedia_title": "Luneburg"
+            },
+            {
+                "named_entity_in_the_text": "Ireland",
+                "wikipedia_title": "Ireland"
+            }
+        ]
+    }
+]

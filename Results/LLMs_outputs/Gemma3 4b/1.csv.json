@@ -1,0 +1,141 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Almo Steirisches Almochsenfleisch",
+                "wikipedia_title": "Almo (meat)"
+            },
+            {
+                "named_entity_in_the_text": "Steirische Bergland Marktgemeinschaft",
+                "wikipedia_title": "Steiermark"
+            },
+            {
+                "named_entity_in_the_text": "Almenland Marketing GmbH",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "named_entity_in_the_text": "ÖPUL",
+                "wikipedia_title": "Organic Premium in Livestock"
+            },
+            {
+                "named_entity_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "Agrarmarkt Austria"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "named_entity_in_the_text": "Weiz",
+                "wikipedia_title": "Weiz, Styria"
+            },
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "ALMO",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "named_entity_in_the_text": "Weiz-Gleisdorf",
+                "wikipedia_title": "Weiz"
+            },
+            {
+                "named_entity_in_the_text": "Austrian animal welfare NGO",
+                "wikipedia_title": "Animal welfare in Austria"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "regional",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "alpine pasture",
+                "wikipedia_title": "Alpine pasture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "named_entity_in_the_text": "System Haberl",
+                "wikipedia_title": "System Haberl"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Lower Austria",
+                "wikipedia_title": "Lower Austria"
+            },
+            {
+                "named_entity_in_the_text": "Carinthia",
+                "wikipedia_title": "Carinthia"
+            }
+        ]
+    }
+]

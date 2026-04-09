@@ -1,0 +1,106 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Jeseniky mountains",
+                "wikipedia_title": "Jeseníky"
+            },
+            {
+                "named_entity_in_the_text": "LAU 1 Jeseník",
+                "wikipedia_title": "Jeseník (district)"
+            },
+            {
+                "named_entity_in_the_text": "Vsetín",
+                "wikipedia_title": "Vsetín District"
+            },
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Jesenik spa",
+                "wikipedia_title": "Jeseník"
+            },
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "Jesenik spa",
+                "wikipedia_title": "Janské Lázně"
+            },
+            {
+                "named_entity_in_the_text": "Priessnitz sap",
+                "wikipedia_title": "Vincenz Priessnitz"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "Slovakia",
+                "wikipedia_title": "Slovakia"
+            }
+        ]
+    }
+]

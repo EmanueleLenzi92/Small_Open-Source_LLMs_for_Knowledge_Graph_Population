@@ -1,0 +1,290 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN ADEGUA",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "VC 35 ES",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "ATADES Gardeniers Special Employment Center",
+                "wikipedia_title": "Agricultural training center"
+            },
+            {
+                "named_entity_in_the_text": "Boliche, chickpeas, and lentils",
+                "wikipedia_title": "Legumes"
+            },
+            {
+                "named_entity_in_the_text": "Torres de Berrellén melon",
+                "wikipedia_title": "Melon"
+            },
+            {
+                "named_entity_in_the_text": "Local varieties",
+                "wikipedia_title": "Varieties of plants"
+            },
+            {
+                "named_entity_in_the_text": "Borage flower",
+                "wikipedia_title": "Borage"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pyrenees",
+                "wikipedia_title": "Pyrenees"
+            },
+            {
+                "named_entity_in_the_text": "Jaca (Ascara)",
+                "wikipedia_title": "Jaca (town)"
+            },
+            {
+                "named_entity_in_the_text": "Canal de Berdún",
+                "wikipedia_title": "Canal de Berdún"
+            },
+            {
+                "named_entity_in_the_text": "Huesca",
+                "wikipedia_title": "Huesca"
+            },
+            {
+                "named_entity_in_the_text": "Zaragoza",
+                "wikipedia_title": "Zaragoza"
+            },
+            {
+                "named_entity_in_the_text": "Ascara (Huesca)",
+                "wikipedia_title": "Ascara, Huesca"
+            },
+            {
+                "named_entity_in_the_text": "Torres de Berrellén",
+                "wikipedia_title": "Torres de Berrellén"
+            },
+            {
+                "named_entity_in_the_text": "Montañana (Zaragoza)",
+                "wikipedia_title": "Montañana, Zaragoza"
+            },
+            {
+                "named_entity_in_the_text": "Gardeniers farm",
+                "wikipedia_title": "Gardeniers farm"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "The average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "named_entity_in_the_text": "The per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Cielos de Ascara",
+                "wikipedia_title": "Cielos de Ascara"
+            },
+            {
+                "named_entity_in_the_text": "Aragonese Pyrenees",
+                "wikipedia_title": "Aragonese Pyrenees"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aragon",
+                "wikipedia_title": "Aragon"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "rural development policies",
+                "wikipedia_title": "Rural development"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous development"
+            },
+            {
+                "named_entity_in_the_text": "revitalization of rural and mountain areas",
+                "wikipedia_title": "Rural development"
+            },
+            {
+                "named_entity_in_the_text": "traditional varieties",
+                "wikipedia_title": "Traditional agriculture"
+            },
+            {
+                "named_entity_in_the_text": "promote organic production and consumption",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "named_entity_in_the_text": "connect rural and urban areas",
+                "wikipedia_title": "Urban-rural linkages"
+            },
+            {
+                "named_entity_in_the_text": "generate employment",
+                "wikipedia_title": "Employment creation"
+            },
+            {
+                "named_entity_in_the_text": "foster social integration",
+                "wikipedia_title": "Social integration"
+            },
+            {
+                "named_entity_in_the_text": "stimulate forms of public-private cooperation",
+                "wikipedia_title": "Public-private partnerships"
+            },
+            {
+                "named_entity_in_the_text": "New products",
+                "wikipedia_title": "Innovation in product development"
+            },
+            {
+                "named_entity_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing innovation"
+            },
+            {
+                "named_entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance innovation"
+            },
+            {
+                "named_entity_in_the_text": "Cropland",
+                "wikipedia_title": "Agricultural land use"
+            },
+            {
+                "named_entity_in_the_text": "Natural",
+                "wikipedia_title": "Natural resources"
+            },
+            {
+                "named_entity_in_the_text": "social and cultural",
+                "wikipedia_title": "Social and cultural assets"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "San Juan de la Peña",
+                "wikipedia_title": "San Juan de la Peña"
+            },
+            {
+                "named_entity_in_the_text": "Monte Oroel",
+                "wikipedia_title": "Monte Oroel"
+            },
+            {
+                "named_entity_in_the_text": "Natural Park of the Western Valleys",
+                "wikipedia_title": "Natural Park of the Western Valleys"
+            },
+            {
+                "named_entity_in_the_text": "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+                "wikipedia_title": "Centro de Investigación y Tecnología Agroalimentaria de Aragón"
+            },
+            {
+                "named_entity_in_the_text": "Special Employment Center Gardeniers of ATADES",
+                "wikipedia_title": "Special Employment Center Gardeniers of ATADES"
+            }
+        ]
+    }
+]

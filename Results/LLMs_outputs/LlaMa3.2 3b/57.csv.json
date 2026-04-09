@@ -1,0 +1,149 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "CZECH REPUBLIC",
+        "wikipedia_title": "Czech Republic"
+      },
+      {
+        "named_entity_in_the_text": "VC 16 CZ",
+        "wikipedia_title": "null"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Jeseniky mountains",
+        "wikipedia_title": "Jeseniky"
+      },
+      {
+        "named_entity_in_the_text": "LAU 1 Jeseník",
+        "wikipedia_title": "LAU 1 - Vsetín"
+      },
+      {
+        "named_entity_in_the_text": "Czech Republic",
+        "wikipedia_title": "Czech Republic"
+      },
+      {
+        "named_entity_in_the_text": "Europe",
+        "wikipedia_title": "Europe"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (disambiguation)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region (disambiguation)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "110",
+        "wikipedia_title": "None found"
+      },
+      {
+        "named_entity_in_the_text": "protected areas",
+        "wikipedia_title": "Protected area"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "List of provinces in Canada"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "List of regions of Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Jesenik spa",
+        "wikipedia_title": "Jeseniky"
+      },
+      {
+        "named_entity_in_the_text": "Czechia",
+        "wikipedia_title": "Czech Republic"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "VC",
+        "wikipedia_title": "Venture Capital"
+      },
+      {
+        "named_entity_in_the_text": "wine",
+        "wikipedia_title": "Wine"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Czechia",
+        "wikipedia_title": "Czech Republic"
+      },
+      {
+        "named_entity_in_the_text": "Jesenik spa",
+        "wikipedia_title": "Jeseniky"
+      },
+      {
+        "named_entity_in_the_text": "Priessnitz sap",
+        "wikipedia_title": "Priesenitz Spa"
+      },
+      {
+        "named_entity_in_the_text": "V. Priesnitz",
+        "wikipedia_title": "Vratislav Priesnitz"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "rosehips",
+        "wikipedia_title": "Rosehip"
+      },
+      {
+        "named_entity_in_the_text": "New products",
+        "wikipedia_title": "New product"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Czechia",
+        "wikipedia_title": "Czech Republic"
+      },
+      {
+        "named_entity_in_the_text": "Slovakia",
+        "wikipedia_title": "Slovakia"
+      }
+    ]
+  }
+]

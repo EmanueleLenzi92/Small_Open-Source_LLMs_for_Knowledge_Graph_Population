@@ -1,0 +1,140 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "CZECH REPUBLIC",
+        "wikipedia_title": "Czech Republic"
+      },
+      {
+        "named_entity_in_the_text": "VC 10 CZ",
+        "wikipedia_title": "null"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Czech Republic",
+        "wikipedia_title": "Czech Republic"
+      },
+      {
+        "named_entity_in_the_text": "Giant Mountains",
+        "wikipedia_title": "Giant Mountains"
+      },
+      {
+        "named_entity_in_the_text": "Kralovehradecky",
+        "wikipedia_title": "Kralovehradecký kraj"
+      },
+      {
+        "named_entity_in_the_text": "Trutnov",
+        "wikipedia_title": "Trutnov"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (disambiguation)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region (disambiguation)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "100000",
+        "wikipedia_title": "Population threshold"
+      },
+      {
+        "named_entity_in_the_text": "km",
+        "wikipedia_title": "Kilometer"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region (Canada)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "VC",
+        "wikipedia_title": "Venture capital"
+      },
+      {
+        "named_entity_in_the_text": "region",
+        "wikipedia_title": "Geographic region"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "mountain",
+        "wikipedia_title": "Mountain"
+      },
+      {
+        "named_entity_in_the_text": "region",
+        "wikipedia_title": "Region"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Natural land",
+        "wikipedia_title": "List of natural resources"
+      },
+      {
+        "named_entity_in_the_text": "Natural",
+        "wikipedia_title": "None found"
+      },
+      {
+        "named_entity_in_the_text": "cultural",
+        "wikipedia_title": "None found"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "VC",
+        "wikipedia_title": "Ventilator"
+      },
+      {
+        "named_entity_in_the_text": "mountain region",
+        "wikipedia_title": "Mountain region"
+      }
+    ]
+  }
+]

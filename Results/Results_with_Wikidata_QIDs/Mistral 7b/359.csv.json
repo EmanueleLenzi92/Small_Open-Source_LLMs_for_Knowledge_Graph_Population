@@ -1,0 +1,266 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN ADEGUA",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "VC 48 ES",
+                "original_value": "Value Chain (VC)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional charcoal making",
+                "original_value": "Charcoal",
+                "Wikidata_ID": "Q177463"
+            },
+            {
+                "originalKey": "Canary Islands mountains",
+                "original_value": "Canary Islands",
+                "Wikidata_ID": "Q5813"
+            },
+            {
+                "originalKey": "Biosphere Reserve of Gran Canaria",
+                "original_value": "Gran Canaria Biosphere Reserve",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "San Mateo",
+                "original_value": "San Mateo (Spain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Tejeda",
+                "original_value": "Tejeda (Spain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Artenara",
+                "original_value": "Artenara (Spain)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Gran Canaria Island",
+                "original_value": "Gran Canaria",
+                "Wikidata_ID": "Q178925"
+            },
+            {
+                "originalKey": "Tejeda",
+                "original_value": "Tejeda (municipality)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Carbón de La Cumbre",
+                "original_value": "Carbón de la Cumbre",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "regional population",
+                "original_value": "Regional population",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The average per capita income (EUR/year) [Province]",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year [Province]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "The per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year [Region]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Gran Canaria Biosphere Reserve",
+                "original_value": "Gran Canaria Biosphere Reserve",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "charcoal industry",
+                "original_value": "Charcoal industry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Asociación Charamusco Carboneros de la Cumbre",
+                "original_value": "Asociación Charamusco Carboneros de la Cumbre",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "La Cumbre",
+                "original_value": "La Cumbre (mountain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "charcoal",
+                "original_value": "Charcoal",
+                "Wikidata_ID": "Q177463"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "charcoal makers",
+                "original_value": "Charcoal",
+                "Wikidata_ID": "Q177463"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Gran Canaria Biosphere Reserve",
+                "original_value": "Gran Canaria Biosphere Reserve",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Carbón de La Cumbre",
+                "original_value": "Carbón de la Cumbre",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "FSC",
+                "original_value": "Forest Stewardship Council",
+                "Wikidata_ID": "Q748367"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "charcoal production",
+                "original_value": "Charcoal",
+                "Wikidata_ID": "Q177463"
+            },
+            {
+                "originalKey": "Andalusia",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            },
+            {
+                "originalKey": "Basque Country",
+                "original_value": "Basque Country",
+                "Wikidata_ID": "Q3373413"
+            },
+            {
+                "originalKey": "Navarre",
+                "original_value": "Navarre",
+                "Wikidata_ID": "Q4018"
+            }
+        ]
+    }
+]

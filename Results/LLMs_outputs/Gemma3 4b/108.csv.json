@@ -1,0 +1,141 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Greek",
+                "wikipedia_title": "Greek people"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "HELMOS / KILLINI",
+                "wikipedia_title": "Helmos"
+            },
+            {
+                "named_entity_in_the_text": "Ziria",
+                "wikipedia_title": "Ziria Mountains"
+            },
+            {
+                "named_entity_in_the_text": "KORINTHIA",
+                "wikipedia_title": "Corinthia"
+            },
+            {
+                "named_entity_in_the_text": "Feneos Plateau",
+                "wikipedia_title": "None"
+            },
+            {
+                "named_entity_in_the_text": "Ziria 2374m",
+                "wikipedia_title": "Ziria Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Chelmos (Aroania) 2355m",
+                "wikipedia_title": "Monts Pelops"
+            },
+            {
+                "named_entity_in_the_text": "Oligyrtos 1935m",
+                "wikipedia_title": "Olympas"
+            },
+            {
+                "named_entity_in_the_text": "Saitas 1697m",
+                "wikipedia_title": "None"
+            },
+            {
+                "named_entity_in_the_text": "Patras",
+                "wikipedia_title": "Patras"
+            },
+            {
+                "named_entity_in_the_text": "Athens",
+                "wikipedia_title": "Athens"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            },
+            {
+                "named_entity_in_the_text": "Peloponnese",
+                "wikipedia_title": "Peloponnese"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos (village)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos legumes",
+                "wikipedia_title": "Fennec fox"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "municipality administration",
+                "wikipedia_title": "Municipality"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Western Macedonia",
+                "wikipedia_title": "Western Macedonia"
+            }
+        ]
+    }
+]

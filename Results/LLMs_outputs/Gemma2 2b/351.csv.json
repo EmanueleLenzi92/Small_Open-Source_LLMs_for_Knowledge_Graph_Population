@@ -1,0 +1,266 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN ADEGUA",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "VC 34 ES",
+                "wikipedia_title": "List of European Union member states"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betics Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Carcabuey",
+                "wikipedia_title": "Carcabuey"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Subbética",
+                "wikipedia_title": "Sierra de Bética"
+            },
+            {
+                "named_entity_in_the_text": "Natural Park",
+                "wikipedia_title": "List of Natural Parks in Spain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "79.78",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "550",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1300",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "2.371",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "29.72",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "-11.70%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "97",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "-0.01%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "elderly",
+                "wikipedia_title": "Elderly"
+            },
+            {
+                "named_entity_in_the_text": "mountain centres",
+                "wikipedia_title": "Mountain regions"
+            },
+            {
+                "named_entity_in_the_text": "women",
+                "wikipedia_title": "Women"
+            },
+            {
+                "named_entity_in_the_text": "private care company",
+                "wikipedia_title": "Private care agency"
+            },
+            {
+                "named_entity_in_the_text": "informal sector",
+                "wikipedia_title": "Informal economy"
+            },
+            {
+                "named_entity_in_the_text": "immigrant female population",
+                "wikipedia_title": "Immigrants"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "PROMI",
+                "wikipedia_title": "PROMI"
+            },
+            {
+                "named_entity_in_the_text": "Municipal residence for the elderly",
+                "wikipedia_title": "Elderly care facility"
+            },
+            {
+                "named_entity_in_the_text": "Emergency carers",
+                "wikipedia_title": "Emergency services"
+            },
+            {
+                "named_entity_in_the_text": "Provincial Council",
+                "wikipedia_title": "Provincial government"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Ageing population",
+                "wikipedia_title": "Population aging"
+            },
+            {
+                "named_entity_in_the_text": "65",
+                "wikipedia_title": "65 years old"
+            },
+            {
+                "named_entity_in_the_text": "80",
+                "wikipedia_title": "80 years old"
+            },
+            {
+                "named_entity_in_the_text": "depopulation",
+                "wikipedia_title": "Population decline"
+            },
+            {
+                "named_entity_in_the_text": "exodus of young population",
+                "wikipedia_title": "Youth migration"
+            },
+            {
+                "named_entity_in_the_text": "public resources",
+                "wikipedia_title": "Public services"
+            },
+            {
+                "named_entity_in_the_text": "Informal economy",
+                "wikipedia_title": "Informal sector"
+            },
+            {
+                "named_entity_in_the_text": "professionalisation process",
+                "wikipedia_title": "Professionalization"
+            },
+            {
+                "named_entity_in_the_text": "precarisation of female work",
+                "wikipedia_title": "Gender inequality in the workplace"
+            },
+            {
+                "named_entity_in_the_text": "local and social cultures of small Sierra communities",
+                "wikipedia_title": "Cultural diversity"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capitalist"
+            },
+            {
+                "named_entity_in_the_text": "Traditional and Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "named_entity_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Innovation (economics)"
+            },
+            {
+                "named_entity_in_the_text": "elderly population",
+                "wikipedia_title": "Elderly"
+            },
+            {
+                "named_entity_in_the_text": "public services",
+                "wikipedia_title": "Public service"
+            },
+            {
+                "named_entity_in_the_text": "public-private partnerships",
+                "wikipedia_title": "Public-private partnership"
+            },
+            {
+                "named_entity_in_the_text": "governance",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "named_entity_in_the_text": "social and cultural",
+                "wikipedia_title": "Social and cultural factors"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sierra",
+                "wikipedia_title": "Sierra Nevada"
+            },
+            {
+                "named_entity_in_the_text": "Subbética",
+                "wikipedia_title": "Subbética"
+            }
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SCOTLAND",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "HUTTON",
+                "wikipedia_title": "Hutton, Scotland"
+            },
+            {
+                "named_entity_in_the_text": "UK",
+                "wikipedia_title": "United Kingdom"
+            },
+            {
+                "named_entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Ross and Cromarty",
+                "wikipedia_title": "Ross and Cromarty"
+            },
+            {
+                "named_entity_in_the_text": "Craobh",
+                "wikipedia_title": "Craobh"
+            },
+            {
+                "named_entity_in_the_text": "Black Isle",
+                "wikipedia_title": "Black Isle"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands"
+            },
+            {
+                "named_entity_in_the_text": "Ross and Cromarty",
+                "wikipedia_title": "Ross and Cromarty"
+            },
+            {
+                "named_entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Inverness",
+                "wikipedia_title": "Inverness"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scottish Government",
+                "wikipedia_title": "Scottish Government"
+            },
+            {
+                "named_entity_in_the_text": "BREXIT",
+                "wikipedia_title": "Brexit"
+            },
+            {
+                "named_entity_in_the_text": "COVID",
+                "wikipedia_title": "COVID-19 pandemic"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU1s",
+                "wikipedia_title": "Local Administrative Units for the Nomenclature of Territorial Units for Statistics"
+            },
+            {
+                "named_entity_in_the_text": "Argyll and Bute",
+                "wikipedia_title": "Argyll and Bute"
+            },
+            {
+                "named_entity_in_the_text": "Aberdeenshire",
+                "wikipedia_title": "Aberdeenshire"
+            },
+            {
+                "named_entity_in_the_text": "UK",
+                "wikipedia_title": "United Kingdom"
+            },
+            {
+                "named_entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Scottish Government",
+                "wikipedia_title": "Scottish Government"
+            }
+        ]
+    }
+]

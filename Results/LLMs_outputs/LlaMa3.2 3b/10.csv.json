@@ -1,0 +1,153 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "AUSTRIA",
+        "wikipedia_title": "Austria"
+      },
+      {
+        "named_entity_in_the_text": "Osttiroler Lämmerring",
+        "wikipedia_title": "Osttiroler Lämmerring"
+      },
+      {
+        "named_entity_in_the_text": "Raiffeisen cooperative East-Tyrol",
+        "wikipedia_title": "Raiffeisen"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Austrian Alps",
+        "wikipedia_title": "Alpen"
+      },
+      {
+        "named_entity_in_the_text": "Lienz",
+        "wikipedia_title": "Lienz"
+      },
+      {
+        "named_entity_in_the_text": "East Tyrol",
+        "wikipedia_title": "Tirol (Land)"
+      },
+      {
+        "named_entity_in_the_text": "Tyrol",
+        "wikipedia_title": "Tirol (Land)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Province",
+        "wikipedia_title": "Province (geography)"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Region (geography)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "agricultural holdings",
+        "wikipedia_title": "Agricultural holding"
+      },
+      {
+        "named_entity_in_the_text": "settlement",
+        "wikipedia_title": "Settlement"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Province or region in Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Austria",
+        "wikipedia_title": "Austria"
+      },
+      {
+        "named_entity_in_the_text": "East Tyrol",
+        "wikipedia_title": "Tyrol (Austria)"
+      },
+      {
+        "named_entity_in_the_text": "Genussregion",
+        "wikipedia_title": "Genussregion"
+      },
+      {
+        "named_entity_in_the_text": "AgrarMarkt Austria",
+        "wikipedia_title": "AgrarMarkt Austria"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Austria",
+        "wikipedia_title": "Austria"
+      },
+      {
+        "named_entity_in_the_text": "VC",
+        "wikipedia_title": "Venture capital"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "husbandry",
+        "wikipedia_title": "Husbandry"
+      },
+      {
+        "named_entity_in_the_text": "pasture farming",
+        "wikipedia_title": "Pasture farming"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "East Tyrol",
+        "wikipedia_title": "Tyrol"
+      },
+      {
+        "named_entity_in_the_text": "Austria",
+        "wikipedia_title": "Austria"
+      }
+    ]
+  }
+]

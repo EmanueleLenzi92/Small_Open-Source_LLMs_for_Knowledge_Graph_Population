@@ -1,0 +1,106 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "TURKEY",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "VC 17 TR",
+                "original_value": null,
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pinus pinea L.",
+                "original_value": "Stone pine",
+                "Wikidata_ID": "Q106094"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bergama",
+                "original_value": "Bergama",
+                "Wikidata_ID": "Q737822"
+            },
+            {
+                "originalKey": "İzmir",
+                "original_value": "İzmir",
+                "Wikidata_ID": "Q35997"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Bergama-Kozak plateau",
+                "original_value": "Kozağac Plateau",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Kozak plateau (Madra Mountains)",
+                "original_value": "Madra Mountains",
+                "Wikidata_ID": "Q4833452"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Kozak/Bergama",
+                "original_value": "Bergama",
+                "Wikidata_ID": "Q737822"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kozak plateau",
+                "original_value": "Kozjak",
+                "Wikidata_ID": "Q640207"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    }
+]

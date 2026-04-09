@@ -1,0 +1,246 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SCOTLAND HUTTON",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "UK",
+                "wikipedia_title": "United Kingdom"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Scottish heather Honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "named_entity_in_the_text": "Heather Hills",
+                "wikipedia_title": "Perthshire"
+            },
+            {
+                "named_entity_in_the_text": "British Standards Institution",
+                "wikipedia_title": "British Standards Institution"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands, Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Eastern Scotland",
+                "wikipedia_title": "Eastern Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Tay",
+                "wikipedia_title": "River Tay"
+            },
+            {
+                "named_entity_in_the_text": "Earn",
+                "wikipedia_title": "Earn (river)"
+            },
+            {
+                "named_entity_in_the_text": "Scotland's central belt",
+                "wikipedia_title": "Central Belt of Scotland"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "5383.724292",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "8",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1084",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "151.95",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "28.22",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "5.25%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "149.76",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "6.86%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scottish Heather honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "named_entity_in_the_text": "Champagne of honeys",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "named_entity_in_the_text": "Heather Hills",
+                "wikipedia_title": "Heather Hills Honey"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Scottish 'great taste gold award'",
+                "wikipedia_title": "Great Taste Awards"
+            },
+            {
+                "named_entity_in_the_text": "Heather Hills farm",
+                "wikipedia_title": "Heather Hills Farm"
+            },
+            {
+                "named_entity_in_the_text": "Manuka Honey",
+                "wikipedia_title": "Manuka honey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Heather Hills",
+                "wikipedia_title": "Heather Hills Honey Company"
+            },
+            {
+                "named_entity_in_the_text": "bees",
+                "wikipedia_title": "Honeybee"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "changing climate",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capitalist"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "named_entity_in_the_text": "BCI kitemark",
+                "wikipedia_title": "British Crop Innovation Kitemark"
+            },
+            {
+                "named_entity_in_the_text": "UK",
+                "wikipedia_title": "United Kingdom"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Heather hills",
+                "wikipedia_title": "Heather Hills"
+            },
+            {
+                "named_entity_in_the_text": "Aberdeenshire LAU1",
+                "wikipedia_title": "Aberdeenshire"
+            },
+            {
+                "named_entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Germany",
+                "wikipedia_title": "Luneburg"
+            },
+            {
+                "named_entity_in_the_text": "Ireland",
+                "wikipedia_title": "Ireland"
+            },
+            {
+                "named_entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            }
+        ]
+    }
+]

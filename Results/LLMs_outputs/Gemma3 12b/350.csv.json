@@ -1,0 +1,153 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "Sierras Cazorla, Segura and Las Villas",
+                "wikipedia_title": "Sierra de Cazorla, Segura y Las Villas Natural Park"
+            },
+            {
+                "named_entity_in_the_text": "Granada",
+                "wikipedia_title": "Granada"
+            },
+            {
+                "named_entity_in_the_text": "Sierra de Castril",
+                "wikipedia_title": "Sierra de Castril"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betic System"
+            },
+            {
+                "named_entity_in_the_text": "Castril",
+                "wikipedia_title": "Castril"
+            },
+            {
+                "named_entity_in_the_text": "Natura 2000 Network",
+                "wikipedia_title": "Natura 2000"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            },
+            {
+                "named_entity_in_the_text": "Mediterranean",
+                "wikipedia_title": "Mediterranean"
+            },
+            {
+                "named_entity_in_the_text": "Alps",
+                "wikipedia_title": "Alps"
+            },
+            {
+                "named_entity_in_the_text": "Spain",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "UNESCO",
+                "wikipedia_title": "UNESCO"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Jaén",
+                "wikipedia_title": "Jaén"
+            },
+            {
+                "named_entity_in_the_text": "Granada",
+                "wikipedia_title": "Granada"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Morena",
+                "wikipedia_title": "Sierra_Morena"
+            },
+            {
+                "named_entity_in_the_text": "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+                "wikipedia_title": "Sierra_de_Cazorla,_Segura_and_Las_Villas_Natural_Park"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Soria",
+                "wikipedia_title": "Soria"
+            },
+            {
+                "named_entity_in_the_text": "Cuenca",
+                "wikipedia_title": "Cuenca"
+            },
+            {
+                "named_entity_in_the_text": "La Rioja",
+                "wikipedia_title": "La Rioja"
+            },
+            {
+                "named_entity_in_the_text": "Andalusia",
+                "wikipedia_title": "Andalusia"
+            },
+            {
+                "named_entity_in_the_text": "Jaén",
+                "wikipedia_title": "Jaén"
+            },
+            {
+                "named_entity_in_the_text": "Granada",
+                "wikipedia_title": "Granada"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Morena",
+                "wikipedia_title": "Sierra Morena"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Nevada",
+                "wikipedia_title": "Sierra Nevada"
+            },
+            {
+                "named_entity_in_the_text": "Italy",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    }
+]

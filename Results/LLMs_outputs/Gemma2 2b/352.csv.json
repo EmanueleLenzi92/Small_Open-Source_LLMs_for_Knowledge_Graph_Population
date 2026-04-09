@@ -1,0 +1,314 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN ADEGUA",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "ATADES Gardeniers Special Employment Center",
+                "wikipedia_title": "Association of Agricultural and Horticultural Professionals (Spain)"
+            },
+            {
+                "named_entity_in_the_text": "Aragonese Territory",
+                "wikipedia_title": "Aragon"
+            },
+            {
+                "named_entity_in_the_text": "Torres de Berrellén melon",
+                "wikipedia_title": "Melon (fruit)"
+            },
+            {
+                "named_entity_in_the_text": "Zaragoza",
+                "wikipedia_title": "Zaragoza"
+            },
+            {
+                "named_entity_in_the_text": "European Agricultural Fund for Rural Development (EAFRD)",
+                "wikipedia_title": "European Agricultural Fund for Rural Development"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pyrenees",
+                "wikipedia_title": "Pyrenees"
+            },
+            {
+                "named_entity_in_the_text": "Jaca (Ascara)",
+                "wikipedia_title": "Jaca, Spain"
+            },
+            {
+                "named_entity_in_the_text": "Canal de Berdún",
+                "wikipedia_title": "Canal de Berdún"
+            },
+            {
+                "named_entity_in_the_text": "Cielos de Ascara",
+                "wikipedia_title": "Cielos de Ascara"
+            },
+            {
+                "named_entity_in_the_text": "Huesca",
+                "wikipedia_title": "Huesca Province, Spain"
+            },
+            {
+                "named_entity_in_the_text": "Zaragoza",
+                "wikipedia_title": "Zaragoza Province, Spain"
+            },
+            {
+                "named_entity_in_the_text": "Gardeniers farm",
+                "wikipedia_title": "Gardeniers Farm"
+            },
+            {
+                "named_entity_in_the_text": "Jaca",
+                "wikipedia_title": "Jaca, Spain"
+            },
+            {
+                "named_entity_in_the_text": "Jacetania",
+                "wikipedia_title": "Jacetania"
+            },
+            {
+                "named_entity_in_the_text": "Natura 2000 Network",
+                "wikipedia_title": "Natura 2000"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "406.35",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "650",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "2100",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "13.129",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "32.31",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "-0.02%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "27.86",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "0.00%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aragonese Pyrenees",
+                "wikipedia_title": "Aragon"
+            },
+            {
+                "named_entity_in_the_text": "Cielos de Ascara",
+                "wikipedia_title": "Cielo de Ascara"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aragon",
+                "wikipedia_title": "Aragon"
+            },
+            {
+                "named_entity_in_the_text": "Organic Production of Foodstuffs linked to the Aragonese Territory",
+                "wikipedia_title": "Organic production of foodstuffs in Aragon"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "public funding for rural development policies",
+                "wikipedia_title": "Rural development policy"
+            },
+            {
+                "named_entity_in_the_text": "urban consumption environments",
+                "wikipedia_title": "Urban consumption"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "named_entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous Innovation"
+            },
+            {
+                "named_entity_in_the_text": "rural and mountain areas",
+                "wikipedia_title": "Rural Areas"
+            },
+            {
+                "named_entity_in_the_text": "areas of natural and cultural interest",
+                "wikipedia_title": "Protected Area"
+            },
+            {
+                "named_entity_in_the_text": "traditional varieties",
+                "wikipedia_title": "Traditional Agriculture"
+            },
+            {
+                "named_entity_in_the_text": "organic production and consumption",
+                "wikipedia_title": "Organic Farming"
+            },
+            {
+                "named_entity_in_the_text": "rural and urban areas",
+                "wikipedia_title": "Urban-Rural Divide"
+            },
+            {
+                "named_entity_in_the_text": "employment",
+                "wikipedia_title": "Employment"
+            },
+            {
+                "named_entity_in_the_text": "social integration",
+                "wikipedia_title": "Social Inclusion"
+            },
+            {
+                "named_entity_in_the_text": "public-private cooperation",
+                "wikipedia_title": "Public-Private Partnership"
+            },
+            {
+                "named_entity_in_the_text": "New products",
+                "wikipedia_title": "Product Development"
+            },
+            {
+                "named_entity_in_the_text": "New processes",
+                "wikipedia_title": "Process Innovation"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing Strategy"
+            },
+            {
+                "named_entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "named_entity_in_the_text": "Cropland",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "named_entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "named_entity_in_the_text": "social",
+                "wikipedia_title": "Social"
+            },
+            {
+                "named_entity_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sites of Community Importance (SCI)",
+                "wikipedia_title": "List of Special Protection Areas in Spain"
+            },
+            {
+                "named_entity_in_the_text": "Special Protection Area for Birds (SPA)",
+                "wikipedia_title": "Special Protection Area"
+            },
+            {
+                "named_entity_in_the_text": "protected landscape of San Juan de la Peña and Monte Oroel",
+                "wikipedia_title": "San Juan de la Peña and Monte Oroel Protected Landscape"
+            },
+            {
+                "named_entity_in_the_text": "Natural Park of the Western Valleys",
+                "wikipedia_title": "Western Valleys Natural Park"
+            },
+            {
+                "named_entity_in_the_text": "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+                "wikipedia_title": "CITA (Research and Technology Centre for Agriculture)"
+            },
+            {
+                "named_entity_in_the_text": "Processing Plant of organic vegetables and fruits",
+                "wikipedia_title": "Organic Vegetable Processing Plant"
+            },
+            {
+                "named_entity_in_the_text": "Special Employment Center Gardeniers of ATADES",
+                "wikipedia_title": "ATADES (Agricultural Employment Centre)"
+            },
+            {
+                "named_entity_in_the_text": "Mercazaragoza",
+                "wikipedia_title": "Mercazaragoza Market"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            }
+        ]
+    }
+]

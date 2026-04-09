@@ -1,0 +1,135 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandinavian UCO"
+            },
+            {
+                "named_entity_in_the_text": "Undredal Stølsysteri SA",
+                "wikipedia_title": "Undredal Stølsysteri"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food"
+            },
+            {
+                "named_entity_in_the_text": "Norwegian",
+                "wikipedia_title": "Norway"
+            },
+            {
+                "named_entity_in_the_text": "Brimost cheese",
+                "wikipedia_title": "Brimost"
+            },
+            {
+                "named_entity_in_the_text": "Undredal",
+                "wikipedia_title": "Undredal"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Aurland",
+                "wikipedia_title": "Aurland"
+            },
+            {
+                "named_entity_in_the_text": "Aurland Fiord",
+                "wikipedia_title": "Aurlandsfjord"
+            },
+            {
+                "named_entity_in_the_text": "Nærøyfjorden",
+                "wikipedia_title": "Nærøyfjord"
+            },
+            {
+                "named_entity_in_the_text": "Sognefjorden",
+                "wikipedia_title": "Sognefjord"
+            },
+            {
+                "named_entity_in_the_text": "West Norwegian Fjords of Geirangefjord and Nærøyfjord UNESCO World Heritage Site",
+                "wikipedia_title": "Nærøyfjord"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            },
+            {
+                "named_entity_in_the_text": "Undredal",
+                "wikipedia_title": "Undredal"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Undfredal",
+                "wikipedia_title": "Undredal"
+            },
+            {
+                "named_entity_in_the_text": "Aureland",
+                "wikipedia_title": "Aurland"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            },
+            {
+                "named_entity_in_the_text": "Norsk Gardsost",
+                "wikipedia_title": "Norsk Gardsost"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Presidium",
+                "wikipedia_title": "Slow Food"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sweden",
+                "wikipedia_title": "Sweden"
+            },
+            {
+                "named_entity_in_the_text": "Jämtland",
+                "wikipedia_title": "Jämtland"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food"
+            }
+        ]
+    }
+]

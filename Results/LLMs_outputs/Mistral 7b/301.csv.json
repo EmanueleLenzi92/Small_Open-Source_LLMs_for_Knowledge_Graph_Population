@@ -1,0 +1,158 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandinavian Uco"
+            },
+            {
+                "named_entity_in_the_text": "VC 08 SCA",
+                "wikipedia_title": "VC 08 SCA"
+            },
+            {
+                "named_entity_in_the_text": "Pultost",
+                "wikipedia_title": "Pultost"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandes"
+            },
+            {
+                "named_entity_in_the_text": "Lesja",
+                "wikipedia_title": "Lesja"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "High quality product",
+                "wikipedia_title": "Product"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pultosts BA",
+                "wikipedia_title": "Pultosts BA"
+            },
+            {
+                "named_entity_in_the_text": "Pultost Innlandet SA",
+                "wikipedia_title": "Pultost Innlandet SA"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation",
+                "wikipedia_title": "Slow Food Foundation"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "industrial dairies",
+                "wikipedia_title": "Industrial dairy"
+            },
+            {
+                "named_entity_in_the_text": "artisanal cheese making",
+                "wikipedia_title": "Artisanal cheese"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "named_entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            },
+            {
+                "named_entity_in_the_text": "Etnedal (0541)",
+                "wikipedia_title": "Etnedal (0541)"
+            }
+        ]
+    }
+]

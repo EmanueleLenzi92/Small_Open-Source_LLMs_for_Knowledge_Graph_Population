@@ -1,0 +1,291 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "MOVING (Value Chain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Pelium",
+                "original_value": "Pelium (mountain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 18 GR",
+                "original_value": "VC 18 GR",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local apple producers",
+                "original_value": "Local apple producers",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "traditional apple cultivation",
+                "original_value": "Traditional apple cultivation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "touristic activities",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "forest activities",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "farming activities",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "local cooperative",
+                "original_value": "Local cooperatives",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "authorities in local and regional level",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "academic institutions",
+                "original_value": "Academic institutions",
+                "Wikidata_ID": "Q4671277"
+            },
+            {
+                "originalKey": "truffles/mushrooms",
+                "original_value": "Truffles and mushrooms",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "apicature",
+                "original_value": "Apiculture",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "logging",
+                "original_value": "Logging",
+                "Wikidata_ID": "Q845249"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pelium Mountain",
+                "original_value": "Pelium",
+                "Wikidata_ID": "Q19298349"
+            },
+            {
+                "originalKey": "EL613",
+                "original_value": "EL613",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Zagora",
+                "original_value": "Zagora",
+                "Wikidata_ID": "Q1408803"
+            },
+            {
+                "originalKey": "Volos",
+                "original_value": "Volos",
+                "Wikidata_ID": "Q200036"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "regional population",
+                "original_value": "Regional population",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Apple trees",
+                "original_value": "Apple",
+                "Wikidata_ID": "Q89"
+            },
+            {
+                "originalKey": "Zagora area (Pelium mountain, Thessaly)",
+                "original_value": "Zagora, Greece",
+                "Wikidata_ID": "Q2466197"
+            },
+            {
+                "originalKey": "The local farmers",
+                "original_value": "Farmers in Zagora, Greece",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Zagora apples",
+                "original_value": "Zagora Apples",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC exibits a traditional and cultural, a success story of a cooperative and innovations in the production and in marketing",
+                "original_value": "Vouvouni Cooperative",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Zagora",
+                "original_value": "Zagora",
+                "Wikidata_ID": "Q1408803"
+            },
+            {
+                "originalKey": "apple trees",
+                "original_value": "Apple tree",
+                "Wikidata_ID": "Q89"
+            },
+            {
+                "originalKey": "cooperative",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "international market competition",
+                "original_value": "International trade",
+                "Wikidata_ID": "Q178803"
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "economic uncertainty",
+                "original_value": "Economic uncertainty",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "cooperative",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            },
+            {
+                "originalKey": "apples",
+                "original_value": "Apple",
+                "Wikidata_ID": "Q89"
+            },
+            {
+                "originalKey": "apple chips for diabetics",
+                "original_value": "Diabetes",
+                "Wikidata_ID": "Q12206"
+            },
+            {
+                "originalKey": "apple juices",
+                "original_value": "Apple juice",
+                "Wikidata_ID": "Q618355"
+            },
+            {
+                "originalKey": "organic apples and condensed juice (petimezi)",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "MRL",
+                "original_value": "Moscow Regional List",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EL532",
+                "original_value": "EL532 (NUTS3)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EL651",
+                "original_value": "EL651 (NUTS3)",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

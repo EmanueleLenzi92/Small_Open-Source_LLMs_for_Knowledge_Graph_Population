@@ -1,0 +1,146 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "Skandinavian UCO",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Scandes",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Trysil",
+                "original_value": "Trysil",
+                "Wikidata_ID": "Q48529"
+            },
+            {
+                "originalKey": "Sweden",
+                "original_value": "Sweden",
+                "Wikidata_ID": "Q34"
+            },
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavian countries",
+                "original_value": "Scandinavian countries",
+                "Wikidata_ID": "Q21195"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavian mountains",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "COVID-19",
+                "original_value": "COVID-19 pandemic",
+                "Wikidata_ID": "Q81068910"
+            },
+            {
+                "originalKey": "Arctic",
+                "original_value": "Arctic",
+                "Wikidata_ID": "Q25322"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            },
+            {
+                "originalKey": "Vadsø",
+                "original_value": "Vadsø",
+                "Wikidata_ID": "Q126494003"
+            },
+            {
+                "originalKey": "Oppdal",
+                "original_value": "Oppdal, Norway",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Hardangervidda National Park",
+                "original_value": "Hardangervidda National Park",
+                "Wikidata_ID": "Q1140044"
+            },
+            {
+                "originalKey": "Uvdal",
+                "original_value": "Uvdal",
+                "Wikidata_ID": "Q35422459"
+            },
+            {
+                "originalKey": "Ullensvang",
+                "original_value": "Ullensvang",
+                "Wikidata_ID": "Q484077"
+            },
+            {
+                "originalKey": "Lapland Region",
+                "original_value": "Lapland",
+                "Wikidata_ID": "Q1079386"
+            },
+            {
+                "originalKey": "Finland",
+                "original_value": "Finland",
+                "Wikidata_ID": "Q33"
+            },
+            {
+                "originalKey": "Norbotten",
+                "original_value": "Norrbotten",
+                "Wikidata_ID": "Q211649"
+            },
+            {
+                "originalKey": "Sweden",
+                "original_value": "Sweden",
+                "Wikidata_ID": "Q34"
+            }
+        ]
+    }
+]

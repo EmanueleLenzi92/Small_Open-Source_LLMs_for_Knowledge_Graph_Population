@@ -1,0 +1,274 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Almenland Stollenkäse GmbH",
+                "wikipedia_title": "Almenland Stollenkäse GmbH"
+            },
+            {
+                "named_entity_in_the_text": "South of Germany",
+                "wikipedia_title": "Germany"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "RR 11",
+                "wikipedia_title": "Rhine Valley (Austria)"
+            },
+            {
+                "named_entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Alpen, Austria"
+            },
+            {
+                "named_entity_in_the_text": "Weiz",
+                "wikipedia_title": "Weiz, Austria"
+            },
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland, Styria"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "1098",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "464",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1720",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "90.654",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "82.56",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "3.68%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "76.28",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "3.30%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "4310",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "2.77%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "4555",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "100000",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "cow",
+                "wikipedia_title": "Cattle"
+            },
+            {
+                "named_entity_in_the_text": "sheep",
+                "wikipedia_title": "Sheep"
+            },
+            {
+                "named_entity_in_the_text": "goat",
+                "wikipedia_title": "Goat"
+            },
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "named_entity_in_the_text": "local",
+                "wikipedia_title": "Local (geographical)"
+            },
+            {
+                "named_entity_in_the_text": "mountain",
+                "wikipedia_title": "Mountain"
+            },
+            {
+                "named_entity_in_the_text": "Almenland dairy",
+                "wikipedia_title": "Almenland Dairy"
+            },
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "named_entity_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "Agrarmarkt Österreich"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "named_entity_in_the_text": "climate",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "named_entity_in_the_text": "vegetation",
+                "wikipedia_title": "Vegetation"
+            },
+            {
+                "named_entity_in_the_text": "feedbase",
+                "wikipedia_title": "Feed base"
+            },
+            {
+                "named_entity_in_the_text": "alpine pasture areas",
+                "wikipedia_title": "Alpine meadows"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "named_entity_in_the_text": "cheese",
+                "wikipedia_title": "Cheese"
+            },
+            {
+                "named_entity_in_the_text": "local hey milk",
+                "wikipedia_title": "Milk"
+            },
+            {
+                "named_entity_in_the_text": "Arzberger Ursteirer",
+                "wikipedia_title": "Arzberger Ursteirer"
+            },
+            {
+                "named_entity_in_the_text": "USA",
+                "wikipedia_title": "United States"
+            },
+            {
+                "named_entity_in_the_text": "international cheese competitions",
+                "wikipedia_title": "International Cheese Competitions"
+            },
+            {
+                "named_entity_in_the_text": "New products",
+                "wikipedia_title": "Product Development"
+            },
+            {
+                "named_entity_in_the_text": "New processes",
+                "wikipedia_title": "Process Innovation"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing Strategy"
+            },
+            {
+                "named_entity_in_the_text": "pasture farming",
+                "wikipedia_title": "Pasture Farming"
+            },
+            {
+                "named_entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "List of regions of Austria"
+            },
+            {
+                "named_entity_in_the_text": "hay milk",
+                "wikipedia_title": "Milk"
+            }
+        ]
+    }
+]

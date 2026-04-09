@@ -1,0 +1,169 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "PORTUGAL ESTRELA",
+        "wikipedia_title": "Estrela Province"
+      },
+      {
+        "named_entity_in_the_text": "Manteigas",
+        "wikipedia_title": "Manteigas"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Cordilheira Central",
+        "wikipedia_title": "Cordilheira Central"
+      },
+      {
+        "named_entity_in_the_text": "Manteigas",
+        "wikipedia_title": "Manteigas (municipality)"
+      },
+      {
+        "named_entity_in_the_text": "Portugal",
+        "wikipedia_title": "Portugal"
+      },
+      {
+        "named_entity_in_the_text": "Guarda",
+        "wikipedia_title": "Guarda"
+      },
+      {
+        "named_entity_in_the_text": "Seia",
+        "wikipedia_title": "Seia"
+      },
+      {
+        "named_entity_in_the_text": "Covilhã",
+        "wikipedia_title": "Covilhã"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (disambiguation)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region (disambiguation)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional unit (Norway)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "77.2",
+        "wikipedia_title": "Not available"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Province or region in Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Portugal",
+        "wikipedia_title": "Portugal"
+      },
+      {
+        "named_entity_in_the_text": "Mountain areas",
+        "wikipedia_title": "Mountain"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Manteigas",
+        "wikipedia_title": "Manteigas"
+      },
+      {
+        "named_entity_in_the_text": "Portugal",
+        "wikipedia_title": "Portugal"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "VC",
+        "wikipedia_title": "Venture capital"
+      },
+      {
+        "named_entity_in_the_text": "Traditional",
+        "wikipedia_title": "List of venture capital firms by stage"
+      },
+      {
+        "named_entity_in_the_text": "Innovative",
+        "wikipedia_title": "List of venture capital firms by stage"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Serra da Estrela",
+        "wikipedia_title": "Serra da Estrela"
+      },
+      {
+        "named_entity_in_the_text": "Portugal",
+        "wikipedia_title": "Portugal"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Serra da Estrela",
+        "wikipedia_title": "Serra da Estrela"
+      },
+      {
+        "named_entity_in_the_text": "Gouveia",
+        "wikipedia_title": "Gouveia (municipality)"
+      },
+      {
+        "named_entity_in_the_text": "Manteigas",
+        "wikipedia_title": "Manteigas"
+      },
+      {
+        "named_entity_in_the_text": "Seia",
+        "wikipedia_title": "Seia"
+      },
+      {
+        "named_entity_in_the_text": "Tagus",
+        "wikipedia_title": "Rio Tagus"
+      },
+      {
+        "named_entity_in_the_text": "Mondego",
+        "wikipedia_title": "Rio Mondego"
+      }
+    ]
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "CZECH REPUBLIC",
+        "wikipedia_title": "Czech Republic"
+      },
+      {
+        "named_entity_in_the_text": "VC 17 CZ",
+        "wikipedia_title": "null"
+      },
+      {
+        "named_entity_in_the_text": "hunters organization",
+        "wikipedia_title": "null"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Czech Republic",
+        "wikipedia_title": "Czech Republic"
+      },
+      {
+        "named_entity_in_the_text": "Giant Mountains",
+        "wikipedia_title": "Giant Mountains"
+      },
+      {
+        "named_entity_in_the_text": "Kralovehradecky",
+        "wikipedia_title": "Kralovehradecký kraj"
+      },
+      {
+        "named_entity_in_the_text": "Trutnov",
+        "wikipedia_title": "Trutnov"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (disambiguation)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "100000",
+        "wikipedia_title": "Population threshold"
+      },
+      {
+        "named_entity_in_the_text": "km",
+        "wikipedia_title": "Kilometer"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Province or region in Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "VC",
+        "wikipedia_title": "Village Committee"
+      },
+      {
+        "named_entity_in_the_text": "wild boar",
+        "wikipedia_title": "Wild Boar"
+      },
+      {
+        "named_entity_in_the_text": "deer",
+        "wikipedia_title": "Deer"
+      },
+      {
+        "named_entity_in_the_text": "pheasant",
+        "wikipedia_title": "Pheasant"
+      },
+      {
+        "named_entity_in_the_text": "hare",
+        "wikipedia_title": "Hare"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "VC",
+        "wikipedia_title": "Venture capital"
+      },
+      {
+        "named_entity_in_the_text": "GPE",
+        "wikipedia_title": "Global production environment"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Natural",
+        "wikipedia_title": "Natural"
+      },
+      {
+        "named_entity_in_the_text": "Natural land",
+        "wikipedia_title": "Natural land"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Poland",
+        "wikipedia_title": "Poland"
+      },
+      {
+        "named_entity_in_the_text": "Germany",
+        "wikipedia_title": "Germany"
+      },
+      {
+        "named_entity_in_the_text": "Austria",
+        "wikipedia_title": "Austria"
+      }
+    ]
+  }
+]

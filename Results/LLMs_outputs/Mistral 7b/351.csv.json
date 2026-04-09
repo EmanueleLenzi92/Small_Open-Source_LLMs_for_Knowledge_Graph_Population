@@ -1,0 +1,306 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "ADEGUA",
+                "wikipedia_title": "Adegua, Spain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betic System"
+            },
+            {
+                "named_entity_in_the_text": "Carcabuey",
+                "wikipedia_title": "Carcabuey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "The average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "named_entity_in_the_text": "The per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "ageing population",
+                "wikipedia_title": "Ageing"
+            },
+            {
+                "named_entity_in_the_text": "care of the elderly",
+                "wikipedia_title": "Elderly care"
+            },
+            {
+                "named_entity_in_the_text": "economic activity",
+                "wikipedia_title": "Economics"
+            },
+            {
+                "named_entity_in_the_text": "local peculiarities",
+                "wikipedia_title": "Local government"
+            },
+            {
+                "named_entity_in_the_text": "perception of high quality",
+                "wikipedia_title": "Quality management"
+            },
+            {
+                "named_entity_in_the_text": "specific relevance due to ageing and depopulation in mountain centres in the area",
+                "wikipedia_title": "Mountain regions"
+            },
+            {
+                "named_entity_in_the_text": "interaction with the environment",
+                "wikipedia_title": "Environmental science"
+            },
+            {
+                "named_entity_in_the_text": "territorial identity",
+                "wikipedia_title": "Identity politics"
+            },
+            {
+                "named_entity_in_the_text": "survival of intergenerational social cohesion",
+                "wikipedia_title": "Social cohesion"
+            },
+            {
+                "named_entity_in_the_text": "private care company",
+                "wikipedia_title": "Private healthcare"
+            },
+            {
+                "named_entity_in_the_text": "hires local women",
+                "wikipedia_title": "Labor market"
+            },
+            {
+                "named_entity_in_the_text": "enables them to professionalise their activity",
+                "wikipedia_title": "Vocational education"
+            },
+            {
+                "named_entity_in_the_text": "certificates of professionalism based on experience in the informal sector in a traditionally female sector and closely linked to the non-monetised and informal economy",
+                "wikipedia_title": "Informal economy"
+            },
+            {
+                "named_entity_in_the_text": "maintaining female population under 65",
+                "wikipedia_title": "Demographics"
+            },
+            {
+                "named_entity_in_the_text": "attraction of immigrant female population (some in the formal sector, more in the informal sector)",
+                "wikipedia_title": "Immigration policy"
+            },
+            {
+                "named_entity_in_the_text": "value chain",
+                "wikipedia_title": "Value chain analysis"
+            },
+            {
+                "named_entity_in_the_text": "multilevel governance system based on the proximity and interaction of all the actors involved",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "named_entity_in_the_text": "greater structuring would be necessary to coordinate the response.",
+                "wikipedia_title": "Coordination"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Municipal residence for the elderly managed by private company (PROMI)",
+                "wikipedia_title": "Municipality"
+            },
+            {
+                "named_entity_in_the_text": "Active participation centre",
+                "wikipedia_title": "Community center"
+            },
+            {
+                "named_entity_in_the_text": "Dependency assistance company hired by municipality",
+                "wikipedia_title": "Social services"
+            },
+            {
+                "named_entity_in_the_text": "Emergency carers, a service managed by the Provincial Council",
+                "wikipedia_title": "Emergency medical services"
+            },
+            {
+                "named_entity_in_the_text": "Assistance in the framework of the informal economy",
+                "wikipedia_title": "Informal sector"
+            },
+            {
+                "named_entity_in_the_text": "Organised civil society groups (there are 40 associations)",
+                "wikipedia_title": "Non-governmental organization"
+            },
+            {
+                "named_entity_in_the_text": "Neighbourhood mutual aid",
+                "wikipedia_title": "Mutual aid"
+            },
+            {
+                "named_entity_in_the_text": "Older people themselves",
+                "wikipedia_title": "Senior citizens"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Ageing population",
+                "wikipedia_title": "Ageing"
+            },
+            {
+                "named_entity_in_the_text": "negative replacement rate",
+                "wikipedia_title": "Negative replacement rate"
+            },
+            {
+                "named_entity_in_the_text": "depopulation and exodus of young population",
+                "wikipedia_title": "Depopulation"
+            },
+            {
+                "named_entity_in_the_text": "public resources do not cover all needs",
+                "wikipedia_title": "Public resources"
+            },
+            {
+                "named_entity_in_the_text": "informal economy",
+                "wikipedia_title": "Informal economy"
+            },
+            {
+                "named_entity_in_the_text": "professionalisation process under development but not consolidated",
+                "wikipedia_title": "Professionalisation"
+            },
+            {
+                "named_entity_in_the_text": "precarisation of female work",
+                "wikipedia_title": "Precarious employment"
+            },
+            {
+                "named_entity_in_the_text": "disappearance of local and social cultures of small Sierra communities",
+                "wikipedia_title": "Local culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "VC"
+            },
+            {
+                "named_entity_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "named_entity_in_the_text": "Informal and traditional care",
+                "wikipedia_title": "Care"
+            },
+            {
+                "named_entity_in_the_text": "Public services",
+                "wikipedia_title": "Public Services"
+            },
+            {
+                "named_entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "named_entity_in_the_text": "Urban space and infrastructures",
+                "wikipedia_title": "Land Use Systems"
+            },
+            {
+                "named_entity_in_the_text": "Social and cultural",
+                "wikipedia_title": "Local Assets"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            },
+            {
+                "named_entity_in_the_text": "Sierra small communities in the Subbética",
+                "wikipedia_title": "Subbética"
+            }
+        ]
+    }
+]

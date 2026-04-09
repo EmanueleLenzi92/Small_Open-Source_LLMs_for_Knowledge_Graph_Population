@@ -1,0 +1,134 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pelium Mountain",
+                "original_value": "Pelion",
+                "Wikidata_ID": "Q1334825"
+            },
+            {
+                "originalKey": "EL613",
+                "original_value": "EL613 (mountain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Zagora",
+                "original_value": "Zagora, Pelio",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Volos",
+                "original_value": "Volos",
+                "Wikidata_ID": "Q200036"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Zagora",
+                "original_value": "Zagora, Greece",
+                "Wikidata_ID": "Q2466197"
+            },
+            {
+                "originalKey": "Pelium mountain",
+                "original_value": "Pelium",
+                "Wikidata_ID": "Q19298349"
+            },
+            {
+                "originalKey": "Thessaly",
+                "original_value": "Thessaly",
+                "Wikidata_ID": "Q166919"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Zagora",
+                "original_value": "Zagora (region)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EU projects",
+                "original_value": "European Union",
+                "Wikidata_ID": "Q458"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EL532",
+                "original_value": "European Union Nomenclature",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EL651",
+                "original_value": "European Union Nomenclature",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

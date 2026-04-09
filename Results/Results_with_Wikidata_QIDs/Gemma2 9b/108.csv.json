@@ -1,0 +1,155 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Greek",
+                "original_value": "Greeks",
+                "Wikidata_ID": "Q539051"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "HELMOS / KILLINI (ZIRIA)",
+                "original_value": "Mount Helmos",
+                "Wikidata_ID": "Q630782"
+            },
+            {
+                "originalKey": "KORINTHIA",
+                "original_value": "Corinthia",
+                "Wikidata_ID": "Q208306"
+            },
+            {
+                "originalKey": "Ziria",
+                "original_value": "Mount Ziria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Chelmos (Aroania)",
+                "original_value": "Mount Helmos",
+                "Wikidata_ID": "Q630782"
+            },
+            {
+                "originalKey": "Patras",
+                "original_value": "Patras",
+                "Wikidata_ID": "Q133123"
+            },
+            {
+                "originalKey": "Athens",
+                "original_value": "Athens",
+                "Wikidata_ID": "Q1524"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            },
+            {
+                "originalKey": "Peloponnese",
+                "original_value": "Peloponnese",
+                "Wikidata_ID": "Q78967"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            },
+            {
+                "originalKey": "Greek gastronomy",
+                "original_value": "Greek cuisine",
+                "Wikidata_ID": "Q744027"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "municipality administration",
+                "original_value": "Municipal government",
+                "Wikidata_ID": "Q15284"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Wesdtern Macedonia",
+                "original_value": "Western Macedonia, Greece",
+                "Wikidata_ID": "Q165408"
+            }
+        ]
+    }
+]

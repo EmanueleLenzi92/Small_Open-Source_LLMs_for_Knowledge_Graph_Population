@@ -1,0 +1,172 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "PORTUGAL ESTRELA",
+                "original_value": "Estrela (Portugal)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Cordilheira Central",
+                "original_value": "Serra da Estrela",
+                "Wikidata_ID": "Q738004"
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            },
+            {
+                "originalKey": "Guarda",
+                "original_value": "Guarda District",
+                "Wikidata_ID": "Q273533"
+            },
+            {
+                "originalKey": "Portugal",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            },
+            {
+                "originalKey": "Seia",
+                "original_value": "Seia",
+                "Wikidata_ID": "Q76017"
+            },
+            {
+                "originalKey": "Covilhã",
+                "original_value": "Covilhã",
+                "Wikidata_ID": "Q849026"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Serra da Estrela",
+                "original_value": "Serra da Estrela",
+                "Wikidata_ID": "Q738004"
+            },
+            {
+                "originalKey": "Portugal",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Serra da Estrela",
+                "original_value": "Serra_da_Estrela",
+                "Wikidata_ID": "Q738004"
+            },
+            {
+                "originalKey": "Rio Mondego",
+                "original_value": "Rio_Mondego",
+                "Wikidata_ID": "Q15656"
+            },
+            {
+                "originalKey": "Gouveia",
+                "original_value": "Gouveia,_Portugal",
+                "Wikidata_ID": "Q599317"
+            },
+            {
+                "originalKey": "Rio Zêzere",
+                "original_value": "Rio_Zêzere",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas,_Portugal",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rio Alva",
+                "original_value": "Rio_Alva",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Seia",
+                "original_value": "Seia,_Portugal",
+                "Wikidata_ID": "Q76017"
+            },
+            {
+                "originalKey": "Rio Alvôco",
+                "original_value": "Rio_Alvôco",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Tagus",
+                "original_value": "Tagus",
+                "Wikidata_ID": "Q14294"
+            },
+            {
+                "originalKey": "Mondego",
+                "original_value": "Rio_Mondego",
+                "Wikidata_ID": "Q15656"
+            },
+            {
+                "originalKey": "Portuguese",
+                "original_value": "Portuguese_people",
+                "Wikidata_ID": "Q178630"
+            }
+        ]
+    }
+]

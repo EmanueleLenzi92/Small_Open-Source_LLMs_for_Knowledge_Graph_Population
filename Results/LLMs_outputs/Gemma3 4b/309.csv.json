@@ -1,0 +1,141 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Scandinavian Uco"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandinavia"
+            },
+            {
+                "named_entity_in_the_text": "Trysil",
+                "wikipedia_title": "Trysil"
+            },
+            {
+                "named_entity_in_the_text": "Sweden",
+                "wikipedia_title": "Sweden"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavian countries",
+                "wikipedia_title": "Scandinavia"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavian mountains",
+                "wikipedia_title": "Scandinavian Mountains"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "COVID-19 Pandemic",
+                "wikipedia_title": "COVID-19 pandemic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Vadsø",
+                "wikipedia_title": "Vadsø"
+            },
+            {
+                "named_entity_in_the_text": "Oppdal",
+                "wikipedia_title": "Oppdal"
+            },
+            {
+                "named_entity_in_the_text": "Hardangervidda National Park",
+                "wikipedia_title": "Hardangervidda National Park"
+            },
+            {
+                "named_entity_in_the_text": "Uvdal",
+                "wikipedia_title": "Uvdal"
+            },
+            {
+                "named_entity_in_the_text": "Ullensvang",
+                "wikipedia_title": "Ullensvang"
+            },
+            {
+                "named_entity_in_the_text": "Lapland Region",
+                "wikipedia_title": "Lapland"
+            },
+            {
+                "named_entity_in_the_text": "Finland",
+                "wikipedia_title": "Finland"
+            },
+            {
+                "named_entity_in_the_text": "Norbotten",
+                "wikipedia_title": "Norrbotten"
+            },
+            {
+                "named_entity_in_the_text": "Sweden",
+                "wikipedia_title": "Sweden"
+            }
+        ]
+    }
+]

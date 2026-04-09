@@ -1,0 +1,278 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Pelium",
+                "wikipedia_title": "Mount Pelion"
+            },
+            {
+                "named_entity_in_the_text": "VC 18 GR",
+                "wikipedia_title": "VC 18 GR"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pelium Mountain",
+                "wikipedia_title": "Pelia Mountains"
+            },
+            {
+                "named_entity_in_the_text": "EL613",
+                "wikipedia_title": "EL613"
+            },
+            {
+                "named_entity_in_the_text": "Zagora",
+                "wikipedia_title": "Zagora, Greece"
+            },
+            {
+                "named_entity_in_the_text": "Volos",
+                "wikipedia_title": "Volos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "150.3",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "0",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1624",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "202.401",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "78.20",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "-0.03%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "51.4",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "-0.04%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Zagora",
+                "wikipedia_title": "Zagora"
+            },
+            {
+                "named_entity_in_the_text": "Pelium mountain",
+                "wikipedia_title": "Peloponnese"
+            },
+            {
+                "named_entity_in_the_text": "Thessaly",
+                "wikipedia_title": "Thrace"
+            },
+            {
+                "named_entity_in_the_text": "Apple cultivation",
+                "wikipedia_title": "Apple cultivation"
+            },
+            {
+                "named_entity_in_the_text": "Greek",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "International",
+                "wikipedia_title": "International"
+            },
+            {
+                "named_entity_in_the_text": "Zagora apples",
+                "wikipedia_title": "Zagora Apples"
+            },
+            {
+                "named_entity_in_the_text": "PDO/PGI",
+                "wikipedia_title": "Protected Designation of Origin (PDO)"
+            },
+            {
+                "named_entity_in_the_text": "Apple cultivation",
+                "wikipedia_title": "Apple cultivation"
+            },
+            {
+                "named_entity_in_the_text": "Zagora",
+                "wikipedia_title": "Zagora"
+            },
+            {
+                "named_entity_in_the_text": "Greek and international market",
+                "wikipedia_title": "International Market"
+            },
+            {
+                "named_entity_in_the_text": "Apple cultivation",
+                "wikipedia_title": "Apple cultivation"
+            },
+            {
+                "named_entity_in_the_text": "Zagora apples",
+                "wikipedia_title": "Zagora Apples"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Zagora",
+                "wikipedia_title": "Zagora, Morocco"
+            },
+            {
+                "named_entity_in_the_text": "farmers",
+                "wikipedia_title": "List of farmers in Morocco"
+            },
+            {
+                "named_entity_in_the_text": "women",
+                "wikipedia_title": "Women's rights in Morocco"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "international market competition",
+                "wikipedia_title": "Market Competition"
+            },
+            {
+                "named_entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate Change"
+            },
+            {
+                "named_entity_in_the_text": "trees",
+                "wikipedia_title": "Tree"
+            },
+            {
+                "named_entity_in_the_text": "harvest",
+                "wikipedia_title": "Harvest"
+            },
+            {
+                "named_entity_in_the_text": "economic uncertainty",
+                "wikipedia_title": "Economic Uncertainty"
+            },
+            {
+                "named_entity_in_the_text": "cooperative",
+                "wikipedia_title": "Cooperative"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capitalist"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "EU projects",
+                "wikipedia_title": "European Union (EU)"
+            },
+            {
+                "named_entity_in_the_text": "Integrated Production",
+                "wikipedia_title": "Integrated production"
+            },
+            {
+                "named_entity_in_the_text": "Organic Production",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "named_entity_in_the_text": "apple chips for diabetics",
+                "wikipedia_title": "Diabetic food"
+            },
+            {
+                "named_entity_in_the_text": "petimezi",
+                "wikipedia_title": "Apple juice"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MRL",
+                "wikipedia_title": "NUTS"
+            },
+            {
+                "named_entity_in_the_text": "EL532",
+                "wikipedia_title": "El532 (NUTS)"
+            },
+            {
+                "named_entity_in_the_text": "EL651",
+                "wikipedia_title": "El651 (NUTS)"
+            }
+        ]
+    }
+]

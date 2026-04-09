@@ -1,0 +1,149 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "GREECE",
+        "wikipedia_title": "Greece"
+      },
+      {
+        "named_entity_in_the_text": "VC 17 GR",
+        "wikipedia_title": "Not found"
+      },
+      {
+        "named_entity_in_the_text": "GREECE",
+        "wikipedia_title": "Greece"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "HELMOS / KILLINI (ZIRIA)",
+        "wikipedia_title": "Helmos"
+      },
+      {
+        "named_entity_in_the_text": "KORINTHIA",
+        "wikipedia_title": "Corinthia"
+      },
+      {
+        "named_entity_in_the_text": "Feneos Plateau",
+        "wikipedia_title": "Feneos"
+      },
+      {
+        "named_entity_in_the_text": "Patras",
+        "wikipedia_title": "Patras"
+      },
+      {
+        "named_entity_in_the_text": "Athens",
+        "wikipedia_title": "Athens"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (disambiguation)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region (disambiguation)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "110",
+        "wikipedia_title": "None found"
+      },
+      {
+        "named_entity_in_the_text": "protected areas",
+        "wikipedia_title": "None found"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Province or region in Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Feneou",
+        "wikipedia_title": "Feneou"
+      },
+      {
+        "named_entity_in_the_text": "Peloponnese",
+        "wikipedia_title": "Peloponnese"
+      },
+      {
+        "named_entity_in_the_text": "Greece",
+        "wikipedia_title": "Greece"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Feneos",
+        "wikipedia_title": "Feneos"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Feneos",
+        "wikipedia_title": "Feneos"
+      },
+      {
+        "named_entity_in_the_text": "Legumes",
+        "wikipedia_title": "Legume"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "municipality administration",
+        "wikipedia_title": "Municipality"
+      },
+      {
+        "named_entity_in_the_text": "PGI (Protected Geographical Indication)",
+        "wikipedia_title": "Protected Geographical Indication"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Wesdtern Macedonia",
+        "wikipedia_title": "Western Macedonia"
+      },
+      {
+        "named_entity_in_the_text": "EL531, EL532, EL533",
+        "wikipedia_title": "None"
+      }
+    ]
+  }
+]

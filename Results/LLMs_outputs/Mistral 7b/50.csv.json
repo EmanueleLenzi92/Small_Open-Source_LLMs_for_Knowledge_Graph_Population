@@ -1,0 +1,206 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "VC 09 CZ",
+                "wikipedia_title": "VC 09 CZ"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Javorníky/Beskydy (Western Carpathian) mountains",
+                "wikipedia_title": "Javorníky and Beskydy"
+            },
+            {
+                "named_entity_in_the_text": "LAU 1 Vsetín",
+                "wikipedia_title": "Vsetín (municipality)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "regional population density",
+                "wikipedia_title": "Regional population density"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "The average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "named_entity_in_the_text": "The per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "EU Protected Geographical Indication (PGI) label",
+                "wikipedia_title": "Protected geographical indication"
+            },
+            {
+                "named_entity_in_the_text": "Valašský region refers to Beskydy mountains settled by Italians (Vallachians - valašský)",
+                "wikipedia_title": "Beskydy Mountains"
+            },
+            {
+                "named_entity_in_the_text": "The case is produced on the foothills of Beskydy mountains traditionally about 200 years (mostly using its the most typical /most produced in te area/ fruit for topping - pears)",
+                "wikipedia_title": "Beskydy Mountains"
+            },
+            {
+                "named_entity_in_the_text": "The product is well known througout Czechia because of its territorial identity",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "It is innovative VC in term of its marketing sing regional name and references to mountain ('tradittional cake from Vallachian region in Beskydy)",
+                "wikipedia_title": "Valašský kásek"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Vallachian region",
+                "wikipedia_title": "Vallachia"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy"
+            },
+            {
+                "named_entity_in_the_text": "Vallachian",
+                "wikipedia_title": "Valašský"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous innovation"
+            },
+            {
+                "named_entity_in_the_text": "cake",
+                "wikipedia_title": "Cake"
+            },
+            {
+                "named_entity_in_the_text": "Vallachian region",
+                "wikipedia_title": "Vallachia"
+            },
+            {
+                "named_entity_in_the_text": "frgále",
+                "wikipedia_title": "Frgále cake"
+            },
+            {
+                "named_entity_in_the_text": "pblum brandy",
+                "wikipedia_title": "Pălincă"
+            },
+            {
+                "named_entity_in_the_text": "Social and cultural assets",
+                "wikipedia_title": "Social capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "frgál",
+                "wikipedia_title": "Frgal"
+            },
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    }
+]

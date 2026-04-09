@@ -1,0 +1,262 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN ADEGUA",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "Sierras Cazorla, Segura and Las Villas",
+                "wikipedia_title": "Sierra de Cazorla, Segura y Las Villas"
+            },
+            {
+                "named_entity_in_the_text": "Granada",
+                "wikipedia_title": "Granada"
+            },
+            {
+                "named_entity_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betics"
+            },
+            {
+                "named_entity_in_the_text": "Castril",
+                "wikipedia_title": "Castril"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "750",
+                "wikipedia_title": "Minimum altimetry"
+            },
+            {
+                "named_entity_in_the_text": "1950",
+                "wikipedia_title": "Maximum altimetry"
+            },
+            {
+                "named_entity_in_the_text": "2.02",
+                "wikipedia_title": "Total population (in thousand)"
+            },
+            {
+                "named_entity_in_the_text": "8.31",
+                "wikipedia_title": "Population density (Inhabitants/km2) in the LAU"
+            },
+            {
+                "named_entity_in_the_text": "-17.60%",
+                "wikipedia_title": "Population change rate of the LAU in the last 10 years (%)"
+            },
+            {
+                "named_entity_in_the_text": "97",
+                "wikipedia_title": "Overall regional population density (Inhabitants/km2)"
+            },
+            {
+                "named_entity_in_the_text": "-1.10%",
+                "wikipedia_title": "Regional population change rate in the last 10 years (%)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "named_entity_in_the_text": "Mediterranean area",
+                "wikipedia_title": "Mediterranean Sea"
+            },
+            {
+                "named_entity_in_the_text": "Alps",
+                "wikipedia_title": "Alps"
+            },
+            {
+                "named_entity_in_the_text": "Spain",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "UNESCO",
+                "wikipedia_title": "UNESCO"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "livestock transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "named_entity_in_the_text": "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+                "wikipedia_title": "Sierras de Cazorla, Segura y Las Villas Natural Park"
+            },
+            {
+                "named_entity_in_the_text": "Jaén",
+                "wikipedia_title": "Jaén"
+            },
+            {
+                "named_entity_in_the_text": "Castril",
+                "wikipedia_title": "Castril"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Morena",
+                "wikipedia_title": "Sierra Morena"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "named_entity_in_the_text": "shepherds",
+                "wikipedia_title": "Shepherd"
+            },
+            {
+                "named_entity_in_the_text": "livestock",
+                "wikipedia_title": "Livestock"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "named_entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous innovation"
+            },
+            {
+                "named_entity_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogenous innovation"
+            },
+            {
+                "named_entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Soria",
+                "wikipedia_title": "Province of Soria"
+            },
+            {
+                "named_entity_in_the_text": "Cuenca",
+                "wikipedia_title": "Cuenca, Spain"
+            },
+            {
+                "named_entity_in_the_text": "La Rioja",
+                "wikipedia_title": "La Rioja"
+            },
+            {
+                "named_entity_in_the_text": "Andalusia",
+                "wikipedia_title": "Andalusia"
+            },
+            {
+                "named_entity_in_the_text": "Sierras of Cazorla, Segura and Las Villas",
+                "wikipedia_title": "Sierra de Cazorla"
+            },
+            {
+                "named_entity_in_the_text": "Jaén",
+                "wikipedia_title": "Province of Jaén"
+            },
+            {
+                "named_entity_in_the_text": "Granada",
+                "wikipedia_title": "Granada, Spain"
+            },
+            {
+                "named_entity_in_the_text": "Sierra de Castril",
+                "wikipedia_title": "Sierra de Castril"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Nevada",
+                "wikipedia_title": "Sierra Nevada"
+            },
+            {
+                "named_entity_in_the_text": "Italy",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    }
+]

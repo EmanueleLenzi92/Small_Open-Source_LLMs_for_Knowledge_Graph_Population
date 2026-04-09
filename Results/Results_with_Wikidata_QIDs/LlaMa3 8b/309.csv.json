@@ -1,0 +1,186 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "original_value": "Scandes",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Trysil",
+                "original_value": "Trysil (municipality)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Sweden",
+                "original_value": "Sweden",
+                "Wikidata_ID": "Q34"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_of_Spain",
+                "Wikidata_ID": "Q162620"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Autonomous_communities_of_Spain",
+                "Wikidata_ID": "Q10742"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_of_[Country]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Regions_of_[Country]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavian countries",
+                "original_value": "Scandinavia",
+                "Wikidata_ID": "Q21195"
+            },
+            {
+                "originalKey": "VCs",
+                "original_value": "Visitor center",
+                "Wikidata_ID": "Q18411786"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavian mountains",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "COVID-19 Pandemic",
+                "original_value": "COVID-19",
+                "Wikidata_ID": "Q84263196"
+            },
+            {
+                "originalKey": "Climate Change",
+                "original_value": "Global warming",
+                "Wikidata_ID": "Q125928"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "New tourism activities",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "small family bussinesses and farms",
+                "original_value": "Family business",
+                "Wikidata_ID": "Q1395324"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vadsø",
+                "original_value": "Vadsø",
+                "Wikidata_ID": "Q126494003"
+            },
+            {
+                "originalKey": "Oppdal",
+                "original_value": "Oppdal",
+                "Wikidata_ID": "Q131756830"
+            },
+            {
+                "originalKey": "Hardangervidda National Park",
+                "original_value": "Hardangervidda",
+                "Wikidata_ID": "Q1585051"
+            },
+            {
+                "originalKey": "Uvdal",
+                "original_value": "Uvdal",
+                "Wikidata_ID": "Q35422459"
+            },
+            {
+                "originalKey": "Ullensvang",
+                "original_value": "Ullensvang",
+                "Wikidata_ID": "Q484077"
+            },
+            {
+                "originalKey": "Lapland Region",
+                "original_value": "Lapland (NUTS3 FI1D7)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Finland",
+                "original_value": "Finland",
+                "Wikidata_ID": "Q33"
+            },
+            {
+                "originalKey": "Norbotten",
+                "original_value": "Norrbotten County",
+                "Wikidata_ID": "Q103686"
+            },
+            {
+                "originalKey": "Sweden",
+                "original_value": "Sweden",
+                "Wikidata_ID": "Q34"
+            }
+        ]
+    }
+]

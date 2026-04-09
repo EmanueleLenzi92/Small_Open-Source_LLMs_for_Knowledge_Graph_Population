@@ -1,0 +1,130 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "VC 17 GR",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "HELMOS",
+                "wikipedia_title": "Helmus"
+            },
+            {
+                "named_entity_in_the_text": "KILLINI",
+                "wikipedia_title": "Killini"
+            },
+            {
+                "named_entity_in_the_text": "ZIRIA",
+                "wikipedia_title": "Ziria"
+            },
+            {
+                "named_entity_in_the_text": "KORINTHIA",
+                "wikipedia_title": "Corinthia (region)"
+            },
+            {
+                "named_entity_in_the_text": "Feneos Plateau",
+                "wikipedia_title": "Feneos Plateau"
+            },
+            {
+                "named_entity_in_the_text": "Ziria",
+                "wikipedia_title": "Ziria"
+            },
+            {
+                "named_entity_in_the_text": "Chelmos",
+                "wikipedia_title": "Chelmos"
+            },
+            {
+                "named_entity_in_the_text": "Oligyrtos",
+                "wikipedia_title": "Oligyrtos"
+            },
+            {
+                "named_entity_in_the_text": "Saitas",
+                "wikipedia_title": "Saitas"
+            },
+            {
+                "named_entity_in_the_text": "Patras",
+                "wikipedia_title": "Patras"
+            },
+            {
+                "named_entity_in_the_text": "Athens",
+                "wikipedia_title": "Athens"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Plateau of Feneos"
+            },
+            {
+                "named_entity_in_the_text": "Peloponnese",
+                "wikipedia_title": "Peloponnese"
+            },
+            {
+                "named_entity_in_the_text": "The local cooperative",
+                "wikipedia_title": "The local cooperative"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Wesdtern Macedonia",
+                "wikipedia_title": "Western Macedonia"
+            },
+            {
+                "named_entity_in_the_text": "Macedonia",
+                "wikipedia_title": "North Macedonia"
+            }
+        ]
+    }
+]

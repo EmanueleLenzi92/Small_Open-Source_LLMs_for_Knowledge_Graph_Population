@@ -1,0 +1,258 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Mugla",
+                "wikipedia_title": "Mula, Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Menteşe Mountains",
+                "wikipedia_title": "Menteşe Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Ula",
+                "wikipedia_title": "Ula"
+            },
+            {
+                "named_entity_in_the_text": "Muğla province",
+                "wikipedia_title": "Muğla Province"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "479",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "600",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "26.058",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "54.40083507",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "11.18%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "85.2",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "13.71%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Turkish Patent and Trademark Office",
+                "wikipedia_title": "Turkish Patent and Trademark Office"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Muğla Province",
+                "wikipedia_title": "Muğla Province, Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Muğla",
+                "wikipedia_title": "Muğla"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Honey",
+                "wikipedia_title": "Honeybee"
+            },
+            {
+                "named_entity_in_the_text": "migratory beekeeper",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "named_entity_in_the_text": "Young people",
+                "wikipedia_title": "Youth"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capitalist"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "named_entity_in_the_text": "Organic",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "named_entity_in_the_text": "Rainforest Alliance certified tea",
+                "wikipedia_title": "Rainforest Alliance certification"
+            },
+            {
+                "named_entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "named_entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "named_entity_in_the_text": "Cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Switzerland",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "named_entity_in_the_text": "UK",
+                "wikipedia_title": "United Kingdom"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "France",
+                "wikipedia_title": "France"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Hungary",
+                "wikipedia_title": "Hungary"
+            },
+            {
+                "named_entity_in_the_text": "Italy",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "named_entity_in_the_text": "North Macedonia",
+                "wikipedia_title": "North Macedonia"
+            },
+            {
+                "named_entity_in_the_text": "Romania",
+                "wikipedia_title": "Romania"
+            },
+            {
+                "named_entity_in_the_text": "Serbia",
+                "wikipedia_title": "Serbia"
+            },
+            {
+                "named_entity_in_the_text": "Slovakia",
+                "wikipedia_title": "Slovakia"
+            },
+            {
+                "named_entity_in_the_text": "Spain",
+                "wikipedia_title": "Spain"
+            }
+        ]
+    }
+]

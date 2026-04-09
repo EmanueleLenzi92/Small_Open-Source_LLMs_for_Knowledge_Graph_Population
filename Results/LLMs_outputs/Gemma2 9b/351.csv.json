@@ -1,0 +1,89 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN ADEGUA",
+                "wikipedia_title": "Spain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betic Cordillera"
+            },
+            {
+                "named_entity_in_the_text": "Carcabuey",
+                "wikipedia_title": "Carcabuey"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Subbética",
+                "wikipedia_title": "Sierra Subbética"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "PROMI",
+                "wikipedia_title": "PROMI"
+            },
+            {
+                "named_entity_in_the_text": "Provincial Council",
+                "wikipedia_title": "Provincial council"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sierra",
+                "wikipedia_title": "Sierra (mountain range)"
+            },
+            {
+                "named_entity_in_the_text": "Subbética",
+                "wikipedia_title": "Subbética"
+            }
+        ]
+    }
+]

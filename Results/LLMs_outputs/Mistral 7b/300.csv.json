@@ -1,0 +1,166 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandinavian Uco"
+            },
+            {
+                "named_entity_in_the_text": "VC 07 SCA",
+                "wikipedia_title": "VC 07 SCA"
+            },
+            {
+                "named_entity_in_the_text": "Roros",
+                "wikipedia_title": "Roros"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandes"
+            },
+            {
+                "named_entity_in_the_text": "Tynset",
+                "wikipedia_title": "Tynset"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Ancient crop",
+                "wikipedia_title": "Ancient grain"
+            },
+            {
+                "named_entity_in_the_text": "extreme climate conditions",
+                "wikipedia_title": "Extreme weather"
+            },
+            {
+                "named_entity_in_the_text": "Farmers",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "named_entity_in_the_text": "e-commerce platform",
+                "wikipedia_title": "E-commerce"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "barley",
+                "wikipedia_title": "Barley"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            },
+            {
+                "named_entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rorosmat"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "Rorosmat brand",
+                "wikipedia_title": "Rorosmat"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Barack Obama",
+                "wikipedia_title": "Barack Obama"
+            },
+            {
+                "named_entity_in_the_text": "New York City",
+                "wikipedia_title": "New York City"
+            },
+            {
+                "named_entity_in_the_text": "United States",
+                "wikipedia_title": "United States"
+            }
+        ]
+    }
+]

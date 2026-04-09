@@ -1,0 +1,124 @@
+[
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Pultost",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1776589",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Slowfood Foundation for Biodiversity",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q335823",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Scandinavean Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q186547",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Scandes",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q186547",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Lesja",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q488405",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Lesjaskogsvatnet",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1820743",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rauma river",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q494838",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Gudbrandsdalslågen river",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q927499",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Norwegian",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q20"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Pultost",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1776589",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Pultosts BA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Pultost Innlandet SA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Slowfood Foundation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q335823",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Etnedal",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q488049",
+				"type":"ne"
+            }
+        ]
+    }
+]

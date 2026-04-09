@@ -1,0 +1,139 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "HUTTON",
+                "original_value": "Hutton, Scotland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Ross and Cromarty",
+                "original_value": "Ross and Cromarty",
+                "Wikidata_ID": "Q1586842"
+            },
+            {
+                "originalKey": "Craobh",
+                "original_value": "Craobh",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Black Isle",
+                "original_value": "Black Isle",
+                "Wikidata_ID": "Q880324"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highlands and Islands",
+                "original_value": "Highlands and Islands",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Ross and Cromarty",
+                "original_value": "Ross and Cromarty",
+                "Wikidata_ID": "Q1586842"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Inverness",
+                "original_value": "Inverness",
+                "Wikidata_ID": "Q160493"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scottish Government",
+                "original_value": "Scottish Government",
+                "Wikidata_ID": "Q32521"
+            },
+            {
+                "originalKey": "BREXIT",
+                "original_value": "Brexit",
+                "Wikidata_ID": "Q7888194"
+            },
+            {
+                "originalKey": "COVID",
+                "original_value": "COVID-19 pandemic",
+                "Wikidata_ID": "Q81068910"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU1s",
+                "original_value": "Local Administrative Units for the Nomenclature of Territorial Units for Statistics",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Argyll and Bute",
+                "original_value": "Argyll and Bute",
+                "Wikidata_ID": "Q202174"
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Scottish Government",
+                "original_value": "Scottish Government",
+                "Wikidata_ID": "Q32521"
+            }
+        ]
+    }
+]

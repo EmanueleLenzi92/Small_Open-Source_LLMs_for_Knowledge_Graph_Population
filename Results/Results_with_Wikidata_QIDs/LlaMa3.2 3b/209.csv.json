@@ -1,0 +1,200 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "PORTUGAL ESTRELA",
+                "original_value": "Estrela Province",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Cordilheira Central",
+                "original_value": "Cordilheira Central",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas (municipality)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Portugal",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            },
+            {
+                "originalKey": "Guarda",
+                "original_value": "Guarda",
+                "Wikidata_ID": "Q299767"
+            },
+            {
+                "originalKey": "Seia",
+                "original_value": "Seia",
+                "Wikidata_ID": "Q76017"
+            },
+            {
+                "originalKey": "Covilhã",
+                "original_value": "Covilhã",
+                "Wikidata_ID": "Q849026"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province (disambiguation)",
+                "Wikidata_ID": "Q4644326"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region (disambiguation)",
+                "Wikidata_ID": "Q2138164"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional unit (Norway)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "77.2",
+                "original_value": "Not available",
+                "Wikidata_ID": "Q929804"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province (Canada)",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Province or region in Canada",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Portugal",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            },
+            {
+                "originalKey": "Mountain areas",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            },
+            {
+                "originalKey": "Portugal",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "List of venture capital firms by stage",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "List of venture capital firms by stage",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Serra da Estrela",
+                "original_value": "Serra da Estrela",
+                "Wikidata_ID": "Q738004"
+            },
+            {
+                "originalKey": "Portugal",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Serra da Estrela",
+                "original_value": "Serra da Estrela",
+                "Wikidata_ID": "Q738004"
+            },
+            {
+                "originalKey": "Gouveia",
+                "original_value": "Gouveia (municipality)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            },
+            {
+                "originalKey": "Seia",
+                "original_value": "Seia",
+                "Wikidata_ID": "Q76017"
+            },
+            {
+                "originalKey": "Tagus",
+                "original_value": "Rio Tagus",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mondego",
+                "original_value": "Rio Mondego",
+                "Wikidata_ID": "Q15656"
+            }
+        ]
+    }
+]

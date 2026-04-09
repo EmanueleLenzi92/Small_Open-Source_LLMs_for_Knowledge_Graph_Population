@@ -1,0 +1,104 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandinavian UCO"
+            },
+            {
+                "named_entity_in_the_text": "Pultost",
+                "wikipedia_title": "Pultost"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food Foundation for Biodiversity"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Lesja",
+                "wikipedia_title": "Lesja"
+            },
+            {
+                "named_entity_in_the_text": "Lesjaskogsvatnet",
+                "wikipedia_title": "Lesjaskogsvatnet"
+            },
+            {
+                "named_entity_in_the_text": "Rauma river",
+                "wikipedia_title": "Rauma River"
+            },
+            {
+                "named_entity_in_the_text": "Gudbrandsdalslågen river",
+                "wikipedia_title": "Gudbrandsdalslågen"
+            },
+            {
+                "named_entity_in_the_text": "Norwegian trout",
+                "wikipedia_title": "Brown trout"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pultost",
+                "wikipedia_title": "Pultost"
+            },
+            {
+                "named_entity_in_the_text": "Pultosts BA",
+                "wikipedia_title": "Pultost BA"
+            },
+            {
+                "named_entity_in_the_text": "Pultost Innlandet SA",
+                "wikipedia_title": "Pultost Innlandet SA"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation",
+                "wikipedia_title": "Slow Food Foundation"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Etnedal",
+                "wikipedia_title": "Etnedal"
+            }
+        ]
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "PORTUGAL ESTRELA",
+                "wikipedia_title": "Portugal Estrela"
+            },
+            {
+                "named_entity_in_the_text": "VC 01 PT2",
+                "wikipedia_title": "VC 01 PT2"
+            },
+            {
+                "named_entity_in_the_text": "Manteigas",
+                "wikipedia_title": "Manteigas"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Cordilheira Central (RR08)",
+                "wikipedia_title": "Central Mountains (Portugal)"
+            },
+            {
+                "named_entity_in_the_text": "Manteigas",
+                "wikipedia_title": "Manteigas"
+            },
+            {
+                "named_entity_in_the_text": "Guarda",
+                "wikipedia_title": "Guarda District"
+            },
+            {
+                "named_entity_in_the_text": "Portugal",
+                "wikipedia_title": "Portugal"
+            },
+            {
+                "named_entity_in_the_text": "Seia",
+                "wikipedia_title": "Seia"
+            },
+            {
+                "named_entity_in_the_text": "Covilhã",
+                "wikipedia_title": "Covilhã"
+            },
+            {
+                "named_entity_in_the_text": "Zêzere Glacier Valley",
+                "wikipedia_title": "Zêzere River Valley"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "123.28",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "496",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1993",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "3.007",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "24.7",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "-0.15%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "78.6",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "-0.05%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Portuguese water",
+                "wikipedia_title": "Water (drink)"
+            },
+            {
+                "named_entity_in_the_text": "Mineral Water",
+                "wikipedia_title": "Mineral water"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Manteigas",
+                "wikipedia_title": "Manteigas"
+            },
+            {
+                "named_entity_in_the_text": "Mineral Water",
+                "wikipedia_title": "Mineral water"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Mineral Water",
+                "wikipedia_title": "Water"
+            },
+            {
+                "named_entity_in_the_text": "plastic bottles",
+                "wikipedia_title": "Plastic bottle"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capitalist"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Serra da Estrela",
+                "wikipedia_title": " Serra da Estrela"
+            },
+            {
+                "named_entity_in_the_text": "Mineral water",
+                "wikipedia_title": "Mineral Water"
+            },
+            {
+                "named_entity_in_the_text": "Portuguese",
+                "wikipedia_title": "Portugal"
+            },
+            {
+                "named_entity_in_the_text": "RPET",
+                "wikipedia_title": "Polyethylene terephthalate (PET)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rio Mondego",
+                "wikipedia_title": "Rio Mondego"
+            },
+            {
+                "named_entity_in_the_text": "Rio Zêzere",
+                "wikipedia_title": "Rio Zêzere"
+            },
+            {
+                "named_entity_in_the_text": "Rio Alva",
+                "wikipedia_title": "Rio Alva"
+            },
+            {
+                "named_entity_in_the_text": "Rio Alvôco",
+                "wikipedia_title": "Rio Alvôco"
+            }
+        ]
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Scandinavia"
+            },
+            {
+                "named_entity_in_the_text": "Roros",
+                "wikipedia_title": "Røros"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandes"
+            },
+            {
+                "named_entity_in_the_text": "Tynset",
+                "wikipedia_title": "Tynset"
+            },
+            {
+                "named_entity_in_the_text": "Østerdalen",
+                "wikipedia_title": "Østerdalen"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local_administrative_unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Spain"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Autonomous_communities_of_Spain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Ancient crop",
+                "wikipedia_title": null
+            },
+            {
+                "named_entity_in_the_text": "Farmers",
+                "wikipedia_title": "Farming"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            },
+            {
+                "named_entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Røros Mat"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Climate Change",
+                "wikipedia_title": "Global_warming"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture_capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rorosmat"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Elon Musk",
+                "wikipedia_title": "Elon_Musk"
+            },
+            {
+                "named_entity_in_the_text": "Tesla, Inc.",
+                "wikipedia_title": "Tesla,_Inc."
+            },
+            {
+                "named_entity_in_the_text": "SpaceX",
+                "wikipedia_title": "SpaceX"
+            },
+            {
+                "named_entity_in_the_text": "California",
+                "wikipedia_title": "California"
+            }
+        ]
+    }
+]

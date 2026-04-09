@@ -1,0 +1,165 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "SCOTLAND HUTTON",
+        "wikipedia_title": "Hutton, Scotland"
+      },
+      {
+        "named_entity_in_the_text": "VC 02 UK",
+        "wikipedia_title": "List of British VC recipients"
+      },
+      {
+        "named_entity_in_the_text": "Caerphilly cheese",
+        "wikipedia_title": "Caerphilly cheese"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Wales",
+        "wikipedia_title": "Wales"
+      },
+      {
+        "named_entity_in_the_text": "West Wales",
+        "wikipedia_title": "West Wales"
+      },
+      {
+        "named_entity_in_the_text": "Caerphilly",
+        "wikipedia_title": "Caerphilly (borough)"
+      },
+      {
+        "named_entity_in_the_text": "Cardiff",
+        "wikipedia_title": "Cardiff"
+      },
+      {
+        "named_entity_in_the_text": "Newport",
+        "wikipedia_title": "Newport, Wales"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Province",
+        "wikipedia_title": "Province (economics)"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Region (economics)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "330",
+        "wikipedia_title": null
+      },
+      {
+        "named_entity_in_the_text": "36.3 km",
+        "wikipedia_title": null
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Province or Region in Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Caerphilly",
+        "wikipedia_title": "Caerphilly"
+      },
+      {
+        "named_entity_in_the_text": "Somerset",
+        "wikipedia_title": "Somerset"
+      },
+      {
+        "named_entity_in_the_text": "Wiltshire",
+        "wikipedia_title": "Wiltshire"
+      },
+      {
+        "named_entity_in_the_text": "Caerphilly town",
+        "wikipedia_title": "Caerphilly (town)"
+      },
+      {
+        "named_entity_in_the_text": "Gorwydd",
+        "wikipedia_title": "Gorwydd cheese"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Caerphilly",
+        "wikipedia_title": "Caerphilly (town)"
+      },
+      {
+        "named_entity_in_the_text": "England",
+        "wikipedia_title": "England"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Caerphilly",
+        "wikipedia_title": "Caerphilly (disambiguation)"
+      },
+      {
+        "named_entity_in_the_text": "England",
+        "wikipedia_title": "England"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Caerphilly",
+        "wikipedia_title": "Caerphilly"
+      },
+      {
+        "named_entity_in_the_text": "Caerphilly",
+        "wikipedia_title": "Caerphilly (town)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Somerset",
+        "wikipedia_title": "Somerset"
+      },
+      {
+        "named_entity_in_the_text": "Wiltshire",
+        "wikipedia_title": "Wiltshire"
+      }
+    ]
+  }
+]

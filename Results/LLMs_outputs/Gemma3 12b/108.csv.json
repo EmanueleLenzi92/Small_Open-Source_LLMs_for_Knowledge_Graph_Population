@@ -1,0 +1,126 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Greek",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "HELMOS",
+                "wikipedia_title": "Chelmos"
+            },
+            {
+                "named_entity_in_the_text": "KILLINI",
+                "wikipedia_title": "Killini"
+            },
+            {
+                "named_entity_in_the_text": "ZIRIA",
+                "wikipedia_title": "Ziria"
+            },
+            {
+                "named_entity_in_the_text": "KORINTHIA",
+                "wikipedia_title": "Korinthia"
+            },
+            {
+                "named_entity_in_the_text": "Feneos Plateau",
+                "wikipedia_title": "Feneos"
+            },
+            {
+                "named_entity_in_the_text": "Ziria",
+                "wikipedia_title": "Ziria"
+            },
+            {
+                "named_entity_in_the_text": "Chelmos (Aroania)",
+                "wikipedia_title": "Chelmos"
+            },
+            {
+                "named_entity_in_the_text": "Oligyrtos",
+                "wikipedia_title": "Oligyrtos"
+            },
+            {
+                "named_entity_in_the_text": "Saitas",
+                "wikipedia_title": "Mount_Saitas"
+            },
+            {
+                "named_entity_in_the_text": "Patras",
+                "wikipedia_title": "Patras"
+            },
+            {
+                "named_entity_in_the_text": "Athens",
+                "wikipedia_title": "Athens"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            },
+            {
+                "named_entity_in_the_text": "Peloponnese",
+                "wikipedia_title": "Peloponnese"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Wesdtern Macedonia",
+                "wikipedia_title": "Western Macedonia"
+            }
+        ]
+    }
+]

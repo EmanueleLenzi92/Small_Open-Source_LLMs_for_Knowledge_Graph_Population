@@ -1,0 +1,236 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "ADEGUA",
+                "original_value": "Adega (organization)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Sierras Cazorla, Segura and Las Villas",
+                "original_value": "Sierra de Cazorla",
+                "Wikidata_ID": "Q7511639"
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Granada (province)",
+                "Wikidata_ID": "Q82142"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Betic System",
+                "original_value": "Betic System",
+                "Wikidata_ID": "Q831469"
+            },
+            {
+                "originalKey": "Castril",
+                "original_value": "Castril",
+                "Wikidata_ID": "Q555913"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_of_Spain",
+                "Wikidata_ID": "Q162620"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Autonomous_communities_of_Spain",
+                "Wikidata_ID": "Q10742"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_of_[Country]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Regions_of_[Country]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Spain",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "UNESCO",
+                "original_value": "United Nations Educational, Scientific and Cultural Organization",
+                "Wikidata_ID": "Q7809"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sierras de Cazorla",
+                "original_value": "Sierra_de_Cazorla",
+                "Wikidata_ID": "Q7511639"
+            },
+            {
+                "originalKey": "Jaén",
+                "original_value": "Jaén",
+                "Wikidata_ID": "Q230847"
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Granada",
+                "Wikidata_ID": "Q8810"
+            },
+            {
+                "originalKey": "Castril",
+                "original_value": "Castril",
+                "Wikidata_ID": "Q555913"
+            },
+            {
+                "originalKey": "Sierra Morena",
+                "original_value": "Sierra_Morena",
+                "Wikidata_ID": "Q686362"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "Shepherds",
+                "original_value": "Shepherd",
+                "Wikidata_ID": "Q81710"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Soria",
+                "original_value": "Province_of_Soria",
+                "Wikidata_ID": "Q55276"
+            },
+            {
+                "originalKey": "Cuenca",
+                "original_value": "Province_of_Cuenca",
+                "Wikidata_ID": "Q54888"
+            },
+            {
+                "originalKey": "La Rioja",
+                "original_value": "La_Rioja_(Spain)",
+                "Wikidata_ID": "Q5727"
+            },
+            {
+                "originalKey": "Andalusia",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            },
+            {
+                "originalKey": "Cazorla",
+                "original_value": "Sierra_de_Cazorla_y_Segura",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Segura",
+                "original_value": "Sierra_de_Cazorla_y_Segura",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Las Villas",
+                "original_value": "Jaén_(province)",
+                "Wikidata_ID": "Q230847"
+            },
+            {
+                "originalKey": "Jaén",
+                "original_value": "Jaén_(province)",
+                "Wikidata_ID": "Q230847"
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Province_of_Granada",
+                "Wikidata_ID": "Q82142"
+            },
+            {
+                "originalKey": "Sierra Morena",
+                "original_value": "Sierra_Morena",
+                "Wikidata_ID": "Q686362"
+            },
+            {
+                "originalKey": "Sierra Nevada",
+                "original_value": "Sierra_Nevada_(Spain)",
+                "Wikidata_ID": "Q26955"
+            },
+            {
+                "originalKey": "Italy",
+                "original_value": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    }
+]

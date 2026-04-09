@@ -1,0 +1,177 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "SKANDINAVIAN UCO",
+        "wikipedia_title": "Skandinavisk Union of Cooperatives"
+      },
+      {
+        "named_entity_in_the_text": "Undredal Stølsysteri SA",
+        "wikipedia_title": "Undredal Støl Syntetisk A/S"
+      },
+      {
+        "named_entity_in_the_text": "Europe",
+        "wikipedia_title": "Europe (continent)"
+      },
+      {
+        "named_entity_in_the_text": "Brimost cheese",
+        "wikipedia_title": "Brimestøls"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Scandinavean Mountains - Scandes",
+        "wikipedia_title": "Scandinavian Mountains"
+      },
+      {
+        "named_entity_in_the_text": "Aurland Fiord",
+        "wikipedia_title": "Aurland"
+      },
+      {
+        "named_entity_in_the_text": "Nærøyfjorden",
+        "wikipedia_title": "Nærøyfjorden"
+      },
+      {
+        "named_entity_in_the_text": "Sognefjorden",
+        "wikipedia_title": "Sognefjord"
+      },
+      {
+        "named_entity_in_the_text": "Geirangefjord",
+        "wikipedia_title": "Geirangerfjord"
+      },
+      {
+        "named_entity_in_the_text": "The West Norwegian Fjords of Geirangefjord and Nærøyfjord UNESCO World Heritage Site",
+        "wikipedia_title": "West Norwegian Fjords with Geirangerfjord and Nærøyfjord"
+      },
+      {
+        "named_entity_in_the_text": "Undredal",
+        "wikipedia_title": "Undredal"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Province",
+        "wikipedia_title": "Province (geography)"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Region"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "168",
+        "wikipedia_title": "Not available"
+      },
+      {
+        "named_entity_in_the_text": "protected areas",
+        "wikipedia_title": "Not available"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "List of provinces in Canada"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "List of regions of Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Undfredal",
+        "wikipedia_title": "Undredal"
+      },
+      {
+        "named_entity_in_the_text": "Aureland",
+        "wikipedia_title": "Aurland"
+      },
+      {
+        "named_entity_in_the_text": "Norway",
+        "wikipedia_title": "Norway"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "VC",
+        "wikipedia_title": "Venture capital"
+      },
+      {
+        "named_entity_in_the_text": "dairies",
+        "wikipedia_title": "Dairy"
+      },
+      {
+        "named_entity_in_the_text": "GPE",
+        "wikipedia_title": ""
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Grassland",
+        "wikipedia_title": "Grassland"
+      },
+      {
+        "named_entity_in_the_text": "Natural land",
+        "wikipedia_title": "Natural land"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Sweden",
+        "wikipedia_title": "Sweden"
+      },
+      {
+        "named_entity_in_the_text": "Jämtland",
+        "wikipedia_title": "Jämtland"
+      },
+      {
+        "named_entity_in_the_text": "Slowfood Foundation for Biodiversity",
+        "wikipedia_title": "Slow Food Foundation"
+      }
+    ]
+  }
+]

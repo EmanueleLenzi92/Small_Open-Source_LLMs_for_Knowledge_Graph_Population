@@ -1,0 +1,174 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN ADEGUA",
+                "wikipedia_title": "Adegua"
+            },
+            {
+                "named_entity_in_the_text": "CANARY ISLANDS",
+                "wikipedia_title": "Canary Islands"
+            },
+            {
+                "named_entity_in_the_text": "GRAN CANARIA",
+                "wikipedia_title": "Gran Canaria"
+            },
+            {
+                "named_entity_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "SAN MATEO",
+                "wikipedia_title": "San Mateo, Gran Canaria"
+            },
+            {
+                "named_entity_in_the_text": "TEJEDA",
+                "wikipedia_title": "Tejeda, Gran Canaria"
+            },
+            {
+                "named_entity_in_the_text": "ARTENARA",
+                "wikipedia_title": "Artenara, Gran Canaria"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Gran Canaria Island",
+                "wikipedia_title": "Gran Canaria"
+            },
+            {
+                "named_entity_in_the_text": "Tejeda",
+                "wikipedia_title": "Tejeda (municipality)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province (geography)"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Regional (geography)"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "38.3",
+                "wikipedia_title": "Not available"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province (Canada)"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Province or region in Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Gran Canaria Biosphere Reserve",
+                "wikipedia_title": "Gran Canaria Biosphere Reserve"
+            },
+            {
+                "named_entity_in_the_text": "Asociación Charamusco Carboneros de la Cumbre",
+                "wikipedia_title": "Asociación Charamusco Carboneros de la Cumbre"
+            },
+            {
+                "named_entity_in_the_text": "Cabildo",
+                "wikipedia_title": "Cabildo (Gran Canaria)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "almond",
+                "wikipedia_title": "Almond"
+            },
+            {
+                "named_entity_in_the_text": "broom",
+                "wikipedia_title": "Broom"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "forest",
+                "wikipedia_title": "Forest"
+            },
+            {
+                "named_entity_in_the_text": "charcoal",
+                "wikipedia_title": "Charcoal"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Gran Canaria Biosphere Reserve",
+                "wikipedia_title": "Gran Canaria Biosphere Reserve"
+            },
+            {
+                "named_entity_in_the_text": "Carbón de La Cumbre",
+                "wikipedia_title": "Carbón de La Cumbre"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Andalusia",
+                "wikipedia_title": "Andalusia"
+            },
+            {
+                "named_entity_in_the_text": "Basque Country",
+                "wikipedia_title": "Basque Country"
+            },
+            {
+                "named_entity_in_the_text": "Navarre",
+                "wikipedia_title": "Navarre"
+            }
+        ]
+    }
+]

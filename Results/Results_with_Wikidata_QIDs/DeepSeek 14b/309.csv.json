@@ -1,0 +1,127 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "Skandinavisk Ulfhovedkommune",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains - Scandes",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Trysil",
+                "original_value": "Tysfjell",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Sweden",
+                "original_value": "Sweden",
+                "Wikidata_ID": "Q34"
+            },
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Geographical region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavian countries",
+                "original_value": "Scandinavia",
+                "Wikidata_ID": "Q21195"
+            },
+            {
+                "originalKey": "Regional associations",
+                "original_value": "Regional association",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavian mountains",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Arctic",
+                "original_value": "Arctic",
+                "Wikidata_ID": "Q25322"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vadsø",
+                "original_value": "Vådsø",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Oppdal",
+                "original_value": "Oppdal",
+                "Wikidata_ID": "Q131756830"
+            },
+            {
+                "originalKey": "Hardangervidda National Park",
+                "original_value": "Hardangervidda National Park",
+                "Wikidata_ID": "Q1140044"
+            },
+            {
+                "originalKey": "Lapland Region",
+                "original_value": "Lapland",
+                "Wikidata_ID": "Q1079386"
+            },
+            {
+                "originalKey": "Norbotten",
+                "original_value": "Norrbotten",
+                "Wikidata_ID": "Q211649"
+            }
+        ]
+    }
+]

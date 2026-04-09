@@ -1,0 +1,136 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "PORTUGAL ESTRELA",
+                "original_value": "Portugal (EU member state)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Cordilheira Central",
+                "original_value": "Cordilheira Central",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            },
+            {
+                "originalKey": "Guarda",
+                "original_value": "Guarda",
+                "Wikidata_ID": "Q299767"
+            },
+            {
+                "originalKey": "Seia",
+                "original_value": "Seia",
+                "Wikidata_ID": "Q76017"
+            },
+            {
+                "originalKey": "Covilhã",
+                "original_value": "Covilhã",
+                "Wikidata_ID": "Q849026"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Portuguese",
+                "original_value": "Portugal",
+                "Wikidata_ID": "Q45"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Manteigas",
+                "original_value": "Manteigas",
+                "Wikidata_ID": "Q986093"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Serra da Estrela",
+                "original_value": "Serra da Estrela",
+                "Wikidata_ID": "Q738004"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Serra da Estrela",
+                "original_value": "Serra da Estrela",
+                "Wikidata_ID": "Q738004"
+            },
+            {
+                "originalKey": "Rio Mondego",
+                "original_value": "Mondogo_River",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Municipality of Gouveia",
+                "original_value": "Gouveia_Municipality",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rio Zêzere",
+                "original_value": "Zêzere_River",
+                "Wikidata_ID": "Q15671"
+            },
+            {
+                "originalKey": "Municipality of Manteigas",
+                "original_value": "Manteigas_Municipality",
+                "Wikidata_ID": "Q986093"
+            },
+            {
+                "originalKey": "Rio Alva",
+                "original_value": "Alva_River",
+                "Wikidata_ID": "Q2049877"
+            },
+            {
+                "originalKey": "Municipality of Seia",
+                "original_value": "Seia_Municipality",
+                "Wikidata_ID": "Q76017"
+            },
+            {
+                "originalKey": "Rio Alvôco",
+                "original_value": "Alvôco_River",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Tagus",
+                "original_value": "Tagus_River",
+                "Wikidata_ID": "Q14294"
+            }
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "ADEGUA",
+                "wikipedia_title": "Adega Cooperativa de Galicia (Adegua)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betic Cordillera"
+            },
+            {
+                "named_entity_in_the_text": "Carcabuey",
+                "wikipedia_title": "Carcabuey"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Subbética",
+                "wikipedia_title": "Sierra Subbética"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "PROMI",
+                "wikipedia_title": "Promoción e Integración"
+            },
+            {
+                "named_entity_in_the_text": "Provincial Council",
+                "wikipedia_title": "Diputación Provincial (Spain)"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sierra",
+                "wikipedia_title": "Sierra (geology)"
+            },
+            {
+                "named_entity_in_the_text": "Subbética",
+                "wikipedia_title": "Subbetic Mountains"
+            }
+        ]
+    }
+]

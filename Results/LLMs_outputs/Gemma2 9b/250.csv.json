@@ -1,0 +1,188 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SCOTLAND HUTTON",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "VC 02 UK",
+                "wikipedia_title": "United Kingdom"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "named_entity_in_the_text": "Euopean",
+                "wikipedia_title": "European Union"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "West Wales",
+                "wikipedia_title": "West Wales"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "Wales",
+                "wikipedia_title": "Wales"
+            },
+            {
+                "named_entity_in_the_text": "Cardiff",
+                "wikipedia_title": "Cardiff"
+            },
+            {
+                "named_entity_in_the_text": "Newport",
+                "wikipedia_title": "Newport, Wales"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "Somerset",
+                "wikipedia_title": "Somerset"
+            },
+            {
+                "named_entity_in_the_text": "Wiltshire",
+                "wikipedia_title": "Wiltshire"
+            },
+            {
+                "named_entity_in_the_text": "Castle Dairies",
+                "wikipedia_title": "Castle Dairies"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly town",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "The Big Cheese",
+                "wikipedia_title": "The Big Cheese (festival)"
+            },
+            {
+                "named_entity_in_the_text": "International Cheese Awards",
+                "wikipedia_title": "International Cheese Awards"
+            },
+            {
+                "named_entity_in_the_text": "Gorwydd",
+                "wikipedia_title": "Gorwydd Caerphilly"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "named_entity_in_the_text": "Big Cheese festival",
+                "wikipedia_title": "Big Cheese Festival"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            },
+            {
+                "named_entity_in_the_text": "Caerphilyl",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "coal minres",
+                "wikipedia_title": "Coal mining"
+            },
+            {
+                "named_entity_in_the_text": "Welsh",
+                "wikipedia_title": "Welsh people"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "named_entity_in_the_text": "Somerset",
+                "wikipedia_title": "Somerset, England"
+            },
+            {
+                "named_entity_in_the_text": "South Somerset LAU1",
+                "wikipedia_title": "South Somerset"
+            },
+            {
+                "named_entity_in_the_text": "Wiltshire LAU1",
+                "wikipedia_title": "Wiltshire"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    }
+]

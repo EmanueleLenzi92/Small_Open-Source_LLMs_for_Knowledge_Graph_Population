@@ -1,0 +1,242 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MOVING",
+                "wikipedia_title": "MOVING (Value Chain)"
+            },
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Pelium",
+                "wikipedia_title": "Pelium (mountain)"
+            },
+            {
+                "named_entity_in_the_text": "VC 18 GR",
+                "wikipedia_title": "VC 18 GR"
+            },
+            {
+                "named_entity_in_the_text": "local apple producers",
+                "wikipedia_title": "Local apple producers"
+            },
+            {
+                "named_entity_in_the_text": "traditional apple cultivation",
+                "wikipedia_title": "Traditional apple cultivation"
+            },
+            {
+                "named_entity_in_the_text": "touristic activities",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "named_entity_in_the_text": "forest activities",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "named_entity_in_the_text": "farming activities",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "named_entity_in_the_text": "local cooperative",
+                "wikipedia_title": "Local cooperatives"
+            },
+            {
+                "named_entity_in_the_text": "authorities in local and regional level",
+                "wikipedia_title": "Local government"
+            },
+            {
+                "named_entity_in_the_text": "academic institutions",
+                "wikipedia_title": "Academic institutions"
+            },
+            {
+                "named_entity_in_the_text": "truffles/mushrooms",
+                "wikipedia_title": "Truffles and mushrooms"
+            },
+            {
+                "named_entity_in_the_text": "apicature",
+                "wikipedia_title": "Apiculture"
+            },
+            {
+                "named_entity_in_the_text": "logging",
+                "wikipedia_title": "Logging"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pelium Mountain",
+                "wikipedia_title": "Pelium"
+            },
+            {
+                "named_entity_in_the_text": "EL613",
+                "wikipedia_title": "EL613"
+            },
+            {
+                "named_entity_in_the_text": "Zagora",
+                "wikipedia_title": "Zagora"
+            },
+            {
+                "named_entity_in_the_text": "Volos",
+                "wikipedia_title": "Volos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Apple trees",
+                "wikipedia_title": "Apple"
+            },
+            {
+                "named_entity_in_the_text": "Zagora area (Pelium mountain, Thessaly)",
+                "wikipedia_title": "Zagora, Greece"
+            },
+            {
+                "named_entity_in_the_text": "The local farmers",
+                "wikipedia_title": "Farmers in Zagora, Greece"
+            },
+            {
+                "named_entity_in_the_text": "Zagora apples",
+                "wikipedia_title": "Zagora Apples"
+            },
+            {
+                "named_entity_in_the_text": "VC exibits a traditional and cultural, a success story of a cooperative and innovations in the production and in marketing",
+                "wikipedia_title": "Vouvouni Cooperative"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Zagora",
+                "wikipedia_title": "Zagora"
+            },
+            {
+                "named_entity_in_the_text": "apple trees",
+                "wikipedia_title": "Apple tree"
+            },
+            {
+                "named_entity_in_the_text": "cooperative",
+                "wikipedia_title": "Cooperative"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "international market competition",
+                "wikipedia_title": "International trade"
+            },
+            {
+                "named_entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "named_entity_in_the_text": "economic uncertainty",
+                "wikipedia_title": "Economic uncertainty"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "cooperative",
+                "wikipedia_title": "Cooperative"
+            },
+            {
+                "named_entity_in_the_text": "apples",
+                "wikipedia_title": "Apple"
+            },
+            {
+                "named_entity_in_the_text": "apple chips for diabetics",
+                "wikipedia_title": "Diabetes"
+            },
+            {
+                "named_entity_in_the_text": "apple juices",
+                "wikipedia_title": "Apple juice"
+            },
+            {
+                "named_entity_in_the_text": "organic apples and condensed juice (petimezi)",
+                "wikipedia_title": "Organic farming"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MRL",
+                "wikipedia_title": "Moscow Regional List"
+            },
+            {
+                "named_entity_in_the_text": "EL532",
+                "wikipedia_title": "EL532 (NUTS3)"
+            },
+            {
+                "named_entity_in_the_text": "EL651",
+                "wikipedia_title": "EL651 (NUTS3)"
+            }
+        ]
+    }
+]

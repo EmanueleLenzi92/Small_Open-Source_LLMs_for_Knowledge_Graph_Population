@@ -1,0 +1,141 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "Gran Canaria",
+                "wikipedia_title": "Gran Canaria"
+            },
+            {
+                "named_entity_in_the_text": "San Mateo",
+                "wikipedia_title": "San Mateo, Gran Canaria"
+            },
+            {
+                "named_entity_in_the_text": "Tejeda",
+                "wikipedia_title": "Tejeda, Gran Canaria"
+            },
+            {
+                "named_entity_in_the_text": "Artenara",
+                "wikipedia_title": "Artenara"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Gran Canaria Island",
+                "wikipedia_title": "Gran_Canaria"
+            },
+            {
+                "named_entity_in_the_text": "Tejeda",
+                "wikipedia_title": "Tejeda_(Gran_Canaria)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Spain"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Autonomous_communities_of_Spain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Gran Canaria Biosphere Reserve",
+                "wikipedia_title": "Gran_Canaria_Biosphere_Reserve"
+            },
+            {
+                "named_entity_in_the_text": "Asociación Charamusco Carboneros de la Cumbre",
+                "wikipedia_title": "None"
+            },
+            {
+                "named_entity_in_the_text": "Cabildo",
+                "wikipedia_title": "Cabildo_General_de_Canarias"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "forest",
+                "wikipedia_title": "Forest"
+            },
+            {
+                "named_entity_in_the_text": "charcoal makers",
+                "wikipedia_title": "Charcoal"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Gran Canaria",
+                "wikipedia_title": "Gran_Canaria"
+            },
+            {
+                "named_entity_in_the_text": "Forest Stewardship Council",
+                "wikipedia_title": "Forest_Stewardship_Council"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Andalusia",
+                "wikipedia_title": "Andalusia"
+            },
+            {
+                "named_entity_in_the_text": "Basque Country",
+                "wikipedia_title": "Basque Country"
+            },
+            {
+                "named_entity_in_the_text": "Navarre",
+                "wikipedia_title": "Navarre"
+            }
+        ]
+    }
+]

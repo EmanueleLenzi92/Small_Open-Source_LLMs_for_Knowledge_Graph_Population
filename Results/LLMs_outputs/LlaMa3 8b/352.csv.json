@@ -1,0 +1,198 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "ADEGUA",
+                "wikipedia_title": "Adequa"
+            },
+            {
+                "named_entity_in_the_text": "ATADES Gardeniers Special Employment Center",
+                "wikipedia_title": "Atades"
+            },
+            {
+                "named_entity_in_the_text": "Torres de Berrellén",
+                "wikipedia_title": "Torres_de_Berrellén"
+            },
+            {
+                "named_entity_in_the_text": "Zaragoza",
+                "wikipedia_title": "Zaragoza"
+            },
+            {
+                "named_entity_in_the_text": "Government of Aragon",
+                "wikipedia_title": "Government_of_Aragon"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pyrenees",
+                "wikipedia_title": "Pyrenees"
+            },
+            {
+                "named_entity_in_the_text": "Jaca (Ascara)",
+                "wikipedia_title": "Jaca, Spain"
+            },
+            {
+                "named_entity_in_the_text": "Canal de Berdún",
+                "wikipedia_title": "Canal de Berdún"
+            },
+            {
+                "named_entity_in_the_text": "Huesca",
+                "wikipedia_title": "Huesca"
+            },
+            {
+                "named_entity_in_the_text": "Zaragoza",
+                "wikipedia_title": "Zaragoza"
+            },
+            {
+                "named_entity_in_the_text": "Torres de Berrellén",
+                "wikipedia_title": "Torres de Berrellén"
+            },
+            {
+                "named_entity_in_the_text": "Alagón",
+                "wikipedia_title": "Alagón, Zaragoza"
+            },
+            {
+                "named_entity_in_the_text": "Montañana",
+                "wikipedia_title": "Montañana"
+            },
+            {
+                "named_entity_in_the_text": "Gardeniers farm",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "Cielos de Ascara agroecological social project",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "Sigpac",
+                "wikipedia_title": "SIGPAC"
+            },
+            {
+                "named_entity_in_the_text": "Jacetania region",
+                "wikipedia_title": "Jacetania"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Europe"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_the_European_Union"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aragonese Pyrenees",
+                "wikipedia_title": "Pyrenees"
+            },
+            {
+                "named_entity_in_the_text": "Cielos de Ascara",
+                "wikipedia_title": "Cielos_de_Ascara"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aragon",
+                "wikipedia_title": "Aragon"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "rural development",
+                "wikipedia_title": "Rural Development"
+            },
+            {
+                "named_entity_in_the_text": "urban consumption environments",
+                "wikipedia_title": "Urban planning"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "New products",
+                "wikipedia_title": null
+            },
+            {
+                "named_entity_in_the_text": "New processes",
+                "wikipedia_title": null
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": null
+            },
+            {
+                "named_entity_in_the_text": "New governance systems",
+                "wikipedia_title": null
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "San Juan de la Peña",
+                "wikipedia_title": "San Juan de la Peña"
+            },
+            {
+                "named_entity_in_the_text": "Monte Oroel",
+                "wikipedia_title": "Monte Oroel"
+            },
+            {
+                "named_entity_in_the_text": "Centro de Investigación y Tecnología Agroalimentaria de Aragón",
+                "wikipedia_title": "Instituto Agroalimentario de Aragón"
+            },
+            {
+                "named_entity_in_the_text": "Mercazaragoza",
+                "wikipedia_title": "Zaragoza"
+            }
+        ]
+    }
+]

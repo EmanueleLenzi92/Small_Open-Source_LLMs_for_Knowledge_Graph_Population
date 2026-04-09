@@ -1,0 +1,158 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "VC 11 CZ",
+                "wikipedia_title": "Not found"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sumava",
+                "wikipedia_title": "Sumava"
+            },
+            {
+                "named_entity_in_the_text": "Cesky les",
+                "wikipedia_title": "Czech Switzerland"
+            },
+            {
+                "named_entity_in_the_text": "Klatovy",
+                "wikipedia_title": "Klatovy"
+            },
+            {
+                "named_entity_in_the_text": "Germany",
+                "wikipedia_title": "Germany"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province (geography)"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Regional (geography)"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province (Canada)"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Province or region in Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Bee",
+                "wikipedia_title": "Bee"
+            },
+            {
+                "named_entity_in_the_text": "Mountain regions",
+                "wikipedia_title": "Mountain region"
+            },
+            {
+                "named_entity_in_the_text": "Beekeeping",
+                "wikipedia_title": "Beekeeping"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sumava Mountains",
+                "wikipedia_title": "Sumava Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Beekeepers",
+                "wikipedia_title": "List of beekeepers"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Beekeepers",
+                "wikipedia_title": "List of beekeepers"
+            },
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Beekeepers",
+                "wikipedia_title": "Beekeeper"
+            },
+            {
+                "named_entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "named_entity_in_the_text": "Natural land",
+                "wikipedia_title": "Natural land"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "Beekeeping",
+                "wikipedia_title": "Apiary"
+            }
+        ]
+    }
+]

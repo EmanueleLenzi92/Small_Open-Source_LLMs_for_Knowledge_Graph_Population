@@ -1,0 +1,147 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "Skandinavian Uco",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Undredal Stølsysteri SA",
+                "original_value": "Undredal Stølsysteri",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Slowfood Foundation for Biodiversity",
+                "original_value": "Slow Food Foundation for Biodiversity",
+                "Wikidata_ID": "Q335823"
+            },
+            {
+                "originalKey": "Brimost",
+                "original_value": "Brimost",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Undredal",
+                "original_value": "Undredal",
+                "Wikidata_ID": "Q1006480"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains - Scandes",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Aurland",
+                "original_value": "Aurland",
+                "Wikidata_ID": "Q137638989"
+            },
+            {
+                "originalKey": "Sognefjorden",
+                "original_value": "Sognefjord",
+                "Wikidata_ID": "Q208495"
+            },
+            {
+                "originalKey": "Nærøyfjorden",
+                "original_value": "Nærøyfjord",
+                "Wikidata_ID": "Q212205"
+            },
+            {
+                "originalKey": "Geirangefjord",
+                "original_value": "Geirangerfjord",
+                "Wikidata_ID": "Q193989"
+            },
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Undfredal",
+                "original_value": "Undfredal",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Aureland",
+                "original_value": "Aureland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sweden Jämtland",
+                "original_value": "Jämtland",
+                "Wikidata_ID": "Q211661"
+            },
+            {
+                "originalKey": "Slowfood Foundation for Biodiversity",
+                "original_value": "Slow Food Foundation for Biodiversity",
+                "Wikidata_ID": "Q335823"
+            }
+        ]
+    }
+]

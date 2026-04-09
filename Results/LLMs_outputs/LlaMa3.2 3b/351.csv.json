@@ -1,0 +1,144 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "SPAIN ADEGUA",
+        "wikipedia_title": "Adegua"
+      },
+      {
+        "named_entity_in_the_text": "VC 34 ES",
+        "wikipedia_title": "Nothing found"
+      },
+      {
+        "named_entity_in_the_text": "SPAIN",
+        "wikipedia_title": "Spain"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Betic System",
+        "wikipedia_title": "Betic System"
+      },
+      {
+        "named_entity_in_the_text": "Carcabuey",
+        "wikipedia_title": "Carcabuey"
+      },
+      {
+        "named_entity_in_the_text": "Sierra Subbética",
+        "wikipedia_title": "Sierra Subbética"
+      },
+      {
+        "named_entity_in_the_text": "Natural Park",
+        "wikipedia_title": "Natural Park (Spain)"
+      },
+      {
+        "named_entity_in_the_text": "Carcabuey",
+        "wikipedia_title": "Carcabuey"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (disambiguation)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "522",
+        "wikipedia_title": null
+      },
+      {
+        "named_entity_in_the_text": "82.5 km",
+        "wikipedia_title": null
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Province or Region in Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "intergenerational social cohesion",
+        "wikipedia_title": "Intergenerational solidarity"
+      },
+      {
+        "named_entity_in_the_text": "informal sector",
+        "wikipedia_title": "Informal economy"
+      },
+      {
+        "named_entity_in_the_text": "non-monetised and informal economy",
+        "wikipedia_title": "Informal economy"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "PROMI",
+        "wikipedia_title": "PROMI"
+      },
+      {
+        "named_entity_in_the_text": "Provincial Council",
+        "wikipedia_title": "Provincial Council (Spain)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Sierra",
+        "wikipedia_title": "Sierra Leone"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Subbética",
+        "wikipedia_title": "Subbética"
+      },
+      {
+        "named_entity_in_the_text": "Sierra",
+        "wikipedia_title": "Sierra (mountain range)"
+      }
+    ]
+  }
+]

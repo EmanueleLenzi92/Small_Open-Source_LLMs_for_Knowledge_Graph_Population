@@ -1,0 +1,254 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "VC 17 TR",
+                "wikipedia_title": "List of the European Union's member states"
+            },
+            {
+                "named_entity_in_the_text": "Pinus pinea L.",
+                "wikipedia_title": "Pine (genus)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Bergama",
+                "wikipedia_title": "Bergama, İzmir"
+            },
+            {
+                "named_entity_in_the_text": "Kozak",
+                "wikipedia_title": "Kozak (mountain)"
+            },
+            {
+                "named_entity_in_the_text": "İzmir",
+                "wikipedia_title": "Izmir"
+            },
+            {
+                "named_entity_in_the_text": "Madra Mountains",
+                "wikipedia_title": "Madra Mountains"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "1544",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "0",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1344",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "104.944",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "67.96891192",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "3.74%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "329.4",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "10.83%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Peanut pine",
+                "wikipedia_title": "Mediterranean Pine"
+            },
+            {
+                "named_entity_in_the_text": "Bergama-Kozak plateau",
+                "wikipedia_title": "Bergama Plateau"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "Kozak plateau",
+                "wikipedia_title": "Kozak Plateau"
+            },
+            {
+                "named_entity_in_the_text": "Madra Mountains",
+                "wikipedia_title": "Madra Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Bergama",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "named_entity_in_the_text": "Kozak",
+                "wikipedia_title": "Kozak"
+            },
+            {
+                "named_entity_in_the_text": "Farmers",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "named_entity_in_the_text": "Ministry of Forestry",
+                "wikipedia_title": "Ministry of Forestry (Turkey)"
+            },
+            {
+                "named_entity_in_the_text": "Pine nuts agriculture",
+                "wikipedia_title": "Pine nut cultivation"
+            },
+            {
+                "named_entity_in_the_text": "Mountain farming",
+                "wikipedia_title": "Mountain Farming"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Kozak/Bergama",
+                "wikipedia_title": "Kozak (Turkey)"
+            },
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Kozak plateau",
+                "wikipedia_title": "Kozak Plateau"
+            },
+            {
+                "named_entity_in_the_text": "pests and diseases",
+                "wikipedia_title": "List of pests in pine trees"
+            },
+            {
+                "named_entity_in_the_text": "lack of qualified personnel",
+                "wikipedia_title": "Lack of skilled labor"
+            },
+            {
+                "named_entity_in_the_text": "education",
+                "wikipedia_title": "Education"
+            },
+            {
+                "named_entity_in_the_text": "inadequate advertisement and marketing",
+                "wikipedia_title": "Marketing"
+            },
+            {
+                "named_entity_in_the_text": "establishments such as cooperative",
+                "wikipedia_title": "Cooperative"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "named_entity_in_the_text": "Cropland",
+                "wikipedia_title": "Cropland"
+            },
+            {
+                "named_entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "named_entity_in_the_text": "Natural",
+                "wikipedia_title": "Natural resources"
+            },
+            {
+                "named_entity_in_the_text": "cultural",
+                "wikipedia_title": "Cultural heritage"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pine nuts",
+                "wikipedia_title": "Pine nut"
+            }
+        ]
+    }
+]

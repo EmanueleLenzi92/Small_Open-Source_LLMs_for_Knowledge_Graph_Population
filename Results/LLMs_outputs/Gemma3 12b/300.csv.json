@@ -1,0 +1,87 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandinavian UCO"
+            },
+            {
+                "named_entity_in_the_text": "Roros",
+                "wikipedia_title": "Røros"
+            },
+            {
+                "named_entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rørosmat"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Tynset",
+                "wikipedia_title": "Tynset"
+            },
+            {
+                "named_entity_in_the_text": "Østerdalen",
+                "wikipedia_title": "Østerdalen"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            },
+            {
+                "named_entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rørosmat"
+            },
+            {
+                "named_entity_in_the_text": "Røros",
+                "wikipedia_title": "Røros"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rørosmat"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    }
+]

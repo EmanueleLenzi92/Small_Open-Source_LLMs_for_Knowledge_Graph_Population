@@ -1,0 +1,354 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SCOTLAND HUTTON",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "HIGHLANDS",
+                "wikipedia_title": "Highlands of Scotland"
+            },
+            {
+                "named_entity_in_the_text": "UK",
+                "wikipedia_title": "United Kingdom"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Blair Atholl Estates",
+                "wikipedia_title": "Blair Atholl Estate"
+            },
+            {
+                "named_entity_in_the_text": "Glen Lyon",
+                "wikipedia_title": "Glen Lyon"
+            },
+            {
+                "named_entity_in_the_text": "NUT3",
+                "wikipedia_title": "North-East England NUT3"
+            },
+            {
+                "named_entity_in_the_text": "www.highlandgame.com",
+                "wikipedia_title": "Highland Game"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands, Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Eastern Scotland",
+                "wikipedia_title": "Eastern Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Tay",
+                "wikipedia_title": "River Tay"
+            },
+            {
+                "named_entity_in_the_text": "Earn",
+                "wikipedia_title": "Earn (river)"
+            },
+            {
+                "named_entity_in_the_text": "Scotland's central belt",
+                "wikipedia_title": "Central Belt of Scotland"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "5383.724292",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "8",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1084",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "151.95",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "28.22",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "5.25%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "149.76",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "6.86%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scottish",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Deer stalking",
+                "wikipedia_title": "Deerstalking"
+            },
+            {
+                "named_entity_in_the_text": "Scottish Quality Wild Vensions",
+                "wikipedia_title": "Scottish Quality Wild Vensions"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Atholl estate",
+                "wikipedia_title": "Atholl Estate"
+            },
+            {
+                "named_entity_in_the_text": "Blair Atholl and Glen Lyon estate",
+                "wikipedia_title": "Blair Atholl and Glen Lyon Estate"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "deer",
+                "wikipedia_title": "Deer"
+            },
+            {
+                "named_entity_in_the_text": "grouse",
+                "wikipedia_title": "Grouse"
+            },
+            {
+                "named_entity_in_the_text": "local communities",
+                "wikipedia_title": "Community"
+            },
+            {
+                "named_entity_in_the_text": "hikers",
+                "wikipedia_title": "Hikers"
+            },
+            {
+                "named_entity_in_the_text": "wildlife conservation organizations",
+                "wikipedia_title": "Wildlife Conservation Organizations"
+            },
+            {
+                "named_entity_in_the_text": "stalking estates",
+                "wikipedia_title": "Estate"
+            },
+            {
+                "named_entity_in_the_text": "tourists",
+                "wikipedia_title": "Tourist"
+            },
+            {
+                "named_entity_in_the_text": "mountain",
+                "wikipedia_title": "Mountain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "sheep",
+                "wikipedia_title": "Sheep"
+            },
+            {
+                "named_entity_in_the_text": "hillwalking",
+                "wikipedia_title": "Hill walking"
+            },
+            {
+                "named_entity_in_the_text": "international tourists",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "named_entity_in_the_text": "COVID",
+                "wikipedia_title": "COVID-19 pandemic"
+            },
+            {
+                "named_entity_in_the_text": "mountain hares",
+                "wikipedia_title": "Mountain hare"
+            },
+            {
+                "named_entity_in_the_text": "Gorse",
+                "wikipedia_title": "Gorse"
+            },
+            {
+                "named_entity_in_the_text": "deer",
+                "wikipedia_title": "Deer"
+            },
+            {
+                "named_entity_in_the_text": "stalking",
+                "wikipedia_title": "Stalking"
+            },
+            {
+                "named_entity_in_the_text": "raptors",
+                "wikipedia_title": "Raptors"
+            },
+            {
+                "named_entity_in_the_text": "venison",
+                "wikipedia_title": "Venison"
+            },
+            {
+                "named_entity_in_the_text": "brexit",
+                "wikipedia_title": "Brexit"
+            },
+            {
+                "named_entity_in_the_text": "overgrazing",
+                "wikipedia_title": "Overgrazing"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "named_entity_in_the_text": "drones",
+                "wikipedia_title": "Drones"
+            },
+            {
+                "named_entity_in_the_text": "camera traps",
+                "wikipedia_title": "Camera Trap"
+            },
+            {
+                "named_entity_in_the_text": "GPS collars",
+                "wikipedia_title": "GPS Collar"
+            },
+            {
+                "named_entity_in_the_text": "thermal imaging",
+                "wikipedia_title": "Thermal Imaging"
+            },
+            {
+                "named_entity_in_the_text": "governance systems",
+                "wikipedia_title": "Governance System"
+            },
+            {
+                "named_entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land Use"
+            },
+            {
+                "named_entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "named_entity_in_the_text": "Social",
+                "wikipedia_title": "Society"
+            },
+            {
+                "named_entity_in_the_text": "Cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Highland",
+                "wikipedia_title": "Scottish Highlands"
+            },
+            {
+                "named_entity_in_the_text": "Islands",
+                "wikipedia_title": "Isle of Skye"
+            },
+            {
+                "named_entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Aberdeenshire",
+                "wikipedia_title": "Aberdeenshire"
+            },
+            {
+                "named_entity_in_the_text": "Badendoch",
+                "wikipedia_title": "Badenoch and Strathspey"
+            },
+            {
+                "named_entity_in_the_text": "Strathsphey",
+                "wikipedia_title": "Strath Spey"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            },
+            {
+                "named_entity_in_the_text": "North east England",
+                "wikipedia_title": "Northeast England"
+            },
+            {
+                "named_entity_in_the_text": "North West England",
+                "wikipedia_title": "Northwest England"
+            }
+        ]
+    }
+]

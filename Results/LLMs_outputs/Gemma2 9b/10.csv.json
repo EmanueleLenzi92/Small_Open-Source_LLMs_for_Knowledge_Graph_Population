@@ -1,0 +1,132 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Osttiroler Lämmerring",
+                "wikipedia_title": "Osttiroler Lämmerring"
+            },
+            {
+                "named_entity_in_the_text": "Raiffeisen cooperative East-Tyrol",
+                "wikipedia_title": "Raiffeisen"
+            },
+            {
+                "named_entity_in_the_text": "eastern Austria",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "named_entity_in_the_text": "Lienz",
+                "wikipedia_title": "Lienz"
+            },
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Tyrol",
+                "wikipedia_title": "Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Hohe Tauern",
+                "wikipedia_title": "Hohe Tauern"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "1950s",
+                "wikipedia_title": "1950s"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    }
+]

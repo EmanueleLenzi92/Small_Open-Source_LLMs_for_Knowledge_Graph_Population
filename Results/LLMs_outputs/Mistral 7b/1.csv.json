@@ -1,0 +1,262 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MOVING reference member state of this VC",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "ALMO is a label for quality ox products",
+                "wikipedia_title": "Almo Steirisches Almochsenfleisch"
+            },
+            {
+                "named_entity_in_the_text": "Association Steirische Bergland Marktgemeinschaft",
+                "wikipedia_title": "Steirische Bergland Marktgemeinschaft"
+            },
+            {
+                "named_entity_in_the_text": "Almenland Marketing GmbH",
+                "wikipedia_title": "Almenland Marketing GmbH"
+            },
+            {
+                "named_entity_in_the_text": "Urlaub am Bauernhof",
+                "wikipedia_title": "Urlaub am Bauernhof"
+            },
+            {
+                "named_entity_in_the_text": "Austrian Program for Environmentally Sound Agriculture (ÖPUL)",
+                "wikipedia_title": "ÖPUL"
+            },
+            {
+                "named_entity_in_the_text": "Genussregion Almenland",
+                "wikipedia_title": "Genussregion Almenland"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "RR 11",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "named_entity_in_the_text": "Weiz (No: 617)",
+                "wikipedia_title": "Weiz"
+            },
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "regional population density",
+                "wikipedia_title": "Regional population density"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "The average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "named_entity_in_the_text": "The per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "ALMO",
+                "wikipedia_title": "ALMO (alpine oxen farmers association)"
+            },
+            {
+                "named_entity_in_the_text": "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+                "wikipedia_title": "Leader region Almenland and Energieregion Weiz-Gleisdorf"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "own regional slaughter house",
+                "wikipedia_title": "Regional slaughterhouse"
+            },
+            {
+                "named_entity_in_the_text": "ALMO serving as lead product",
+                "wikipedia_title": "ALMO (company)"
+            },
+            {
+                "named_entity_in_the_text": "pasture farming has a tradition over centuries",
+                "wikipedia_title": "Pasture farming"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "climate",
+                "wikipedia_title": "Climate"
+            },
+            {
+                "named_entity_in_the_text": "extrem weather conditions",
+                "wikipedia_title": "Extreme weather"
+            },
+            {
+                "named_entity_in_the_text": "drought",
+                "wikipedia_title": "Drought"
+            },
+            {
+                "named_entity_in_the_text": "heavy rain",
+                "wikipedia_title": "Heavy rain"
+            },
+            {
+                "named_entity_in_the_text": "pasture based meat production",
+                "wikipedia_title": "Pasture-based meat production"
+            },
+            {
+                "named_entity_in_the_text": "vegetation",
+                "wikipedia_title": "Vegetation"
+            },
+            {
+                "named_entity_in_the_text": "cultivation of feed for the winter time",
+                "wikipedia_title": "Winter crop cultivation"
+            },
+            {
+                "named_entity_in_the_text": "alpine pasture areas",
+                "wikipedia_title": "Alpine pastures"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            },
+            {
+                "named_entity_in_the_text": "Traditional and Innovative",
+                "wikipedia_title": "Innovation in agriculture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "ALMO key persons",
+                "wikipedia_title": "ALMO"
+            },
+            {
+                "named_entity_in_the_text": "LEADER for different projects",
+                "wikipedia_title": "LEADER"
+            },
+            {
+                "named_entity_in_the_text": "farmers in cooperation with one of the business partners",
+                "wikipedia_title": "Farming"
+            },
+            {
+                "named_entity_in_the_text": "consultant (innovation based practice and academic knowledge)",
+                "wikipedia_title": "Consultancy"
+            },
+            {
+                "named_entity_in_the_text": "System Haberl",
+                "wikipedia_title": "Haberl"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Lower Austria (NUTS-II AT 12)",
+                "wikipedia_title": "Lower Austria"
+            },
+            {
+                "named_entity_in_the_text": "Carinthia (NUTS-II AT 21)",
+                "wikipedia_title": "Carinthia"
+            }
+        ]
+    }
+]

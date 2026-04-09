@@ -1,0 +1,157 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "TURKEY",
+        "wikipedia_title": "Turkey"
+      },
+      {
+        "named_entity_in_the_text": "TR",
+        "wikipedia_title": "Turkey (officially known as the Republic of Turkey)"
+      },
+      {
+        "named_entity_in_the_text": "Rize",
+        "wikipedia_title": "Rize Province"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Eastern Black Sea Mountains",
+        "wikipedia_title": "Eastern Black Sea Mountains"
+      },
+      {
+        "named_entity_in_the_text": "Güneysu",
+        "wikipedia_title": "Güneysu, Turkey"
+      },
+      {
+        "named_entity_in_the_text": "Rize Province",
+        "wikipedia_title": "Rize Province"
+      },
+      {
+        "named_entity_in_the_text": "Black Sea Region of Turkey",
+        "wikipedia_title": "Black Sea Region of Turkey"
+      },
+      {
+        "named_entity_in_the_text": "Turkey",
+        "wikipedia_title": "Turkey"
+      },
+      {
+        "named_entity_in_the_text": "Rize",
+        "wikipedia_title": "Rize, Turkey"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (disambiguation)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region (disambiguation)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional unit (Greece)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Agricultural holdings",
+        "wikipedia_title": "Farm (economics)"
+      },
+      {
+        "named_entity_in_the_text": "settlement",
+        "wikipedia_title": "Settlement"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "List of provinces in Canada"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Geographic region"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Rize",
+        "wikipedia_title": "Rize Province"
+      },
+      {
+        "named_entity_in_the_text": "Turkey",
+        "wikipedia_title": "Turkey"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Rize region",
+        "wikipedia_title": "Rize Province"
+      },
+      {
+        "named_entity_in_the_text": "Turkey",
+        "wikipedia_title": "Turkey"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "tea",
+        "wikipedia_title": "Tea"
+      },
+      {
+        "named_entity_in_the_text": "VC",
+        "wikipedia_title": "Venture capital"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Cropland",
+        "wikipedia_title": "Cropland"
+      },
+      {
+        "named_entity_in_the_text": "Natural",
+        "wikipedia_title": "Natural"
+      },
+      {
+        "named_entity_in_the_text": "cultural",
+        "wikipedia_title": "Cultural resource"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Turkey",
+        "wikipedia_title": "Turkey"
+      }
+    ]
+  }
+]

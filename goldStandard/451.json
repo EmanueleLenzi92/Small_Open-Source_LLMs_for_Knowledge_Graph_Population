@@ -1,0 +1,121 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Bergama",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q737822",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "İzmir",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q35997",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Kozak",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Madra Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4833452",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Bergama",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q737822",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Kozak",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q737822",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Madra Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4833452",
+				"type":"ne"
+            },
+
+            {
+                "Wikipedia_label": "Ministry of Forestry or local administration",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Bergama",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q737822",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7855305",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Kozak plateau",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Osttiroler Lämmerring",
+                "original_value": "Osttiroler Lämmerring",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Raiffeisen cooperative East-Tyrol",
+                "original_value": "Raiffeisen Cooperative East Tyrol",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Austrian Alps",
+                "Wikidata_ID": "Q190348"
+            },
+            {
+                "originalKey": "Lienz",
+                "original_value": "Lienz",
+                "Wikidata_ID": "Q336250"
+            },
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "Tyrol",
+                "original_value": "Tyrol",
+                "Wikidata_ID": "Q153809"
+            },
+            {
+                "originalKey": "Hohe Tauern",
+                "original_value": "Hohe Tauern",
+                "Wikidata_ID": "Q679359"
+            },
+            {
+                "originalKey": "Gailtal valley",
+                "original_value": "Gailtal",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Settlement (128 km)",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Genussregion",
+                "original_value": "Genussregion",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Vorarlberg Community",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            }
+        ]
+    }
+]

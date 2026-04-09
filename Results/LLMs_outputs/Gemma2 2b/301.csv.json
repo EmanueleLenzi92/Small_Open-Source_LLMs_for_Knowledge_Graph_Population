@@ -1,0 +1,210 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Scandinavian Union of Cheesemakers"
+            },
+            {
+                "named_entity_in_the_text": "Pultost",
+                "wikipedia_title": "Pultost"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains - Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Lesja",
+                "wikipedia_title": "Lesja"
+            },
+            {
+                "named_entity_in_the_text": "Rauma river",
+                "wikipedia_title": "Rauma River"
+            },
+            {
+                "named_entity_in_the_text": "Gudbrandsdalslågen river",
+                "wikipedia_title": "Gudbrandsdalslågen River"
+            },
+            {
+                "named_entity_in_the_text": "Lesjaskogsvatnet (Lesjas lake)",
+                "wikipedia_title": "Lake Lesja"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "513",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "2209",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1.975",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "0.87",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "-9.15%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "7.13",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "2.86%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "4752.83",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "18.66%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "4 271",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "100000",
+                "wikipedia_title": "Kilometers"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "natural pastures",
+                "wikipedia_title": "Pasture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pultost producers",
+                "wikipedia_title": "List of cooperatives in Norway"
+            },
+            {
+                "named_entity_in_the_text": "Pultosts BA",
+                "wikipedia_title": "Pultosts BA"
+            },
+            {
+                "named_entity_in_the_text": "Pultost Innlandet SA",
+                "wikipedia_title": "Pultost Innlandet SA"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation",
+                "wikipedia_title": "Slow Food"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            },
+            {
+                "named_entity_in_the_text": "industrial dairies",
+                "wikipedia_title": "Industrial dairy"
+            },
+            {
+                "named_entity_in_the_text": "artisanal cheese making",
+                "wikipedia_title": "Artisan cheesemaking"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "named_entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use type"
+            },
+            {
+                "named_entity_in_the_text": "Social",
+                "wikipedia_title": "Social factors"
+            },
+            {
+                "named_entity_in_the_text": "Cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Valdres County"
+            },
+            {
+                "named_entity_in_the_text": "Etnedal",
+                "wikipedia_title": "Etnedal"
+            }
+        ]
+    }
+]

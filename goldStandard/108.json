@@ -1,0 +1,146 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "GREECE",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q41",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Greek",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "HELMOS",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q630782",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "KILLINI",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q1232572",
+				"type":"ne"
+            },
+
+            {
+                "Wikipedia_label": "ZIRIA",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q1232572",
+				"type":"ne"
+            }, 
+            {
+                "Wikipedia_label": "KORINTHIA",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q208306",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Feneos Plateau",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q3566598",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Chelmos",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q630782",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Aroania",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q630782",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Oligyrtos",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q7086865",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Saitas",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Patras",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q133123",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Athens",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q1524",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Feneos",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q3566598",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Peloponnese",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q78967"
+            },
+            {
+                "Wikipedia_label": "Greece",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q41",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Feneos",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3566598",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Greek",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Wesdtern Macedonia",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q165408",
+				"type":"ne"
+            }
+        ]
+    }
+]

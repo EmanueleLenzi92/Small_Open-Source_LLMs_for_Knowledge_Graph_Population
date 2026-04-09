@@ -1,0 +1,206 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MOVING reference member state of this VC (Value Chain)",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "VC 13 UK",
+                "wikipedia_title": "VC 13 UK"
+            },
+            {
+                "named_entity_in_the_text": "artisanal/ bespoke wood products",
+                "wikipedia_title": "Artisanal wood products"
+            },
+            {
+                "named_entity_in_the_text": "Craobh handcrafted wood",
+                "wikipedia_title": "Craobh Handcrafted Wood"
+            },
+            {
+                "named_entity_in_the_text": "Farmhouse furniture",
+                "wikipedia_title": "Farmhouse Furniture"
+            },
+            {
+                "named_entity_in_the_text": "Black Isle wood turning",
+                "wikipedia_title": "Black Isle Wood Turning"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands (NUTS2)"
+            },
+            {
+                "named_entity_in_the_text": "Ross and Cromarty",
+                "wikipedia_title": "Ross and Cromarty"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "High quality",
+                "wikipedia_title": "Quality"
+            },
+            {
+                "named_entity_in_the_text": "hand crafted timber products",
+                "wikipedia_title": "Timber product"
+            },
+            {
+                "named_entity_in_the_text": "traditional means of production",
+                "wikipedia_title": "Traditional methods"
+            },
+            {
+                "named_entity_in_the_text": "local reclaimed timber",
+                "wikipedia_title": "Reclaimed timber"
+            },
+            {
+                "named_entity_in_the_text": "sustainable practices",
+                "wikipedia_title": "Sustainability"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "natural assets",
+                "wikipedia_title": "Natural resources"
+            },
+            {
+                "named_entity_in_the_text": "timber which grows on shoulders of upland mountain areas",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "named_entity_in_the_text": "steady climate and maintained land use",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "named_entity_in_the_text": "social assets",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "named_entity_in_the_text": "good relations amongst those in the VC including timber producer, land managers, bespoke carpenters and tourism busineeses",
+                "wikipedia_title": "VC"
+            },
+            {
+                "named_entity_in_the_text": "cultural assets",
+                "wikipedia_title": "Cultural heritage"
+            },
+            {
+                "named_entity_in_the_text": "traditional knowledge for traditional handcrafted timber production methods",
+                "wikipedia_title": "Traditional ecological knowledge"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scottish Government",
+                "wikipedia_title": "Scottish Government"
+            },
+            {
+                "named_entity_in_the_text": "BREXIT/ COVID",
+                "wikipedia_title": "Brexit and the COVID-19 pandemic in the United Kingdom"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "artisanal timber products",
+                "wikipedia_title": "Artisanal woodworking"
+            },
+            {
+                "named_entity_in_the_text": "land use systems involved",
+                "wikipedia_title": "Forestry"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Forestry in Scotland"
+            },
+            {
+                "named_entity_in_the_text": "LAU1s",
+                "wikipedia_title": "Local Authority Districts (Scotland)"
+            },
+            {
+                "named_entity_in_the_text": "Argyll and Bute (mainland)",
+                "wikipedia_title": "Argyll and Bute"
+            },
+            {
+                "named_entity_in_the_text": "Aberdeenshire",
+                "wikipedia_title": "Aberdeenshire"
+            },
+            {
+                "named_entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Jeseniky mountains",
+                "original_value": "Jeseníky Mountains",
+                "Wikidata_ID": "Q280987"
+            },
+            {
+                "originalKey": "LAU 1 Jeseník",
+                "original_value": "LAU 1 Jeseník",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mountain Reference Landscape (LAU 1 - Vsetín)",
+                "original_value": "Mountain Reference Landscape (LAU 1 - Vsetín)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "the largest nature protected area in the Czech Republic",
+                "original_value": "Protected Landscape Area Vsetínsko",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Jesenik spa",
+                "original_value": "Jeseník",
+                "Wikidata_ID": "Q954611"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Jesenik spa",
+                "original_value": "Jesenik",
+                "Wikidata_ID": "Q954611"
+            },
+            {
+                "originalKey": "V. Priesnitz",
+                "original_value": "Vincenz Priessnitz",
+                "Wikidata_ID": "Q113077"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "Slovakia",
+                "original_value": "Slovakia",
+                "Wikidata_ID": "Q214"
+            }
+        ]
+    }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "GREECE",
+        "wikipedia_title": "Greece"
+      },
+      {
+        "named_entity_in_the_text": "Pelium",
+        "wikipedia_title": "Mount Pelion"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Pelium Mountain",
+        "wikipedia_title": "Pelion"
+      },
+      {
+        "named_entity_in_the_text": "EL613",
+        "wikipedia_title": "Not Found"
+      },
+      {
+        "named_entity_in_the_text": "Zagora",
+        "wikipedia_title": "Zagora, Pelion"
+      },
+      {
+        "named_entity_in_the_text": "Volos",
+        "wikipedia_title": "Volos, Greece"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (disambiguation)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region (disambiguation)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "agricultural holdings",
+        "wikipedia_title": "Agricultural holding"
+      },
+      {
+        "named_entity_in_the_text": "settlement",
+        "wikipedia_title": "Settlement"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "List of provinces in Canada"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "List of regions of Canada"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Zagora",
+        "wikipedia_title": "Zagora"
+      },
+      {
+        "named_entity_in_the_text": "Pelium mountain",
+        "wikipedia_title": "Mount Pelion"
+      },
+      {
+        "named_entity_in_the_text": "Thessaly",
+        "wikipedia_title": "Thessaly"
+      },
+      {
+        "named_entity_in_the_text": "Greece",
+        "wikipedia_title": "Greece"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Zagora",
+        "wikipedia_title": "Zagora"
+      },
+      {
+        "named_entity_in_the_text": "women",
+        "wikipedia_title": "Women"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "cooperative",
+        "wikipedia_title": "Cooperative"
+      },
+      {
+        "named_entity_in_the_text": "business model",
+        "wikipedia_title": "Business model"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "EU",
+        "wikipedia_title": "European Union"
+      },
+      {
+        "named_entity_in_the_text": "Cropland",
+        "wikipedia_title": "Agricultural land"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "MRL",
+        "wikipedia_title": "Mediterranean Region of Lazio"
+      },
+      {
+        "named_entity_in_the_text": "NUTS3",
+        "wikipedia_title": "NUTS 3 regions of the European Union"
+      },
+      {
+        "named_entity_in_the_text": "EL532",
+        "wikipedia_title": "None found"
+      },
+      {
+        "named_entity_in_the_text": "EL651",
+        "wikipedia_title": "None found"
+      }
+    ]
+  }
+]

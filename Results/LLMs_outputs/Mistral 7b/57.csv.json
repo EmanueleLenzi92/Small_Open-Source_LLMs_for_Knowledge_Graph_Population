@@ -1,0 +1,202 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "VC 16 CZ",
+                "wikipedia_title": "VC 16 CZ"
+            },
+            {
+                "named_entity_in_the_text": "family (better to say unmarried couple)",
+                "wikipedia_title": "Family"
+            },
+            {
+                "named_entity_in_the_text": "rosehips",
+                "wikipedia_title": "Rosehip"
+            },
+            {
+                "named_entity_in_the_text": "mountains (e.g. clean air)",
+                "wikipedia_title": "Mountain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Jeseniky mountains",
+                "wikipedia_title": "Jeseniky Mountains"
+            },
+            {
+                "named_entity_in_the_text": "LAU 1 Jeseník",
+                "wikipedia_title": "LAU 1 Jeseník"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Regional label",
+                "wikipedia_title": "Regional label"
+            },
+            {
+                "named_entity_in_the_text": "e-shop",
+                "wikipedia_title": "E-commerce"
+            },
+            {
+                "named_entity_in_the_text": "raw food (drink) product",
+                "wikipedia_title": "Raw food"
+            },
+            {
+                "named_entity_in_the_text": "Wine",
+                "wikipedia_title": "Wine"
+            },
+            {
+                "named_entity_in_the_text": "rosehips",
+                "wikipedia_title": "Rosehip"
+            },
+            {
+                "named_entity_in_the_text": "Jesenik spa",
+                "wikipedia_title": "Jesenik Spa"
+            },
+            {
+                "named_entity_in_the_text": "family business",
+                "wikipedia_title": "Family business"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rosehips",
+                "wikipedia_title": "Rosehip"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Roseship wine",
+                "wikipedia_title": "Rosé wine"
+            },
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "Jesenik spa",
+                "wikipedia_title": "Priessnitz Spa"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous innovation"
+            },
+            {
+                "named_entity_in_the_text": "Rosehips",
+                "wikipedia_title": "Rosehip"
+            },
+            {
+                "named_entity_in_the_text": "New products",
+                "wikipedia_title": "Innovation in product development"
+            },
+            {
+                "named_entity_in_the_text": "Rosehip bush",
+                "wikipedia_title": "Rosehip cultivation"
+            },
+            {
+                "named_entity_in_the_text": "Natural and cultural assets",
+                "wikipedia_title": "Nature conservation"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "company",
+                "wikipedia_title": "Company"
+            },
+            {
+                "named_entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "named_entity_in_the_text": "Slovakia",
+                "wikipedia_title": "Slovakia"
+            }
+        ]
+    }
+]

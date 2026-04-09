@@ -1,0 +1,97 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "cooperatives",
+                "wikipedia_title": "Cooperative"
+            },
+            {
+                "named_entity_in_the_text": "firms",
+                "wikipedia_title": "Firm"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Bergama",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "named_entity_in_the_text": "İzmir",
+                "wikipedia_title": "İzmir"
+            },
+            {
+                "named_entity_in_the_text": "Madra Mountains",
+                "wikipedia_title": "Madra Mountains",
+                "Note": "Kozak may not have a dedicated Wikipedia page"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Bergama-Kozak plateau",
+                "wikipedia_title": "Madra Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Kozak plateau (Madra Mountains)",
+                "wikipedia_title": "Madra Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Bergama/Kozak",
+                "wikipedia_title": "Madra Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Ministry of Forestry",
+                "wikipedia_title": "Ministry of Environment and Urban Planning"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Kozak",
+                "wikipedia_title": "Kozak, Bergama"
+            },
+            {
+                "named_entity_in_the_text": "Bergama",
+                "wikipedia_title": "Bergama District"
+            },
+            {
+                "named_entity_in_the_text": "Turkish Patent and Trademark Office",
+                "wikipedia_title": "Turkish Patent and Trademark Office"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Kozak plateau",
+                "wikipedia_title": "Kozak Plateau"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "AUSTRIA",
+        "wikipedia_title": "Austria"
+      },
+      {
+        "named_entity_in_the_text": "AT",
+        "wikipedia_title": "Austria (country code)"
+      },
+      {
+        "named_entity_in_the_text": "Almo Steirisches Almochsenfleisch",
+        "wikipedia_title": "Almo Steirisches Almochsenfleisch"
+      },
+      {
+        "named_entity_in_the_text": "Association Steirische Bergland Marktgemeinschaft",
+        "wikipedia_title": "Association Steirische Bergland Marktgemeinschaft"
+      },
+      {
+        "named_entity_in_the_text": "Almenland Marketing GmbH",
+        "wikipedia_title": "Almenland Marketing GmbH"
+      },
+      {
+        "named_entity_in_the_text": "AgrarMarkt Austria",
+        "wikipedia_title": "AgrarMarkt Austria"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Austrian Alps",
+        "wikipedia_title": "Alpen"
+      },
+      {
+        "named_entity_in_the_text": "Weiz",
+        "wikipedia_title": "Weiz"
+      },
+      {
+        "named_entity_in_the_text": "Europe",
+        "wikipedia_title": "Europe"
+      },
+      {
+        "named_entity_in_the_text": "Almenland",
+        "wikipedia_title": "Alpenland"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "Province",
+        "wikipedia_title": "Province (geography)"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Region (geography)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "Region",
+        "wikipedia_title": "Regional (geography)"
+      },
+      {
+        "named_entity_in_the_text": "LAU",
+        "wikipedia_title": "Local administrative unit"
+      },
+      {
+        "named_entity_in_the_text": "30",
+        "wikipedia_title": "None found"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "[Province]",
+        "wikipedia_title": "Province (Canada)"
+      },
+      {
+        "named_entity_in_the_text": "[Region]",
+        "wikipedia_title": "Region (Canada)"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "ALMO",
+        "wikipedia_title": "Alp Oxen Farmers Association"
+      },
+      {
+        "named_entity_in_the_text": "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+        "wikipedia_title": "LEADER (European Union program)"
+      }
+    ]
+  },
+  {
+    "named_entities": []
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "ALMO",
+        "wikipedia_title": "Alpine Livestock Management Organisation"
+      },
+      {
+        "named_entity_in_the_text": "VC",
+        "wikipedia_title": "Value Chain"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "ALMO",
+        "wikipedia_title": "Almenland Management Organisation"
+      },
+      {
+        "named_entity_in_the_text": "LEADER",
+        "wikipedia_title": "European Regional Development Fund"
+      }
+    ]
+  },
+  {
+    "named_entities": [
+      {
+        "named_entity_in_the_text": "ALMO",
+        "wikipedia_title": "Alpine Livestock Management Organisation"
+      },
+      {
+        "named_entity_in_the_text": "Austria",
+        "wikipedia_title": "Austria"
+      },
+      {
+        "named_entity_in_the_text": "Lower Austria",
+        "wikipedia_title": "Lower Austria"
+      },
+      {
+        "named_entity_in_the_text": "Carinthia",
+        "wikipedia_title": "Carinthia"
+      }
+    ]
+  }
+]

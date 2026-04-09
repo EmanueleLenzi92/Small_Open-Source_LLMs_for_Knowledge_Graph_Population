@@ -1,0 +1,162 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "MOVING reference member state",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "named_entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "tea plantations",
+                "wikipedia_title": "Tea plantation"
+            },
+            {
+                "named_entity_in_the_text": "General Directorate of Tea Enterprises (Çay-Kur)",
+                "wikipedia_title": "General Directorate of Tea Enterprises"
+            },
+            {
+                "named_entity_in_the_text": "tea sector",
+                "wikipedia_title": "Tea industry"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Eastern Black Sea Mountains",
+                "wikipedia_title": "Eastern Black Sea Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Güneysu",
+                "wikipedia_title": "Güneysu"
+            },
+            {
+                "named_entity_in_the_text": "Rize Province",
+                "wikipedia_title": "Rize Province"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize"
+            },
+            {
+                "named_entity_in_the_text": "Tea",
+                "wikipedia_title": "Tea"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize"
+            },
+            {
+                "named_entity_in_the_text": "Turkish Patent and Trademark Office",
+                "wikipedia_title": "Turkish Patent and Trademark Office"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "High production costs",
+                "wikipedia_title": "High production costs"
+            },
+            {
+                "named_entity_in_the_text": "ageing of tea plantations",
+                "wikipedia_title": "Ageing of tea plantations"
+            },
+            {
+                "named_entity_in_the_text": "difficulties in finding local and qualified laborers for harvesting",
+                "wikipedia_title": "Difficulties in finding local and qualified laborers for harvesting"
+            },
+            {
+                "named_entity_in_the_text": "logistics problems in transporting tea leaves to processing plants due to the particular geography of the region and effects of climatic change",
+                "wikipedia_title": "Logistics problems in transporting tea leaves to processing plants due to the particular geography of the region and effects of climatic change"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Cropland",
+                "wikipedia_title": "Land use"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    }
+]

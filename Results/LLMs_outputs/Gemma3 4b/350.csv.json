@@ -1,0 +1,197 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "SPAIN ADEGUA",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "Sierras Cazorla",
+                "wikipedia_title": "Cazorla Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Segura",
+                "wikipedia_title": "Segura River"
+            },
+            {
+                "named_entity_in_the_text": "Las Villas",
+                "wikipedia_title": "Las Villas"
+            },
+            {
+                "named_entity_in_the_text": "Granada",
+                "wikipedia_title": "Granada"
+            },
+            {
+                "named_entity_in_the_text": "Sierra de Castril",
+                "wikipedia_title": "Sierra de Castril"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betic System"
+            },
+            {
+                "named_entity_in_the_text": "Castril",
+                "wikipedia_title": "Castril, Granada"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            },
+            {
+                "named_entity_in_the_text": "Mediterranean",
+                "wikipedia_title": "Mediterranean Sea"
+            },
+            {
+                "named_entity_in_the_text": "Alps",
+                "wikipedia_title": "Alps"
+            },
+            {
+                "named_entity_in_the_text": "Spain",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "UNESCO",
+                "wikipedia_title": "UNESCO"
+            },
+            {
+                "named_entity_in_the_text": "14.COM",
+                "wikipedia_title": "14th Session of the Intergovernmental Committee for Protection of the Intangible Cultural Heritage of Humanity"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+                "wikipedia_title": "Sierras de Cazorla, Segura and Las Villas Natural Park"
+            },
+            {
+                "named_entity_in_the_text": "Jaén",
+                "wikipedia_title": "Jaén"
+            },
+            {
+                "named_entity_in_the_text": "Castril",
+                "wikipedia_title": "Castril"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Morena",
+                "wikipedia_title": "Sierra Morena"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "transhumance",
+                "wikipedia_title": "Transhumance"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Soria",
+                "wikipedia_title": "Soria"
+            },
+            {
+                "named_entity_in_the_text": "Cuenca",
+                "wikipedia_title": "Cuenca"
+            },
+            {
+                "named_entity_in_the_text": "La Rioja",
+                "wikipedia_title": "La Rioja"
+            },
+            {
+                "named_entity_in_the_text": "Andalusia",
+                "wikipedia_title": "Andalusia"
+            },
+            {
+                "named_entity_in_the_text": "Cazorla",
+                "wikipedia_title": "Cazorla"
+            },
+            {
+                "named_entity_in_the_text": "Segura",
+                "wikipedia_title": "Segura (Jaén)"
+            },
+            {
+                "named_entity_in_the_text": "Las Villas",
+                "wikipedia_title": "Las Villas"
+            },
+            {
+                "named_entity_in_the_text": "Jaén",
+                "wikipedia_title": "Jaén"
+            },
+            {
+                "named_entity_in_the_text": "Granada",
+                "wikipedia_title": "Granada"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Morena",
+                "wikipedia_title": "Sierra Morena"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Nevada",
+                "wikipedia_title": "Sierra Nevada"
+            },
+            {
+                "named_entity_in_the_text": "Granada",
+                "wikipedia_title": "Granada"
+            }
+        ]
+    }
+]

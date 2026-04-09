@@ -1,0 +1,157 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "N/A",
+                "Wikidata_ID": "Q929804"
+            },
+            {
+                "originalKey": "Undredal Stølsysteri SA",
+                "original_value": "N/A",
+                "Wikidata_ID": "Q929804"
+            },
+            {
+                "originalKey": "Slowfood Foundation for Biodiversity",
+                "original_value": "Slow Food",
+                "Wikidata_ID": "Q335823"
+            },
+            {
+                "originalKey": "Norwegian Presidium for the Brimost cheese",
+                "original_value": "N/A",
+                "Wikidata_ID": "Q929804"
+            },
+            {
+                "originalKey": "Undredal Brown Cheese Presidium",
+                "original_value": "N/A",
+                "Wikidata_ID": "Q929804"
+            },
+            {
+                "originalKey": "Undredal",
+                "original_value": "Undredal",
+                "Wikidata_ID": "Q1006480"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains - Scandes",
+                "original_value": "Scandes",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Aurland",
+                "original_value": "Aurland",
+                "Wikidata_ID": "Q137638989"
+            },
+            {
+                "originalKey": "Sognefjorden",
+                "original_value": "Sognefjord",
+                "Wikidata_ID": "Q208495"
+            },
+            {
+                "originalKey": "The West Norwegian Fjords of Geirangefjord and Nærøyfjord UNESCO World Heritage Site",
+                "original_value": "West Norwegian Fjords",
+                "Wikidata_ID": "Q12269990"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Undfredal",
+                "original_value": "Undredal",
+                "Wikidata_ID": "Q1006480"
+            },
+            {
+                "originalKey": "Aureland",
+                "original_value": "Aurland",
+                "Wikidata_ID": "Q137638989"
+            },
+            {
+                "originalKey": "Norsk Gardsost",
+                "original_value": "Norsk Gardsost",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Slowfood Presidium",
+                "original_value": "Presidia (Slow Food)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sweden",
+                "original_value": "Sweden",
+                "Wikidata_ID": "Q34"
+            },
+            {
+                "originalKey": "Jämtland",
+                "original_value": "Jämtland",
+                "Wikidata_ID": "Q211661"
+            },
+            {
+                "originalKey": "Slowfood Foundation for Biodiversity",
+                "original_value": "Slow Food",
+                "Wikidata_ID": "Q335823"
+            }
+        ]
+    }
+]

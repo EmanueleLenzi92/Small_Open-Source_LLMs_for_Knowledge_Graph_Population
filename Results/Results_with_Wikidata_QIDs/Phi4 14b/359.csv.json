@@ -1,0 +1,163 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "ADEGUA",
+                "original_value": "Adega Cooperativa de Gran Canaria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Canary Islands",
+                "original_value": "Canary Islands",
+                "Wikidata_ID": "Q5813"
+            },
+            {
+                "originalKey": "Gran Canaria",
+                "original_value": "Gran Canaria",
+                "Wikidata_ID": "Q178925"
+            },
+            {
+                "originalKey": "San Mateo",
+                "original_value": "San Mateo (Gran Canaria)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Tejeda",
+                "original_value": "Tejeda, Gran Canaria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Artenara",
+                "original_value": "Artenara",
+                "Wikidata_ID": "Q706892"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Gran Canaria Island",
+                "original_value": "Gran Canaria",
+                "Wikidata_ID": "Q178925"
+            },
+            {
+                "originalKey": "Tejeda",
+                "original_value": "Tejeda, Gran Canaria",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Gran Canaria Biosphere Reserve",
+                "original_value": "Gran Canaria",
+                "Wikidata_ID": "Q178925"
+            },
+            {
+                "originalKey": "Asociación Charamusco Carboneros de la Cumbre",
+                "original_value": "Charamusco",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cabildo",
+                "original_value": "Cabildo of Gran Canaria",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Gran Canaria Biosphere Reserve",
+                "original_value": "La Gran Canaria Biosphere Reserve",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Carbón de La Cumbre",
+                "original_value": null,
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Forest Stewardship Council",
+                "original_value": "Forest Stewardship Council",
+                "Wikidata_ID": "Q748367"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Andalusia",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            },
+            {
+                "originalKey": "Basque Country",
+                "original_value": "Basque Country",
+                "Wikidata_ID": "Q3373413"
+            },
+            {
+                "originalKey": "Navarre",
+                "original_value": "Navarre",
+                "Wikidata_ID": "Q4018"
+            }
+        ]
+    }
+]

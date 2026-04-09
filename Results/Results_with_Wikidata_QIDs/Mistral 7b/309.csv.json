@@ -1,0 +1,286 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "Skandinavian Uco",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 16 SCA",
+                "original_value": "VC 16 SCA",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "original_value": "Scandes",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Trysil",
+                "original_value": "Trysil",
+                "Wikidata_ID": "Q48529"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "regional population",
+                "original_value": "Regional population",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavian countries",
+                "original_value": "Scandinavia",
+                "Wikidata_ID": "Q21195"
+            },
+            {
+                "originalKey": "VCs of the area",
+                "original_value": "Tourism in Scandinavia",
+                "Wikidata_ID": "Q21195"
+            },
+            {
+                "originalKey": "cultural and natural assets",
+                "original_value": "Cultural heritage tourism",
+                "Wikidata_ID": "Q2559423"
+            },
+            {
+                "originalKey": "Websites",
+                "original_value": "Online travel booking",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Regional associations",
+                "original_value": "Tourism industry",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "local products",
+                "original_value": "Local food tourism",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "family businesses and local organisations",
+                "original_value": "Small business tourism",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavian mountains",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "fly fishing",
+                "original_value": "Fly fishing",
+                "Wikidata_ID": "Q898886"
+            },
+            {
+                "originalKey": "hunting",
+                "original_value": "Hunting",
+                "Wikidata_ID": "Q36963"
+            },
+            {
+                "originalKey": "dairies",
+                "original_value": "Dairy farming",
+                "Wikidata_ID": "Q14096331"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "COVID-19 Pandemic",
+                "original_value": "COVID-19 pandemic",
+                "Wikidata_ID": "Q81068910"
+            },
+            {
+                "originalKey": "Climate Change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "Arctic and snow based touristic sector",
+                "original_value": "Arctic tourism",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Sustainable tourism",
+                "original_value": "Sustainable tourism",
+                "Wikidata_ID": "Q1344240"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Tourism activities and approches",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "Small family bussinesses and farms",
+                "original_value": "Small business",
+                "Wikidata_ID": "Q1109680"
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Process innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Crop",
+                "Wikidata_ID": "Q235352"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Natural assets",
+                "original_value": "Nature conservation",
+                "Wikidata_ID": "Q20113959"
+            },
+            {
+                "originalKey": "Social assets",
+                "original_value": "Social capital",
+                "Wikidata_ID": "Q214693"
+            },
+            {
+                "originalKey": "Cultural assets",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vadsø",
+                "original_value": "Vadsø",
+                "Wikidata_ID": "Q126494003"
+            },
+            {
+                "originalKey": "Oppdal",
+                "original_value": "Oppdal",
+                "Wikidata_ID": "Q131756830"
+            },
+            {
+                "originalKey": "Hardangervidda National Park",
+                "original_value": "Hardangervidda National Park",
+                "Wikidata_ID": "Q1140044"
+            },
+            {
+                "originalKey": "Lapland Region",
+                "original_value": "Lapland",
+                "Wikidata_ID": "Q1079386"
+            },
+            {
+                "originalKey": "Norbotten",
+                "original_value": "Norbotten",
+                "Wikidata_ID": "Q211649"
+            }
+        ]
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "PORTUGAL",
+                "wikipedia_title": "Portugal"
+            },
+            {
+                "named_entity_in_the_text": "Manteigas",
+                "wikipedia_title": "Manteigas"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Manteigas",
+                "wikipedia_title": "Manteigas"
+            },
+            {
+                "named_entity_in_the_text": "Portugal",
+                "wikipedia_title": "Portugal"
+            },
+            {
+                "named_entity_in_the_text": "Guarda",
+                "wikipedia_title": "Guarda (district)"
+            },
+            {
+                "named_entity_in_the_text": "Centre region of Portugal",
+                "wikipedia_title": "Central Region (Portugal)"
+            },
+            {
+                "named_entity_in_the_text": "Seia",
+                "wikipedia_title": "Seia"
+            },
+            {
+                "named_entity_in_the_text": "Covilhã",
+                "wikipedia_title": "Covilhã"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_[Country]"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_[Country]"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_[Country]"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_[Country]"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Portuguese",
+                "wikipedia_title": "Portugal"
+            },
+            {
+                "named_entity_in_the_text": "Mountain areas",
+                "wikipedia_title": "Mountain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Manteigas",
+                "wikipedia_title": "Manteigas"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Mineral Water",
+                "wikipedia_title": "Mineral water"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Serra da Estrela",
+                "wikipedia_title": "Serra_da_Estrela"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Serra da Estrela",
+                "wikipedia_title": "Serra_da_Estrela"
+            },
+            {
+                "named_entity_in_the_text": "Gouveia",
+                "wikipedia_title": "Gouveia,_Portugal"
+            },
+            {
+                "named_entity_in_the_text": "Manteigas",
+                "wikipedia_title": "Manteigas"
+            },
+            {
+                "named_entity_in_the_text": "Seia",
+                "wikipedia_title": "Seia"
+            },
+            {
+                "named_entity_in_the_text": "Tagus",
+                "wikipedia_title": "Tagus_River"
+            },
+            {
+                "named_entity_in_the_text": "Mondego",
+                "wikipedia_title": "Mondego_River"
+            }
+        ]
+    }
+]

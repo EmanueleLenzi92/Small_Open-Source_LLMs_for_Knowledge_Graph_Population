@@ -1,0 +1,361 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Osttiroler Lämmerring",
+                "original_value": "Osttiroler Lämmerring",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Raiffeisen cooperative East-Tyrol",
+                "original_value": "Raiffeisen",
+                "Wikidata_ID": "Q1700182"
+            },
+            {
+                "originalKey": "East-Tyrol",
+                "original_value": "Styria",
+                "Wikidata_ID": "Q41358"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "RR 11",
+                "original_value": "Rhön",
+                "Wikidata_ID": "Q148988"
+            },
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Alpen (Austria)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Lienz",
+                "original_value": "Lienz",
+                "Wikidata_ID": "Q336250"
+            },
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "Tyrol",
+                "original_value": "Tyrol",
+                "Wikidata_ID": "Q153809"
+            },
+            {
+                "originalKey": "Hohe Tauern",
+                "original_value": "Hohe Tauern",
+                "Wikidata_ID": "Q679359"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Gailtal valley",
+                "original_value": "Gailtal Valley",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "2020.11",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "395",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "3660",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "53.625",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "26.55",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-1.45%",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "59.90",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "7.08%",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Europe",
+                "Wikidata_ID": "Q6470668"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "wool",
+                "original_value": "Wool",
+                "Wikidata_ID": "Q42329"
+            },
+            {
+                "originalKey": "cattle",
+                "original_value": "Cattle",
+                "Wikidata_ID": "Q830"
+            },
+            {
+                "originalKey": "Genussregion",
+                "original_value": "Region of culinary delight (Austria)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "original_value": "Agrarmarkt Austria",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sheep farming",
+                "original_value": "Animal husbandry",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "this region",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1950s",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "marketing opportunities",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cultural landscapes",
+                "original_value": "Cultural landscape",
+                "Wikidata_ID": "Q1129474"
+            },
+            {
+                "originalKey": "cultivated traditional sheep breeds",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "sheep farming",
+                "original_value": "Sheep farming",
+                "Wikidata_ID": "Q1790941"
+            },
+            {
+                "originalKey": "Climate change",
+                "original_value": "Climate Change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "Biodiversity loss",
+                "original_value": "Biodiversity Loss",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "neophytes",
+                "original_value": "Neophytes",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "water balance",
+                "original_value": "Water balance",
+                "Wikidata_ID": "Q1148989"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous Innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "husbandry",
+                "original_value": "Husbandry",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "local speciality",
+                "original_value": "Local Specialty",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing Strategies",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pasture farming",
+                "original_value": "Pasture Farming",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "social",
+                "original_value": "Social",
+                "Wikidata_ID": "Q8425"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "East Tyrol",
+                "original_value": "East Tyrol",
+                "Wikidata_ID": "Q1195398"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "VC AT 13 and 15",
+                "original_value": "List of Austrian regions",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

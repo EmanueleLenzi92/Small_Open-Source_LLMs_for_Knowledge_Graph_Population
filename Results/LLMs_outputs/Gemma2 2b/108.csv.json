@@ -1,0 +1,298 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "VC 17 GR",
+                "wikipedia_title": "VC 17 GR"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "HELMOS",
+                "wikipedia_title": "Helmos"
+            },
+            {
+                "named_entity_in_the_text": "KILLINI",
+                "wikipedia_title": "Killini"
+            },
+            {
+                "named_entity_in_the_text": "ZIRIA",
+                "wikipedia_title": "Zira"
+            },
+            {
+                "named_entity_in_the_text": "KORINTHIA",
+                "wikipedia_title": "Korinthian"
+            },
+            {
+                "named_entity_in_the_text": "Feneos Plateau",
+                "wikipedia_title": "Feneos Plateau"
+            },
+            {
+                "named_entity_in_the_text": "Ziria",
+                "wikipedia_title": "Zira"
+            },
+            {
+                "named_entity_in_the_text": "Chelmos",
+                "wikipedia_title": "Chelmos"
+            },
+            {
+                "named_entity_in_the_text": "Aroania",
+                "wikipedia_title": "Aroania"
+            },
+            {
+                "named_entity_in_the_text": "Oligyrtos",
+                "wikipedia_title": "Oligyrtos"
+            },
+            {
+                "named_entity_in_the_text": "Saitas",
+                "wikipedia_title": "Saitas"
+            },
+            {
+                "named_entity_in_the_text": "Patras",
+                "wikipedia_title": "Patras"
+            },
+            {
+                "named_entity_in_the_text": "Athens",
+                "wikipedia_title": "Athens"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "912",
+                "wikipedia_title": "Minimum altimetry"
+            },
+            {
+                "named_entity_in_the_text": "1024",
+                "wikipedia_title": "Maximum altimetry"
+            },
+            {
+                "named_entity_in_the_text": "2.359",
+                "wikipedia_title": "Population (in thousand)"
+            },
+            {
+                "named_entity_in_the_text": "10.44",
+                "wikipedia_title": "Population density (Inhabitants/km2) in the LAU"
+            },
+            {
+                "named_entity_in_the_text": "0.55%",
+                "wikipedia_title": "Population change rate of the LAU in the last 10 years (%)"
+            },
+            {
+                "named_entity_in_the_text": "37.1",
+                "wikipedia_title": "Overall regional population density (Inhabitants/km2)"
+            },
+            {
+                "named_entity_in_the_text": "-0.03%",
+                "wikipedia_title": "Regional population change rate in the last 10 years (%)"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Feneos"
+            },
+            {
+                "named_entity_in_the_text": "north-easter Peloponnese",
+                "wikipedia_title": "Peloponnese"
+            },
+            {
+                "named_entity_in_the_text": "legumes",
+                "wikipedia_title": "Legumes"
+            },
+            {
+                "named_entity_in_the_text": "Feneou vanilla beans",
+                "wikipedia_title": "Feneou Vanilla Beans"
+            },
+            {
+                "named_entity_in_the_text": "Feneou fava beans",
+                "wikipedia_title": "Fava Beans"
+            },
+            {
+                "named_entity_in_the_text": "PGI products",
+                "wikipedia_title": "Protected Geographical Indication (PGI)"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Feneos",
+                "wikipedia_title": "Fenos"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Legumes",
+                "wikipedia_title": "Legumes"
+            },
+            {
+                "named_entity_in_the_text": "clime change",
+                "wikipedia_title": "Climate Change"
+            },
+            {
+                "named_entity_in_the_text": "cultivated plants",
+                "wikipedia_title": "Cultivated Plants"
+            },
+            {
+                "named_entity_in_the_text": "Feneos legumes",
+                "wikipedia_title": "Fenos Legumes"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            },
+            {
+                "named_entity_in_the_text": "domestic market",
+                "wikipedia_title": "Domestic Market"
+            },
+            {
+                "named_entity_in_the_text": "imported",
+                "wikipedia_title": "Imported Goods"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "named_entity_in_the_text": "cultivation",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "named_entity_in_the_text": "knowledge capital",
+                "wikipedia_title": "Intellectual Capital"
+            },
+            {
+                "named_entity_in_the_text": "marketing",
+                "wikipedia_title": "Marketing"
+            },
+            {
+                "named_entity_in_the_text": "local farmers",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "named_entity_in_the_text": "municipality administration",
+                "wikipedia_title": "Local Government"
+            },
+            {
+                "named_entity_in_the_text": "geographic indication (PGI)",
+                "wikipedia_title": "Geographical Indication"
+            },
+            {
+                "named_entity_in_the_text": "beans",
+                "wikipedia_title": "Bean"
+            },
+            {
+                "named_entity_in_the_text": "yellow split pea",
+                "wikipedia_title": "Split Pea"
+            },
+            {
+                "named_entity_in_the_text": "Cropland",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "named_entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "named_entity_in_the_text": "social",
+                "wikipedia_title": "Social"
+            },
+            {
+                "named_entity_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Wesdwestern Macedonia",
+                "wikipedia_title": "Western Macedonia"
+            },
+            {
+                "named_entity_in_the_text": "MRL - NUTS3",
+                "wikipedia_title": "NUTS regions of North Macedonia"
+            },
+            {
+                "named_entity_in_the_text": "EL531, EL532, EL533",
+                "wikipedia_title": "List of NUTS subdivisions in North Macedonia"
+            }
+        ]
+    }
+]

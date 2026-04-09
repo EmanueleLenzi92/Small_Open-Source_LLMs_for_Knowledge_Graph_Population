@@ -1,0 +1,191 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN ADEGUA",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "Aragonese Territory",
+                "wikipedia_title": "Aragon"
+            },
+            {
+                "named_entity_in_the_text": "Torres de Berrellén melon",
+                "wikipedia_title": "Melon"
+            },
+            {
+                "named_entity_in_the_text": "province of Zaragoza",
+                "wikipedia_title": "Zaragoza"
+            },
+            {
+                "named_entity_in_the_text": "Government of Aragon",
+                "wikipedia_title": "Government of Aragon"
+            },
+            {
+                "named_entity_in_the_text": "European Agricultural Fund for Rural Development (EAFRD)",
+                "wikipedia_title": "European Agricultural Fund for Rural Development"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Pyrenees",
+                "wikipedia_title": "Pyrénées"
+            },
+            {
+                "named_entity_in_the_text": "Jaca (Ascara)",
+                "wikipedia_title": "Jaca"
+            },
+            {
+                "named_entity_in_the_text": "Canal de Berdún",
+                "wikipedia_title": "Canal de Berdún"
+            },
+            {
+                "named_entity_in_the_text": "Huesca",
+                "wikipedia_title": "Province of Huesca"
+            },
+            {
+                "named_entity_in_the_text": "Zaragoza",
+                "wikipedia_title": "Province of Zaragoza"
+            },
+            {
+                "named_entity_in_the_text": "Torres de Berrellén",
+                "wikipedia_title": "Torres de Berrellén"
+            },
+            {
+                "named_entity_in_the_text": "Alagón",
+                "wikipedia_title": "Alagón"
+            },
+            {
+                "named_entity_in_the_text": "Montañana",
+                "wikipedia_title": "Montañana"
+            },
+            {
+                "named_entity_in_the_text": "Gardeniers farm",
+                "wikipedia_title": null
+            },
+            {
+                "named_entity_in_the_text": "Cielos de Ascara",
+                "wikipedia_title": null
+            },
+            {
+                "named_entity_in_the_text": "Jaca",
+                "wikipedia_title": "Jaca"
+            },
+            {
+                "named_entity_in_the_text": "Jacetania",
+                "wikipedia_title": "Jacetania"
+            },
+            {
+                "named_entity_in_the_text": "Natura 2000 Network",
+                "wikipedia_title": "Natura 2000"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aragonese Pyrenees",
+                "wikipedia_title": "Pyrenees"
+            },
+            {
+                "named_entity_in_the_text": "Cielos de Ascara",
+                "wikipedia_title": "Cielos de Ascara"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Aragon",
+                "wikipedia_title": "Aragon"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "San Juan de la Peña",
+                "wikipedia_title": "San Juan de la Peña"
+            },
+            {
+                "named_entity_in_the_text": "Monte Oroel",
+                "wikipedia_title": "Monte Oroel"
+            },
+            {
+                "named_entity_in_the_text": "Natural Park of the Western Valleys",
+                "wikipedia_title": "Natural Park of the Western Valleys"
+            },
+            {
+                "named_entity_in_the_text": "Torres de Berrellén",
+                "wikipedia_title": "Torres de Berrellén"
+            },
+            {
+                "named_entity_in_the_text": "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+                "wikipedia_title": "Centro de Investigación y Tecnología Agroalimentaria de Aragón"
+            },
+            {
+                "named_entity_in_the_text": "Montañana",
+                "wikipedia_title": "Montañana"
+            },
+            {
+                "named_entity_in_the_text": "ATADES",
+                "wikipedia_title": "ATADES"
+            },
+            {
+                "named_entity_in_the_text": "Mercazaragoza",
+                "wikipedia_title": "Mercazaragoza"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            }
+        ]
+    }
+]

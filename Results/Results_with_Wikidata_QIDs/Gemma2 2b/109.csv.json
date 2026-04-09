@@ -1,0 +1,336 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Pelium",
+                "original_value": "Mount Pelion",
+                "Wikidata_ID": "Q1334825"
+            },
+            {
+                "originalKey": "VC 18 GR",
+                "original_value": "VC 18 GR",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pelium Mountain",
+                "original_value": "Pelia Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EL613",
+                "original_value": "EL613",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Zagora",
+                "original_value": "Zagora, Greece",
+                "Wikidata_ID": "Q2466197"
+            },
+            {
+                "originalKey": "Volos",
+                "original_value": "Volos",
+                "Wikidata_ID": "Q200036"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "150.3",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "0",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1624",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "202.401",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "78.20",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-0.03%",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "51.4",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-0.04%",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Europe",
+                "Wikidata_ID": "Q6470668"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Zagora",
+                "original_value": "Zagora",
+                "Wikidata_ID": "Q1408803"
+            },
+            {
+                "originalKey": "Pelium mountain",
+                "original_value": "Peloponnese",
+                "Wikidata_ID": "Q78967"
+            },
+            {
+                "originalKey": "Thessaly",
+                "original_value": "Thrace",
+                "Wikidata_ID": "Q41741"
+            },
+            {
+                "originalKey": "Apple cultivation",
+                "original_value": "Apple cultivation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Greek",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "International",
+                "original_value": "International",
+                "Wikidata_ID": "Q2292662"
+            },
+            {
+                "originalKey": "Zagora apples",
+                "original_value": "Zagora Apples",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "PDO/PGI",
+                "original_value": "Protected Designation of Origin (PDO)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Apple cultivation",
+                "original_value": "Apple cultivation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Zagora",
+                "original_value": "Zagora",
+                "Wikidata_ID": "Q1408803"
+            },
+            {
+                "originalKey": "Greek and international market",
+                "original_value": "International Market",
+                "Wikidata_ID": "Q19923354"
+            },
+            {
+                "originalKey": "Apple cultivation",
+                "original_value": "Apple cultivation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Zagora apples",
+                "original_value": "Zagora Apples",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Zagora",
+                "original_value": "Zagora, Morocco",
+                "Wikidata_ID": "Q140354"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "List of farmers in Morocco",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "women",
+                "original_value": "Women's rights in Morocco",
+                "Wikidata_ID": "Q3039912"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "international market competition",
+                "original_value": "Market Competition",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate Change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "trees",
+                "original_value": "Tree",
+                "Wikidata_ID": "Q10884"
+            },
+            {
+                "originalKey": "harvest",
+                "original_value": "Harvest",
+                "Wikidata_ID": "Q213753"
+            },
+            {
+                "originalKey": "economic uncertainty",
+                "original_value": "Economic Uncertainty",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cooperative",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capitalist",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EU projects",
+                "original_value": "European Union (EU)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Integrated Production",
+                "original_value": "Integrated production",
+                "Wikidata_ID": "Q2297743"
+            },
+            {
+                "originalKey": "Organic Production",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "apple chips for diabetics",
+                "original_value": "Diabetic food",
+                "Wikidata_ID": "Q899519"
+            },
+            {
+                "originalKey": "petimezi",
+                "original_value": "Apple juice",
+                "Wikidata_ID": "Q618355"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "MRL",
+                "original_value": "NUTS",
+                "Wikidata_ID": "Q1265417"
+            },
+            {
+                "originalKey": "EL532",
+                "original_value": "El532 (NUTS)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EL651",
+                "original_value": "El651 (NUTS)",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

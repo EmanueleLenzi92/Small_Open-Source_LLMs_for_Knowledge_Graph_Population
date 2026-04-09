@@ -1,0 +1,190 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Pelium",
+                "original_value": "Mount Pelion",
+                "Wikidata_ID": "Q1334825"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pelium Mountain",
+                "original_value": "Pelion",
+                "Wikidata_ID": "Q1334825"
+            },
+            {
+                "originalKey": "EL613",
+                "original_value": "Not Found",
+                "Wikidata_ID": "Q404"
+            },
+            {
+                "originalKey": "Zagora",
+                "original_value": "Zagora, Pelion",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Volos",
+                "original_value": "Volos, Greece",
+                "Wikidata_ID": "Q200036"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province (disambiguation)",
+                "Wikidata_ID": "Q4644326"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region (disambiguation)",
+                "Wikidata_ID": "Q2138164"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List of provinces in Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "List of regions of Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Zagora",
+                "original_value": "Zagora",
+                "Wikidata_ID": "Q1408803"
+            },
+            {
+                "originalKey": "Pelium mountain",
+                "original_value": "Mount Pelion",
+                "Wikidata_ID": "Q1334825"
+            },
+            {
+                "originalKey": "Thessaly",
+                "original_value": "Thessaly",
+                "Wikidata_ID": "Q166919"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Zagora",
+                "original_value": "Zagora",
+                "Wikidata_ID": "Q1408803"
+            },
+            {
+                "originalKey": "women",
+                "original_value": "Women",
+                "Wikidata_ID": "Q467"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "cooperative",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            },
+            {
+                "originalKey": "business model",
+                "original_value": "Business model",
+                "Wikidata_ID": "Q815823"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EU",
+                "original_value": "European Union",
+                "Wikidata_ID": "Q458"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Agricultural land",
+                "Wikidata_ID": "Q3395383"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "MRL",
+                "original_value": "Mediterranean Region of Lazio",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "NUTS3",
+                "original_value": "NUTS 3 regions of the European Union",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EL532",
+                "original_value": "None found",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EL651",
+                "original_value": "None found",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Undredal",
+                "wikipedia_title": "Undredal"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food"
+            },
+            {
+                "named_entity_in_the_text": "Undredal Stølsysteri SA",
+                "wikipedia_title": "Undredal Stølsysteri SA"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains - Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Aurland",
+                "wikipedia_title": "Aurland"
+            },
+            {
+                "named_entity_in_the_text": "Aurland Fiord",
+                "wikipedia_title": "Aurlandsfjorden"
+            },
+            {
+                "named_entity_in_the_text": "Nærøyfjorden",
+                "wikipedia_title": "Nærøyfjorden"
+            },
+            {
+                "named_entity_in_the_text": "The West Norwegian Fjords of Geirangefjord and Nærøyfjord UNESCO World Heritage Site",
+                "wikipedia_title": "West Norwegian Fjords"
+            },
+            {
+                "named_entity_in_the_text": "Undredal",
+                "wikipedia_title": "Undredal"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Undfredal",
+                "wikipedia_title": "Aureland"
+            },
+            {
+                "named_entity_in_the_text": "Norsk Gardsost",
+                "wikipedia_title": "Norsk Gardsost"
+            },
+            {
+                "named_entity_in_the_text": "Slowfood Presidium",
+                "wikipedia_title": "Slow Food"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food"
+            }
+        ]
+    }
+]

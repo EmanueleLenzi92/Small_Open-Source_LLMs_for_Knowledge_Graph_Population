@@ -1,0 +1,110 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandinavisk Ulfhovedkommune"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavean Mountains - Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Trysil",
+                "wikipedia_title": "Tysfjell"
+            },
+            {
+                "named_entity_in_the_text": "Sweden",
+                "wikipedia_title": "Sweden"
+            },
+            {
+                "named_entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Local Administrative Unit",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Geographical region"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavian countries",
+                "wikipedia_title": "Scandinavia"
+            },
+            {
+                "named_entity_in_the_text": "Regional associations",
+                "wikipedia_title": "Regional association"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Scandinavian mountains",
+                "wikipedia_title": "Scandinavian Mountains"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Arctic",
+                "wikipedia_title": "Arctic"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Vadsø",
+                "wikipedia_title": "Vådsø"
+            },
+            {
+                "named_entity_in_the_text": "Oppdal",
+                "wikipedia_title": "Oppdal"
+            },
+            {
+                "named_entity_in_the_text": "Hardangervidda National Park",
+                "wikipedia_title": "Hardangervidda National Park"
+            },
+            {
+                "named_entity_in_the_text": "Lapland Region",
+                "wikipedia_title": "Lapland"
+            },
+            {
+                "named_entity_in_the_text": "Norbotten",
+                "wikipedia_title": "Norrbotten"
+            }
+        ]
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "VC 10 AT",
+                "wikipedia_title": "Value Chain (VC) 10 AT"
+            },
+            {
+                "named_entity_in_the_text": "Osttiroler Lämmerring",
+                "wikipedia_title": "Osttiroler Lämmerring"
+            },
+            {
+                "named_entity_in_the_text": "Raiffeisen cooperative East-Tyrol",
+                "wikipedia_title": "Raiffeisen cooperative East-Tyrol"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "RR 11",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "named_entity_in_the_text": "Lienz (No: 707 = NUTS3: AT 333)",
+                "wikipedia_title": "Lienz"
+            },
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "named_entity_in_the_text": "regional population",
+                "wikipedia_title": "Regional population"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "The average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "named_entity_in_the_text": "The per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "named_entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "named_entity_in_the_text": "The primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "named_entity_in_the_text": "The secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "named_entity_in_the_text": "The tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "sheeps",
+                "wikipedia_title": "Sheep"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            },
+            {
+                "named_entity_in_the_text": "mountain farming",
+                "wikipedia_title": "Mountain farming"
+            },
+            {
+                "named_entity_in_the_text": "pasture farming",
+                "wikipedia_title": "Pasture farming"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sheep farming",
+                "wikipedia_title": "Sheep farming"
+            },
+            {
+                "named_entity_in_the_text": "this region",
+                "wikipedia_title": "Regions of the United Kingdom"
+            },
+            {
+                "named_entity_in_the_text": "The shift to meat production in the 1950s",
+                "wikipedia_title": "Meat industry in the United Kingdom"
+            },
+            {
+                "named_entity_in_the_text": "cultural landscapes",
+                "wikipedia_title": "Cultural landscape"
+            },
+            {
+                "named_entity_in_the_text": "cultivated traditional sheep breeds",
+                "wikipedia_title": "Sheep breeds"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "region",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "named_entity_in_the_text": "mountains",
+                "wikipedia_title": "Alps"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "named_entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "husbandry",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "named_entity_in_the_text": "marketing",
+                "wikipedia_title": "Marketing"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Innovation in marketing"
+            },
+            {
+                "named_entity_in_the_text": "pasture farming",
+                "wikipedia_title": "Pasture farming"
+            },
+            {
+                "named_entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "named_entity_in_the_text": "social and cultural",
+                "wikipedia_title": "Social capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Austria-wide",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "VC AT 13",
+                "wikipedia_title": "Vorarlberg (Austria)"
+            },
+            {
+                "named_entity_in_the_text": "VC AT 15",
+                "wikipedia_title": "Vorarlberg (Austria)"
+            }
+        ]
+    }
+]

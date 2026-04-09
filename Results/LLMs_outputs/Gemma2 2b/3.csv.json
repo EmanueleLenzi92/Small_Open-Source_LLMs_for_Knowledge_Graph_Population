@@ -1,0 +1,258 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "VC 03 AT",
+                "wikipedia_title": "VC 03 AT"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "RR 11",
+                "wikipedia_title": "Rhine Valley (Austria)"
+            },
+            {
+                "named_entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Alpen, Austria"
+            },
+            {
+                "named_entity_in_the_text": "Weiz",
+                "wikipedia_title": "Weiz, Austria"
+            },
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland, Styria"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "1098",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "464",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1720",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "90.654",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "82.56",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "3.68%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "76.28",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "3.30%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "4310",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "2.77%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "4555",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "100000",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Almenland Nature Park",
+                "wikipedia_title": "Almenland Nature Park"
+            },
+            {
+                "named_entity_in_the_text": "Almenland Kräuter",
+                "wikipedia_title": "Almenland Kräuter"
+            },
+            {
+                "named_entity_in_the_text": "herb farmers",
+                "wikipedia_title": "List of herbalists"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "named_entity_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "Agrarmarkt Österreich"
+            },
+            {
+                "named_entity_in_the_text": "nature park",
+                "wikipedia_title": "Nature Park"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate Change"
+            },
+            {
+                "named_entity_in_the_text": "herbs",
+                "wikipedia_title": "Herb"
+            },
+            {
+                "named_entity_in_the_text": "irrigation",
+                "wikipedia_title": "Irrigation"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capitalist"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "named_entity_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Innovation (economics)"
+            },
+            {
+                "named_entity_in_the_text": "products",
+                "wikipedia_title": "List of products"
+            },
+            {
+                "named_entity_in_the_text": "tea",
+                "wikipedia_title": "Tea"
+            },
+            {
+                "named_entity_in_the_text": "herbal salt",
+                "wikipedia_title": "Salt"
+            },
+            {
+                "named_entity_in_the_text": "birch sugar",
+                "wikipedia_title": "Birch Sugar"
+            },
+            {
+                "named_entity_in_the_text": "soaps",
+                "wikipedia_title": "Soap"
+            },
+            {
+                "named_entity_in_the_text": "creams",
+                "wikipedia_title": "Cream"
+            },
+            {
+                "named_entity_in_the_text": "incense materials",
+                "wikipedia_title": "Incense"
+            },
+            {
+                "named_entity_in_the_text": "New products",
+                "wikipedia_title": "Product development"
+            },
+            {
+                "named_entity_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "named_entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "named_entity_in_the_text": "Natural and cultural",
+                "wikipedia_title": "Cultural heritage"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Austrian",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "herbs",
+                "wikipedia_title": "Herb"
+            }
+        ]
+    }
+]

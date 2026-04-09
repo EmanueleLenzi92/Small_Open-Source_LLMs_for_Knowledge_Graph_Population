@@ -1,0 +1,152 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "VC 17 GR",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "HELMOS",
+                "original_value": "Helmus",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "KILLINI",
+                "original_value": "Killini",
+                "Wikidata_ID": "Q1685886"
+            },
+            {
+                "originalKey": "ZIRIA",
+                "original_value": "Ziria",
+                "Wikidata_ID": "Q8072760"
+            },
+            {
+                "originalKey": "KORINTHIA",
+                "original_value": "Corinthia (region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Feneos Plateau",
+                "original_value": "Feneos Plateau",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Ziria",
+                "original_value": "Ziria",
+                "Wikidata_ID": "Q8072760"
+            },
+            {
+                "originalKey": "Chelmos",
+                "original_value": "Chelmos",
+                "Wikidata_ID": "Q630782"
+            },
+            {
+                "originalKey": "Oligyrtos",
+                "original_value": "Oligyrtos",
+                "Wikidata_ID": "Q7086865"
+            },
+            {
+                "originalKey": "Saitas",
+                "original_value": "Saitas",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Patras",
+                "original_value": "Patras",
+                "Wikidata_ID": "Q133123"
+            },
+            {
+                "originalKey": "Athens",
+                "original_value": "Athens",
+                "Wikidata_ID": "Q1524"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Plateau of Feneos",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Peloponnese",
+                "original_value": "Peloponnese",
+                "Wikidata_ID": "Q78967"
+            },
+            {
+                "originalKey": "The local cooperative",
+                "original_value": "The local cooperative",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Feneos",
+                "original_value": "Feneos",
+                "Wikidata_ID": "Q3566598"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Wesdtern Macedonia",
+                "original_value": "Western Macedonia",
+                "Wikidata_ID": "Q165408"
+            },
+            {
+                "originalKey": "Macedonia",
+                "original_value": "North Macedonia",
+                "Wikidata_ID": "Q221"
+            }
+        ]
+    }
+]

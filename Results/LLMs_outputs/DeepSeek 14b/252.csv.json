@@ -1,0 +1,146 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SCOTLAND HUTTON",
+                "wikipedia_title": "Scotland Hutton"
+            },
+            {
+                "named_entity_in_the_text": "Highlands and Islands of Scotland",
+                "wikipedia_title": "Highlands and Islands"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross (LAU1)",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Blair Atholl Estates",
+                "wikipedia_title": "Blair Atholl Estate"
+            },
+            {
+                "named_entity_in_the_text": "Glen Lyon",
+                "wikipedia_title": "Glen Lyon"
+            },
+            {
+                "named_entity_in_the_text": "www.highlandgame.com",
+                "wikipedia_title": "Highland Game"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands"
+            },
+            {
+                "named_entity_in_the_text": "Eastern Scotland",
+                "wikipedia_title": "Eastern Scotland"
+            },
+            {
+                "named_entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "named_entity_in_the_text": "Tay",
+                "wikipedia_title": "River Tay"
+            },
+            {
+                "named_entity_in_the_text": "Earn",
+                "wikipedia_title": "River Earn"
+            },
+            {
+                "named_entity_in_the_text": "Perth",
+                "wikipedia_title": "Perth"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Atholl estate",
+                "wikipedia_title": "Atholl Estate"
+            },
+            {
+                "named_entity_in_the_text": "Blair Atholl and Glen Lyon estate",
+                "wikipedia_title": "Blair Atholl and Glen Lyon Estate"
+            },
+            {
+                "named_entity_in_the_text": "Scottish Quality Wild Vensions",
+                "wikipedia_title": "Scottish Quality Wild Venison"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "wildlife conservation organisations",
+                "wikipedia_title": "Wildlife conservation"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Highland and Islands",
+                "wikipedia_title": "Highland and Islands"
+            },
+            {
+                "named_entity_in_the_text": "Aberdeenshire",
+                "wikipedia_title": "Aberdeenshire"
+            },
+            {
+                "named_entity_in_the_text": "Badendoch",
+                "wikipedia_title": "Badenoch"
+            },
+            {
+                "named_entity_in_the_text": "Strathsphey",
+                "wikipedia_title": "Strathspey"
+            },
+            {
+                "named_entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "named_entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    }
+]

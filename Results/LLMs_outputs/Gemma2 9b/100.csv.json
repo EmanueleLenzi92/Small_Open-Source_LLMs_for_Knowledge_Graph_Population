@@ -1,0 +1,144 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Cretan Diet Festival",
+                "wikipedia_title": "Cretan diet"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti Mountains",
+                "wikipedia_title": "Dikti Mountains"
+            },
+            {
+                "named_entity_in_the_text": "VIANNOS",
+                "wikipedia_title": " Viannos"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti mountain landscape",
+                "wikipedia_title": "Dikte Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "named_entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            },
+            {
+                "named_entity_in_the_text": "Viannos",
+                "wikipedia_title": "Viannos"
+            },
+            {
+                "named_entity_in_the_text": "North America",
+                "wikipedia_title": "North America"
+            },
+            {
+                "named_entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoan civilization"
+            },
+            {
+                "named_entity_in_the_text": "PanCretan Network",
+                "wikipedia_title": "Crete"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti Mountain",
+                "wikipedia_title": "Dikte Mountains"
+            },
+            {
+                "named_entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe vera"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti area",
+                "wikipedia_title": "Dikte"
+            },
+            {
+                "named_entity_in_the_text": "Viannos",
+                "wikipedia_title": "Viannos"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Dikti region",
+                "wikipedia_title": "Dikte"
+            },
+            {
+                "named_entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoan civilization"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "named_entity_in_the_text": "Andalusia, Spain",
+                "wikipedia_title": "Andalusia"
+            },
+            {
+                "named_entity_in_the_text": "European consumers",
+                "wikipedia_title": "Europeans"
+            }
+        ]
+    }
+]

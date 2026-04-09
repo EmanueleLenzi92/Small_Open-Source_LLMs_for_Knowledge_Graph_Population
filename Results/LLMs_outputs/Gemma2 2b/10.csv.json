@@ -1,0 +1,298 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Osttiroler Lämmerring",
+                "wikipedia_title": "Osttiroler Lämmerring"
+            },
+            {
+                "named_entity_in_the_text": "Raiffeisen cooperative East-Tyrol",
+                "wikipedia_title": "Raiffeisen"
+            },
+            {
+                "named_entity_in_the_text": "East-Tyrol",
+                "wikipedia_title": "Styria"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "RR 11",
+                "wikipedia_title": "Rhön"
+            },
+            {
+                "named_entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Alpen (Austria)"
+            },
+            {
+                "named_entity_in_the_text": "Lienz",
+                "wikipedia_title": "Lienz"
+            },
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Tyrol",
+                "wikipedia_title": "Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Hohe Tauern",
+                "wikipedia_title": "Hohe Tauern"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "Gailtal valley",
+                "wikipedia_title": "Gailtal Valley"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "2020.11",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "395",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "3660",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "53.625",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "26.55",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "-1.45%",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "59.90",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "7.08%",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "named_entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "named_entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "named_entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Canada"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Canada"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "sheep",
+                "wikipedia_title": "Sheep"
+            },
+            {
+                "named_entity_in_the_text": "wool",
+                "wikipedia_title": "Wool"
+            },
+            {
+                "named_entity_in_the_text": "cattle",
+                "wikipedia_title": "Cattle"
+            },
+            {
+                "named_entity_in_the_text": "Genussregion",
+                "wikipedia_title": "Region of culinary delight (Austria)"
+            },
+            {
+                "named_entity_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "Agrarmarkt Austria"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sheep farming",
+                "wikipedia_title": "Animal husbandry"
+            },
+            {
+                "named_entity_in_the_text": "this region",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "1950s",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "marketing opportunities",
+                "wikipedia_title": ""
+            },
+            {
+                "named_entity_in_the_text": "cultural landscapes",
+                "wikipedia_title": "Cultural landscape"
+            },
+            {
+                "named_entity_in_the_text": "cultivated traditional sheep breeds",
+                "wikipedia_title": ""
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "sheep farming",
+                "wikipedia_title": "Sheep farming"
+            },
+            {
+                "named_entity_in_the_text": "Climate change",
+                "wikipedia_title": "Climate Change"
+            },
+            {
+                "named_entity_in_the_text": "Biodiversity loss",
+                "wikipedia_title": "Biodiversity Loss"
+            },
+            {
+                "named_entity_in_the_text": "neophytes",
+                "wikipedia_title": "Neophytes"
+            },
+            {
+                "named_entity_in_the_text": "water balance",
+                "wikipedia_title": "Water balance"
+            },
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "named_entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous Innovation"
+            },
+            {
+                "named_entity_in_the_text": "husbandry",
+                "wikipedia_title": "Husbandry"
+            },
+            {
+                "named_entity_in_the_text": "local speciality",
+                "wikipedia_title": "Local Specialty"
+            },
+            {
+                "named_entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing Strategies"
+            },
+            {
+                "named_entity_in_the_text": "Pasture farming",
+                "wikipedia_title": "Pasture Farming"
+            },
+            {
+                "named_entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "named_entity_in_the_text": "social",
+                "wikipedia_title": "Social"
+            },
+            {
+                "named_entity_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "East Tyrol",
+                "wikipedia_title": "East Tyrol"
+            },
+            {
+                "named_entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "named_entity_in_the_text": "VC AT 13 and 15",
+                "wikipedia_title": "List of Austrian regions"
+            }
+        ]
+    }
+]

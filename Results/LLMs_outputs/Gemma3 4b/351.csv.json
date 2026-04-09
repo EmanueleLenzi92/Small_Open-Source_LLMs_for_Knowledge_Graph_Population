@@ -1,0 +1,145 @@
+[
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "named_entity_in_the_text": "SPAIN ADEGUA",
+                "wikipedia_title": "Spain"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betic System"
+            },
+            {
+                "named_entity_in_the_text": "Carcabuey",
+                "wikipedia_title": "Carcabuey"
+            },
+            {
+                "named_entity_in_the_text": "Sierra Subbética",
+                "wikipedia_title": "Sierra Subbética"
+            }
+        ]
+    },
+    {
+        "named_entities": []
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "named_entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "elderly",
+                "wikipedia_title": "Elderly"
+            },
+            {
+                "named_entity_in_the_text": "mountain centres",
+                "wikipedia_title": "Mountain"
+            },
+            {
+                "named_entity_in_the_text": "immigrant",
+                "wikipedia_title": "Immigrant"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "PROMI",
+                "wikipedia_title": "PROMI (company)"
+            },
+            {
+                "named_entity_in_the_text": "Provincial Council",
+                "wikipedia_title": "Provincial Council"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Sierra",
+                "wikipedia_title": "Sierra Leone"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "named_entity_in_the_text": "public services",
+                "wikipedia_title": "Public service"
+            },
+            {
+                "named_entity_in_the_text": "public-private partnerships",
+                "wikipedia_title": "Public-private partnership"
+            },
+            {
+                "named_entity_in_the_text": "governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "named_entity_in_the_text": "urban space",
+                "wikipedia_title": "Urban space"
+            },
+            {
+                "named_entity_in_the_text": "infrastructures",
+                "wikipedia_title": "Infrastructure"
+            },
+            {
+                "named_entity_in_the_text": "Social",
+                "wikipedia_title": "Social science"
+            },
+            {
+                "named_entity_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "named_entities": [
+            {
+                "named_entity_in_the_text": "Subbética",
+                "wikipedia_title": "Subbética"
+            }
+        ]
+    }
+]
