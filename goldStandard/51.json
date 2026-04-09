@@ -1,0 +1,80 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "CZECH REPUBLIC",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Giant Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q214644",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Trutnov",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q320950",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Kralovehradecky",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q193295",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    }
+]

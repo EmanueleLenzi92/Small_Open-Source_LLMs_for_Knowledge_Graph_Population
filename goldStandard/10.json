@@ -1,0 +1,158 @@
+[
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "AUSTRIA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "East-Tyrol",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1195398",
+				"type":"ne"
+            },
+                        {
+                "Wikipedia_label": "Raiffeisen",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2127545",
+				"type":"ne"
+            },
+                        {
+                "Wikipedia_label": "Osttiroler Lämmerring",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "austria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Austrian Alps",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q327434",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austrian",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "Wikipedia_label": "Lienz",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q336250",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "East Tyrol",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1195398",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Tyrol",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q42880",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Hohe Tauern",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q679359",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Tauernfenster",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1983348",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Gailtal valley",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q178226",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+ 
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "East Tyrol",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1195398",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Genussregion",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "AgrarMarkt Austria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Austria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "East Tyrol",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1195398",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            }
+        ]
+    }
+]

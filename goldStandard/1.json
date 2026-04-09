@@ -1,0 +1,169 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "AUSTRIA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q40",
+                "Type": "GPE"
+            },
+
+            {
+                "Wikipedia_label": "Association Steirische Bergland Marktgemeinschaft",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+                "Type": "ORG"
+            },
+            {
+                "Wikipedia_label": "ALMO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+                "Type": "LOC"
+            },
+            {
+                "Wikipedia_label": "Almenland Marketing GmbH",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+                "Type": "ORG"
+            },
+
+            {
+                "Wikipedia_label": "Austrian Program for Environmentally Sound Agriculture (ÖPUL)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+                "Type": "ORG"
+            },
+            {
+                "Wikipedia_label": "AgrarMarkt Austria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Austrian Alps",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q327434",
+                "Type": "GPE"
+            },
+            {
+                "Wikipedia_label": "Weiz",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q875641",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Styrian",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q41358",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Almenland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q998643",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q46",
+                "Type": "LOC"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "ALMO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+                "Type": "ORG"
+            },
+            {
+                "Wikipedia_label": "Austrian",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "Wikipedia_label": "Weiz",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q875641",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Gleisdorf",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q643600",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Almenland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q998643",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [           
+			{
+                "Wikipedia_label": "ALMO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+		]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "ALMO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Almenland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q998643",
+				"type":"ne"
+            },           
+			{
+                "Wikipedia_label": "System Haberl",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+           {
+                "Wikipedia_label": "Austria",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Lower Austria",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q42497",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Carinthia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q37985",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "ALMO",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    }
+]

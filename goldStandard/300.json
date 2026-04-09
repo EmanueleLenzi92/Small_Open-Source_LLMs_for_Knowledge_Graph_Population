@@ -1,0 +1,105 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Roros",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q108999",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rorosmat",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Scandinavean Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q186547",
+				"type":"ne"
+            }, 
+            {
+                "Wikipedia_label": "Scandes",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q186547",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Tynset",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q488779",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Østerdalen",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q308349",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Norway",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q20",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Norway",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q20",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rorosmat",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Rorosmat",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    }
+]

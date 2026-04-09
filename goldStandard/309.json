@@ -1,0 +1,141 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Norway",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q20",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Scandinavean Mountains - Scandes",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q186547",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Scandes",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q186547",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Trysil",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q48529",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sweden",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q34",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Norway",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q20",
+				"type":"ne"
+            }
+          
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+ 
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Scandinavian",
+                "Wikidata_ID": "Q21195"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Scandinavian",
+                "Wikidata_ID": "Q21195"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Norway",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q20",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Vadsø",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q104379",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Oppdal",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q113595",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Hardangervidda National Park",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1140044",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Uvdal",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q48924",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Ullensvang",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q484077",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Lapland Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q5700",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Finland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q33",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sweden",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q34",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Norbotten",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q103686",
+				"type":"ne"
+            }
+        ]
+    }
+]

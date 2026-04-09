@@ -1,0 +1,184 @@
+[
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "TURKEY",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "TURKSTAT",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1375058"
+            },
+            {
+                "Wikipedia_label": "Mugla",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q216912",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Menteşe Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1400572",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Ula",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1803032",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Mugla",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q216912",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7855305",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Muğla",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q216912",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Rainforest Alliance",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2034373",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Switzerland",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q39",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austria",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q213",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "France",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q142",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Greece",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q41",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Hungary",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q28",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Italy",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q38",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Romania",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q218",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Serbia",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q403",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Slovakia",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q214",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Spain",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q29",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UK",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q145",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "North Macedonia",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q221",
+				"type":"ne"
+            }
+        ]
+    }
+]
