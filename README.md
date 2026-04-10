@@ -183,7 +183,7 @@ To run the project, you may need the following Python libraries and tools:
 - `requests`
 - `torch`
 - `relik` <https://github.com/SapienzaNLP/relik>
-- `kilt`
+- `kilt` <https://github.com/facebookresearch/KILT>
 - `matplotlib`
 - `pandas`
 
