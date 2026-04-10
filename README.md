@@ -5,9 +5,9 @@ This project investigates the use of **small open-source Large Language Models (
 
 The extracted entities are linked to **Wikidata** identifiers in order to obtain structured, reusable knowledge.
 
-As a baseline, the project uses **ReLik**, a state-of-the-art system for **entity linking**, to compare the performance of the tested LLMs.
+As a baseline, the project uses **ReLik** (<https://github.com/SapienzaNLP/relik>), a state-of-the-art system for **entity linking**, to compare the performance of the tested LLMs.
 
-The real-world use case is based on data provided by the **Horizon 2020 MOVING project** <https://www.moving-h2020.eu/>, specifically a set of textual descriptions of selected european mountain value chains.
+The real-world use case is based on data provided by the **Horizon 2020 MOVING project** (<https://www.moving-h2020.eu/>), specifically a set of textual descriptions of selected european mountain value chains.
 
 ---
 
